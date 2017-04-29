@@ -1,4 +1,4 @@
-Sitemap: http://www.stacken.kth.se/sitemapindex.xml
+Sitemap: https://stacken.github.io/w3/sitemapindex.xml
 
 User-Agent: *
-Host: www.stacken.kth.se
+Host: stacken.github.io

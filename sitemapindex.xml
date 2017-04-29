@@ -6,23 +6,23 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://www.stacken.kth.se/en/galleries/rss.xml</loc>
-  <lastmod>2017-04-22T20:33:00Z</lastmod>
+  <loc>https://stacken.github.io/w3/en/galleries/rss.xml</loc>
+  <lastmod>2017-04-29T12:35:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.stacken.kth.se/en/rss.xml</loc>
-  <lastmod>2017-04-22T20:16:00Z</lastmod>
+  <loc>https://stacken.github.io/w3/en/rss.xml</loc>
+  <lastmod>2017-04-29T12:35:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.stacken.kth.se/galleries/rss.xml</loc>
-  <lastmod>2017-04-22T20:33:00Z</lastmod>
+  <loc>https://stacken.github.io/w3/galleries/rss.xml</loc>
+  <lastmod>2017-04-29T12:35:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.stacken.kth.se/rss.xml</loc>
-  <lastmod>2017-04-22T20:16:00Z</lastmod>
+  <loc>https://stacken.github.io/w3/rss.xml</loc>
+  <lastmod>2017-04-29T12:35:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://www.stacken.kth.se/sitemap.xml</loc>
-  <lastmod>2017-04-22T20:33:00Z</lastmod>
+  <loc>https://stacken.github.io/w3/sitemap.xml</loc>
+  <lastmod>2017-04-29T12:35:00Z</lastmod>
  </sitemap>
 </sitemapindex>
