@@ -61,4 +61,23 @@ MESSAGES = {
     "box3.text": "Stacken har varit på och runt KTH i 40 år och varit med om födelsen av både den moderna datorn och internet som vi känner det i dag. ",
     "box3.button.text": "Historia",
     "box3.button.url": "#",
+
+    "bottom.kalendar.title": "Aktuellt på Stacken",
+    "bottom.right.title": "Stacken",
+    "bottom.right.text": "Skriv nått smart här ...",
+
+    "board.title": "Styrelsen 2017",
+    "board.ordf": "Ordf",
+    "board.vordf": "Vordf",
+    "board.kass": "Kass",
+    "board.sekr": "Sekr",
+    "board.board": "Ledamot",
+
+    "contact.title": "Kontakta oss",
+    "contact.tech": "Tekniskt",
+    "contact.board": "Styrelsen",
+    "contact.other": "Övrigt",
+    "contact.addr": "Adress",
+    "contact.room": "Lokalen",
+
 }

@@ -61,4 +61,22 @@ MESSAGES = {
     "box3.text": "Stacken have been around in 40 years and we have seen the birth of the modern computer and the internet.",
     "box3.button.text": "History",
     "box3.button.url": "#",
+
+    "bottom.kalendar.title": "Stacken News",
+    "bottom.right.title": "Stacken",
+    "bottom.right.text": "Write something smart here ...",
+
+    "board.title": "Board 2017",
+    "board.ordf": "Char.",
+    "board.vordf": "VChar.",
+    "board.kass": "Cash.",
+    "board.sekr": "Secr.",
+    "board.board": "Board",
+
+    "contact.title": "Contact",
+    "contact.tech": "Technology",
+    "contact.board": "Board",
+    "contact.other": "Other",
+    "contact.addr": "Address",
+    "contact.room": "Clubroom",
 }
