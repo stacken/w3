@@ -1,0 +1,4 @@
+Sitemap: http://www.stacken.kth.se/sitemapindex.xml
+
+User-Agent: *
+Host: www.stacken.kth.se
