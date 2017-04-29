@@ -4,7 +4,6 @@
 .. description:
 -->
 
-Stacken är en datorförening för studenter och anställda vid KTH. Föreningens syfte är att främja intresset för och vidga kunskaper inom datorområdet.
+{{% banner title="Aktuellt" text="Stackenförelsäning om Random Sort i O(1)" %}}
 
-Är du intresserad av datorer och student eller anställd vid KTH eller SU? Bli medlem i Stacken!
-
+<span style="font-size: 1.5em">Stacken är en datorförening för studenter och anställda vid KTH. Föreningens syfte är att främja intresset för och vidga kunskaper inom datorområdet.</span>
