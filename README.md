@@ -1,0 +1,22 @@
+# Stacken (maybe future web?)
+
+This repository is built with the static site generator [Nikola](https://getnikola.com/),
+based on the design [Dopetrope](https://html5up.net/dopetrope) from [HTML5 UP](https://html5up.net/).
+
+## How it works
+
+Nikola is a static site generator, with means that it reads the jinja template files from `themes/dopetrope` together with `pages` and `posts` and generate a static page that is served from a simple web server. This is simple, secure and easy to maintain.
+
+To build/use this on your computer we assume a few things like that you have virtualenv installed and the needed dependencies to build and setup a python 3 build environment.
+
+### Build the project
+
+Just type `make`, this will output the result to `output/`
+
+### Local server
+
+A easy and nice way to test your page, just type `make server`, point your browser to [localhost:8080](http://localhost:8000).
+
+## Update the theme
+
+The theme rests inside `themes/dopetrope/`, the jinja template files are inside the `templates` directory. Nikola actually contains a large set of default jinja template files and the one here are the one that we have overridden. For a full list of available template functions see `.env/lib/python3.5/site-packages/nikola/data/themes/base-jinja/` (with is of course only available after a `make`, `make .env` or similar.
