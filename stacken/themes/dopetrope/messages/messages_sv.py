@@ -46,4 +46,19 @@ MESSAGES = {
     "page %d": "sida %d",
     "{month} {day}, {year}": "",
     "{month} {year}": "",
+
+    "box1.title": "Projekt och Aktiviteter",
+    "box1.text": "Vi erbjuder gemensamma projekt att arbeta på, tjänster för medlemmar, föreningar eller sektioner att använda. Föreläsningar och andra kul aktiviteter.",
+    "box1.button.text": "Läs mer",
+    "box1.button.url": "#",
+
+    "box2.title": "För studenter",
+    "box2.text": "Stacken är en datorförening för studenter och anställda vid KTH. Föreningens syfte är att främja intresset för och vidga kunskaper inom datorområdet.",
+    "box2.button.text": "Bli medlem",
+    "box2.button.url": "#",
+
+    "box3.title": "40 år av Stacken",
+    "box3.text": "Stacken har varit på och runt KTH i 40 år och varit med om födelsen av både den moderna datorn och internet som vi känner det i dag. ",
+    "box3.button.text": "Historia",
+    "box3.button.url": "#",
 }

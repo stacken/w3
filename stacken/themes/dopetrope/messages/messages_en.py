@@ -46,4 +46,19 @@ MESSAGES = {
     "page %d": "page %d",
     "{month} {day}, {year}": "{month} {day}, {year}",
     "{month} {year}": "{month} {year}",
+
+    "box1.title": "Project and Activities",
+    "box1.text": "We work on projects together and offer services for our members and other clubs and chapters. We also do lectures about interesting things.",
+    "box1.button.text": "Learn more",
+    "box1.button.url": "#",
+
+    "box2.title": "For Students",
+    "box2.text": "Stacken is a computer club for students and employees at KTH. The purpose of the club is to promote knowledge about computers and surrounding technologies.",
+    "box2.button.text": "Become a member",
+    "box2.button.url": "#",
+
+    "box3.title": "40 years of Stacken",
+    "box3.text": "Stacken have been around in 40 years and we have seen the birth of the modern computer and the internet.",
+    "box3.button.text": "History",
+    "box3.button.url": "#",
 }
