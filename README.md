@@ -24,3 +24,7 @@ The theme rests inside `themes/dopetrope/`, the jinja template files are inside 
 ## Deploy
 
 To deploy the test site to GitHub Pages type `make deploy`.
+
+## View
+
+Try it out at [stacken.github.io/w3](https://stacken.github.io/w3/), help me make it awesome!
