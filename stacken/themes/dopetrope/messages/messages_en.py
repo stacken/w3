@@ -79,4 +79,6 @@ MESSAGES = {
     "contact.other": "Other",
     "contact.addr": "Address",
     "contact.room": "Clubroom",
+    "contact.room.text": "Q building (Osquldas väg 6) 2nd floor. Usually Thursdays after 7 p.m.",
+
 }

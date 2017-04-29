@@ -79,5 +79,6 @@ MESSAGES = {
     "contact.other": "Övrigt",
     "contact.addr": "Adress",
     "contact.room": "Lokalen",
+    "contact.room.text": "Q-huset (Osquldas väg 6) plan 2. Säkrast torsdagar efter 19 och hela kvällen.",
 
 }
