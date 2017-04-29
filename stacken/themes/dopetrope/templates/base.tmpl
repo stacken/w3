@@ -2,7 +2,6 @@
 {% import 'base_helper.tmpl' as base with context %}
 {% import 'menu.tmpl' as menu with context %}
 {% import 'intro.tmpl' as intro with context %}
-{% import 'banner.tmpl' as banner with context %}
 {{ set_locale(lang) }}
 <!DOCTYPE html>
 <!--
@@ -27,9 +26,9 @@
       <link rel="canonical" href="{{ abs_link(permalink) }}">
     {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-    <link rel="stylesheet" href="assets/css/main.css" />
-    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
 </head>
 <body>
     <body class="homepage">
@@ -40,7 +39,7 @@
                     <div id="header">
                         <h1><a href="index.html">{{ blog_title }}</a></h1>
                         {{ menu.html() }}
-                        {{ banner.html() }}
+                        {% block content %}{% endblock %}
                         {{ intro.html() }}
                     </div>
                 </div>
