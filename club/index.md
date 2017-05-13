@@ -12,4 +12,10 @@ Stacken bildades 1978 och är en kårförening inom Tekniska Högskolans Student
 Vi träffas kontinuerligt på torsdagkvällar. Vi brukar vi äta någonstans tillsammans för att efter maten beger vi oss till klubblokalen och hacka resten av kvällen.
 
 Föreningen har idag ca 90 medlemmar och vi sysslar med allt från byggande av datorer, programmering på alla nivåer, systemunderhåll, datornätverk, kurser, mm. Vi är anslutna till det svenska universitetsdatornätet som har kontakt med datorer världen runt.
+
+<div class="alert alert-info" role="alert">
+  <p>Läs mer om våra olika funktionärsposter i föreningen.</p>
+  <a class="btn btn-primary" href="officers">Läs mer</a>
+</div>
+
 {{% /text-and-image %}}

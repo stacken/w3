@@ -11,10 +11,6 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/" />
  </url>
  <url>
-  <loc>https://stacken.github.io/w3/about/</loc>
-  <lastmod>2017-05-13T12:43:00Z</lastmod>
- </url>
- <url>
   <loc>https://stacken.github.io/w3/archive.html</loc>
   <lastmod>2017-05-13T16:07:00Z</lastmod>
  </url>
@@ -28,16 +24,16 @@
  </url>
  <url>
   <loc>https://stacken.github.io/w3/club/</loc>
-  <lastmod>2017-05-13T16:06:00Z</lastmod>
+  <lastmod>2017-05-13T16:18:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/club/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/club/officers/</loc>
+  <lastmod>2017-05-13T16:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/</loc>
   <lastmod>2017-05-13T16:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/en/about/</loc>
-  <lastmod>2017-05-13T12:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/archive.html</loc>
@@ -53,7 +49,12 @@
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/club/</loc>
-  <lastmod>2017-05-13T16:06:00Z</lastmod>
+  <lastmod>2017-05-13T16:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/club/officers/</loc>
+  <lastmod>2017-05-13T16:18:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/club/officers/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/galleries/</loc>
