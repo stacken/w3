@@ -17,10 +17,6 @@ Just type `make`, this will output the result to `output/`
 
 A easy and nice way to test your page, just type `make server`, point your browser to [localhost:8080](http://localhost:8000).
 
-## Update the theme
-
-The theme rests inside `themes/dopetrope/`, the jinja template files are inside the `templates` directory. Nikola actually contains a large set of default jinja template files and the one here are the one that we have overridden. For a full list of available template functions see `.env/lib/python3.5/site-packages/nikola/data/themes/base-jinja/` (with is of course only available after a `make`, `make .env` or similar.
-
 ## Deploy
 
 To deploy the test site to GitHub Pages type `make deploy`.
