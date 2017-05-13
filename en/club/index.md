@@ -13,3 +13,8 @@ On thursday evenings we usualy gather somewhere to eat, after deciding on where 
 
 Today, the club has about 90 members, doing everything from building computers to programming at all levels, systems support, networking, courses, etc. We are connected to sunet, giving access to computers around the world.
 {{% /text-and-image %}}
+
+{{% subpage-box link="/en/hitta" text="Find the clubroom" %}}
+We are on the 2nd floor of the Q-building, for more information see
+the page "Find the clubroom".
+{{% /subpage-box %}}
