@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://stacken.github.io/w3/</loc>
-  <lastmod>2017-05-13T12:43:00Z</lastmod>
+  <lastmod>2017-05-13T16:06:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/" />
  </url>
  <url>
@@ -16,7 +16,7 @@
  </url>
  <url>
   <loc>https://stacken.github.io/w3/archive.html</loc>
-  <lastmod>2017-05-13T15:15:00Z</lastmod>
+  <lastmod>2017-05-13T16:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/blog/</loc>
@@ -27,8 +27,13 @@
   <lastmod>2017-05-13T12:43:00Z</lastmod>
  </url>
  <url>
+  <loc>https://stacken.github.io/w3/club/</loc>
+  <lastmod>2017-05-13T16:06:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/club/" />
+ </url>
+ <url>
   <loc>https://stacken.github.io/w3/en/</loc>
-  <lastmod>2017-05-13T12:43:00Z</lastmod>
+  <lastmod>2017-05-13T16:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/about/</loc>
@@ -36,7 +41,7 @@
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/archive.html</loc>
-  <lastmod>2017-05-13T15:15:00Z</lastmod>
+  <lastmod>2017-05-13T16:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/blog/</loc>
@@ -45,6 +50,10 @@
  <url>
   <loc>https://stacken.github.io/w3/en/categories/</loc>
   <lastmod>2017-05-13T12:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/club/</loc>
+  <lastmod>2017-05-13T16:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/galleries/</loc>
