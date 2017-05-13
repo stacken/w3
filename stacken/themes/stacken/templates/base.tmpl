@@ -2,7 +2,7 @@
 {{ set_locale(lang) }}
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ lang }}"> 
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,10 +46,16 @@
           </button>
           <a class="navbar-brand" href="#">{{ blog_title }}</a>
         </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            {% block menu %}{% endblock %}
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            {% block lang %}{% endblock %}
+          </ul>
+        </div>
       </div>
     </nav>
-
-    {% block jumbotron %}{% endblock %}
 
     <div class="container">
       {% block content %}{% endblock %}

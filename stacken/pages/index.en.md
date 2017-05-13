@@ -4,6 +4,10 @@
 .. description:
 -->
 
+{{% jumbotron title="Stacken lecture" %}}
+Lecture in O(n) time, with really large n.
+{{% /jumbotron %}}
+
 {{% big %}}
     Stacken is a computer club for students and employees at KTH.
     The primary purpose of the club is to promote knowledge about

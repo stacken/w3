@@ -1,8 +1,12 @@
 <!--
-.. title: Välkommen
+.. title: Datorföreningen Stacken
 .. slug: index
 .. description:
 -->
+
+{{% jumbotron title="Stackenföreläsning" %}}
+Föreläs i O(n) tid vid väldigt stora n.
+{{% /jumbotron %}}
 
 {{% big %}}
 Stacken är en datorförening för studenter och anställda vid KTH.
