@@ -31,3 +31,13 @@ inom datorområdet.
         vi känner det i dag.
     {{% /3cell %}}
 {{% rowend %}}
+
+## Bli medlem
+
+{{% subpage-box text="Läs mer / Bli medlem" link="member" %}}
+Att bli medlem i Stacken kan vara ett bra sätt att få kontakt
+med andra som delar intressen. Alternativt lära sig nya saker
+och få hjälp. Stacken är även en bra resurs för att komma i
+kontakt med näringslivet då vi har god kontakter med livet
+utanför KTH.
+{{% /subpage-box %}}

@@ -30,3 +30,10 @@ Lecture in O(n) time, with really large n.
         birth of the modern computer and the internet.
     {{% /3cell %}}
 {{% rowend %}}
+
+## Become a member
+
+{{% subpage-box text="Learn more / Become a member" link="member" %}}
+Stacken is a good way to find people that share your interests,
+or alternatively learn something new from out members.
+{{% /subpage-box %}}
