@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://stacken.github.io/w3/en/galleries/rss.xml</loc>
-  <lastmod>2017-05-13T14:48:00Z</lastmod>
+  <lastmod>2017-05-13T15:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/en/rss.xml</loc>
@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/galleries/rss.xml</loc>
-  <lastmod>2017-05-13T14:48:00Z</lastmod>
+  <lastmod>2017-05-13T15:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/rss.xml</loc>
@@ -23,6 +23,6 @@
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/sitemap.xml</loc>
-  <lastmod>2017-05-13T14:48:00Z</lastmod>
+  <lastmod>2017-05-13T15:15:00Z</lastmod>
  </sitemap>
 </sitemapindex>
