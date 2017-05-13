@@ -13,9 +13,15 @@ Vi träffas kontinuerligt på torsdagkvällar. Vi brukar vi äta någonstans til
 
 Föreningen har idag ca 90 medlemmar och vi sysslar med allt från byggande av datorer, programmering på alla nivåer, systemunderhåll, datornätverk, kurser, mm. Vi är anslutna till det svenska universitetsdatornätet som har kontakt med datorer världen runt.
 
-<div class="alert alert-info" role="alert">
-  <p>Läs mer om våra olika funktionärsposter i föreningen.</p>
-  <a class="btn btn-primary" href="officers">Läs mer</a>
-</div>
-
 {{% /text-and-image %}}
+
+{{% subpage-box link="officers" text="Funktionärer" %}}
+Om du är intresserad av hur Stacken sköts, vem du ska kontakta eller
+om du vill bli involverad i föreningen så rekommenderar jag att du
+läser på undersidan funktionärer.
+{{% /subpage-box %}}
+
+{{% subpage-box link="/hitta" text="Hitta till lokalen" %}}
+Vi håller hus på plan 2 i Q-huset, behöver du mer hjälp så se läs mer
+på sidan hitta.
+{{% /subpage-box %}}
