@@ -137,6 +137,7 @@ NAVIGATION_LINKS = {
         ("/club", "Om Stacken"),
         ("/projekt", "Projekt"),
         ("/aktuellt", "Nyheter & Kalender"),
+        ("/member", "Bli medlem"),
     ),
 
     "en": (
@@ -144,6 +145,7 @@ NAVIGATION_LINKS = {
         ("/en/club", "About Stacken"),
         ("/en/projects", "Projects"),
         ("/en/current", "News & Calendar"),
+        ("/en/member", "Become a member"),
     ),
 }
 
