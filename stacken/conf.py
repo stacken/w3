@@ -134,14 +134,14 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Hem"),
-        ("/about", "Om Stacken"),
+        ("/club", "Om Stacken"),
         ("/projekt", "Projekt"),
         ("/aktuellt", "Nyheter & Kalender"),
     ),
 
     "en": (
         ("/en/", "Home"),
-        ("/en/about", "About Stacken"),
+        ("/en/club", "About Stacken"),
         ("/en/projects", "Projects"),
         ("/en/current", "News & Calendar"),
     ),
