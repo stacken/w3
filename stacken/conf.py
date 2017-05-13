@@ -134,18 +134,18 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Hem"),
-        ("/club", "Om Stacken"),
-        ("/projekt", "Projekt"),
-        ("/aktuellt", "Nyheter & Kalender"),
-        ("/member", "Bli medlem"),
+        ("/club/", "Om Stacken"),
+        ("/projekt/", "Projekt"),
+        ("/aktuellt/", "Nyheter & Kalender"),
+        ("/member/", "Bli medlem"),
     ),
 
     "en": (
         ("/en/", "Home"),
-        ("/en/club", "About Stacken"),
-        ("/en/projects", "Projects"),
-        ("/en/current", "News & Calendar"),
-        ("/en/member", "Become a member"),
+        ("/en/club/", "About Stacken"),
+        ("/en/projects/", "Projects"),
+        ("/en/current/", "News & Calendar"),
+        ("/en/member/", "Become a member"),
     ),
 }
 
