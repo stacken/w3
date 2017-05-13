@@ -5,7 +5,7 @@
 -->
 
 ### From the subway station Tekniska Högskolan, entrance "Körsbärsvägen"
-{{% text-and-image image="foo.png" alt="Place a image here" %}}
+{{% text-and-image image="pic02.jpg" alt="Place a image here" %}}
 
 
 * Follow Körsbärsvägen to the bridge over Roslagsbanan
@@ -13,7 +13,7 @@
 {{% /text-and-image %}}
 
 ### From the bus stop Stickelbärsvägen
-{{% text-and-image image="foo.png" alt="Place a image here" %}}
+{{% text-and-image image="pic03.jpg" alt="Place a image here" %}}
 
 * Cross the bridge over Roslagsbanan
 * Take the door 53C in the yellow building past the stairs
@@ -23,7 +23,7 @@
 {{% /text-and-image %}}
 
 ### From Östra Station, or from the subway station Tekniska Högskolan, entrance "Tekniska Högskolan"
-{{% text-and-image image="foo.png" alt="Place a image here" %}}
+{{% text-and-image image="pic05.jpg" alt="Place a image here" %}}
 
 * Follow följ Drottning Kristinas Väg north. Do not cross the street.
 * Pass the stuent union building

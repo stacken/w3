@@ -5,14 +5,14 @@
 -->
 
 ### Från T-Tekniska Högskolan uppgång Körsbärsvägen
-{{% text-and-image image="foo.png" alt="Place a image here" %}}
+{{% text-and-image image="pic02.jpg" alt="Place a image here" %}}
 
 * Följ Körsbärsvägen till bron över Roslagsbanan (Det är nog inte lönt att ta bussen en station)
 * Fortsätt som beskrivet nedan
 {{% /text-and-image %}}
 
 ### Från T-Tekniska Högskolan uppgång Körsbärsvägen
-{{% text-and-image image="foo.png" alt="Place a image here" %}}
+{{% text-and-image image="pic03.jpg" alt="Place a image here" %}}
 
 * Korsa Roslagsbanan (över lilla bron)
 * Ta dörren 53C på det gula huset som ligger några trappsteg ner.
@@ -22,7 +22,7 @@
 {{% /text-and-image %}}
 
 ### Från Östra Station eller T-Tekniska Högskolan uppgång Tekniska Högskolan
-{{% text-and-image image="foo.png" alt="Place a image here" %}}
+{{% text-and-image image="pic05.jpg" alt="Place a image here" %}}
 
 * Gå uppför och följ Drottning Kristinas Väg. Korsa inte gatan.
 * Passera Kårhuset
