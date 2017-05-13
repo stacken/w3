@@ -10,6 +10,11 @@ server: build
 		&& cd stacken \
 		&& nikola serve
 
+auto: build
+	. ${ENVDIR}/bin/activate \
+		&& cd stacken \
+		&& nikola auto
+
 deploy: ${ENVDIR} ${ENVDIR}/bin/nikola
 	. ${ENVDIR}/bin/activate \
 		&& cd stacken \
