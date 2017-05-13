@@ -1,0 +1,72 @@
+<form class="form-horizontal">
+  <div class="row">
+    <div class="col-md-8">
+      <div class="form-group">
+        <label for="inputEmail3" class="col-sm-2 control-label">{{ name }}</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control" id="realname" placeholder="Ture Teknolog">
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="inputPassword3" class="col-sm-2 control-label">{{ email }}</label>
+        <div class="col-sm-10">
+          <input type="email" class="form-control" id="email" placeholder="d83-ture@kth.se">
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="inputPassword3" class="col-sm-2 control-label">{{ KTH }}</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control" id="kthnamn" placeholder="d83-ture">
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="inputPassword3" class="col-sm-2 control-label">{{ phone }}</label>
+        <div class="col-sm-10">
+          <input type="phone" class="form-control" id="phone" placeholder="07xxxxxx">
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="inputPassword3" class="col-sm-2 control-label">{{ syss }}</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control" id="syssel" placeholder="Student">
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="inputPassword3" class="col-sm-2 control-label">{{ user }}</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control" id="anvandare" placeholder="ture">
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="inputPassword3" class="col-sm-2 control-label">{{ misc }}</label>
+        <div class="col-sm-10">
+          <textarea class="form-control" id="anvandare" placeholder="{{ misc2 }}">
+          </textarea>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="form-group">
+        <label for="inputPassword3" class="col-sm-2 control-label">Spam</label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control" id="SpamCheck" placeholder="1+1">
+        </div>
+      </div>
+      <div class="checkbox">
+        <label>
+          <input type="checkbox"> {{ THS }}
+        </label>
+      </div>
+      <div>
+        <p>
+          {{ data }}
+        </p>
+      </div>
+      <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+          <button type="submit" class="btn btn-primary">{{ send }}</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
