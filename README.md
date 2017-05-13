@@ -1,7 +1,7 @@
 # Stacken (maybe future web?)
 
 This repository is built with the static site generator [Nikola](https://getnikola.com/),
-based on the design [Dopetrope](https://html5up.net/dopetrope) from [HTML5 UP](https://html5up.net/).
+based on the design [Jumbotron](http://getbootstrap.com/examples/jumbotron/).
 
 ## How it works
 
