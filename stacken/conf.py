@@ -19,6 +19,7 @@ import time
 # Data about this site
 BLOG_AUTHOR = "Stacken"  # (translatable)
 BLOG_TITLE = "Datorföreningen Stacken"  # (translatable)
+
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://stacken.github.io/w3/"
@@ -154,7 +155,7 @@ THEME = "stacken"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
-THEME_COLOR = '#5670d4'
+THEME_COLOR = '#FFFFFF'
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 # (translatable)
@@ -313,7 +314,7 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-# LOGO_URL = ''
+LOGO_URL = 'images/stacken.png'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
