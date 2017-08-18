@@ -1,0 +1,27 @@
+{#  -*- coding: utf-8 -*- #}
+
+{% macro show_menu() %}
+  {% for url, text in navigation_links[lang] %}
+    {% if isinstance(url, tuple) %}
+      <li> {{ text }}
+      <ul>
+        {% for suburl, text in url %}
+          {% if rel_link(permalink, suburl) == "#" %}
+            <li class="current">
+              <a href="{{ permalink }}">{{ text }} <span class="sr-only">{{ messages("(active)", lang) }}</span></a>
+            </li>
+          {% else %}
+            <li><a href="{{ suburl }}">{{ text }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    {% else %}
+      {% if rel_link(permalink, url) == "#" %}
+        <li class="current"><a href="{{ permalink }}">{{ text }} <span class="sr-only">{{ messages("(active)", lang) }}</span></a></li>
+      {% else %}
+        <li><a href="{{ url }}">{{ text }}</a></li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endmacro %}
+

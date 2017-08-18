@@ -1,3 +1,23 @@
 {#  -*- coding: utf-8 -*- #}
 
-<!-- TODO -->
+{% extends 'base.tmpl' %}
+{% import 'menu.tmpl' as menu with context %}
+
+{#
+    This is the template for a news post with urls like /news/2017/a-news-post/
+#}
+
+{% block menu %}{{ menu.show_menu() }}{% endblock %}
+
+{% block lang %}
+    {% for langname in translations|sort %}
+        {% if langname != lang and post.is_translation_available(langname) %}
+            <li><a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a></li>
+        {% endif %}
+    {% endfor %}
+{% endblock %}
+
+{% block content %}
+    <h2>{{ post.title() }}</h2>
+    {{ post.text() }}
+{% endblock %}

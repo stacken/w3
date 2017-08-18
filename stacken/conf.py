@@ -136,8 +136,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Hem"),
         ("/club/", "Om Stacken"),
-        ("/projekt/", "Projekt"),
-        ("/aktuellt/", "Nyheter & Kalender"),
+        ("/projects/", "Projekt"),
+        ("/news/", "Nyheter & Kalender"),
         ("/member/", "Bli medlem"),
     ),
 
@@ -192,10 +192,10 @@ THEME_COLOR = '#FFFFFF'
 #     )
 
 POSTS = (
-    ("news/*.rst",  "aktuellt", "news.tmpl"),
-    ("news/*.md",   "aktuellt", "news.tmpl"),
-    ("news/*.txt",  "aktuellt", "news.tmpl"),
-    ("news/*.html", "aktuellt", "news.tmpl"),
+    ("news/*.rst",  "news", "news.tmpl"),
+    ("news/*.md",   "news", "news.tmpl"),
+    ("news/*.txt",  "news", "news.tmpl"),
+    ("news/*.html", "news", "news.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "", "page.tmpl"),
@@ -432,7 +432,9 @@ HIDDEN_TAGS = ['mathjax']
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.xml (RSS feed for a category)
 # (translatable)
 # CATEGORY_PATH = "categories"
-# CATEGORY_PREFIX = "cat_"
+CATEGORY_PREFIX = ""
+CATEGORY_PATH = "news"
+
 
 # By default, the list of categories is stored in
 #     output / TRANSLATION[lang] / CATEGORY_PATH / index.html
@@ -513,7 +515,7 @@ HIDDEN_AUTHORS = ['Guest']
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
-INDEX_PATH = "blog"
+INDEX_PATH = "news/index"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)

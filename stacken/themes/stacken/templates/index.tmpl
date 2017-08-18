@@ -1,0 +1,26 @@
+{#  -*- coding: utf-8 -*- #}
+
+{#
+    This is the /news/index/ page that lists the latest news.
+#}
+
+{% extends 'base.tmpl' %}
+{% import 'menu.tmpl' as menu with context %}
+
+{% block menu %}{{ menu.show_menu() }}{% endblock %}
+
+{% block content %}
+<h2>Nyheter & Kalender</h2>
+{% for post in posts %}
+    {% if loop.index == 1 %}
+        <div class="jumbotron">
+            <div class="container">
+                <h2><a href="{{ post.permalink() }}" class="u-url">{{ post.title()|e }}</a></h2>
+                {{ post.text(teaser_only=True) }}
+            </div>
+        </div>
+    {% else %}
+        foo
+    {% endif %}
+{% endfor %}
+{% endblock %}
