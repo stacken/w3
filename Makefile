@@ -24,5 +24,9 @@ ${ENVDIR}/bin/nikola:
 	. ${ENVDIR}/bin/activate \
 		&& pip install --upgrade "Nikola[extras]"
 
+clean:
+	rm -rf stacken/cache
+	rm -rf stacken/output
+
 ${ENVDIR}:
 	virtualenv -p python3 ${ENVDIR}
