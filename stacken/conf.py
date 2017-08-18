@@ -192,10 +192,10 @@ THEME_COLOR = '#FFFFFF'
 #     )
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
+    ("news/*.rst",  "aktuellt", "news.tmpl"),
+    ("news/*.md",   "aktuellt", "news.tmpl"),
+    ("news/*.txt",  "aktuellt", "news.tmpl"),
+    ("news/*.html", "aktuellt", "news.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "", "page.tmpl"),
