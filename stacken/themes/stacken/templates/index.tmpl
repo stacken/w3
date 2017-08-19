@@ -17,10 +17,15 @@
             <div class="container">
                 <h2><a href="{{ post.permalink() }}" class="u-url">{{ post.title()|e }}</a></h2>
                 {{ post.text(teaser_only=True) }}
+                <small>{{ post.formatted_date(date_format)|e }}</small>
             </div>
         </div>
     {% else %}
-        foo
+    <div>
+        <h2><a href="{{ post.permalink() }}" class="u-url">{{ post.title()|e }}</a></h2>
+        <small>{{ post.formatted_date(date_format)|e }}</small>
+        {{ post.text(teaser_only=True) }}
+    </div>
     {% endif %}
 {% endfor %}
 {% endblock %}
