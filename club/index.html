@@ -13,11 +13,22 @@
 <!-- Just for debugging purposes. Don't actually copy these 2 lines! --><!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]--><script src="../assets/js/ie-emulation-modes-warning.js"></script><!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --><!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <![endif]--><style>
+
+    .navbar { background-color: #000000; }
+    .navbar-brand {
+        padding: 0px;
+     }
+    .navbar-brand>img { height: 100%;
+        padding: 3px;
+        width: auto;
+    }
+
+    </style>
 </head>
 <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top"><div class="container-fluid">
+    <nav class="navbar navbar-inverse navbar-fixed-top"><div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
@@ -25,18 +36,19 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Datorföreningen Stacken</a>
+          <a class="navbar-brand" href="#"><img src="../images/stacken.png" id="logo"></a>
         </div>
         <div class="collapse navbar-collapse" id="navbar">
           <ul class="nav navbar-nav">
 <li><a href="../">Hem</a></li>
         <li class="current"><a href=".">Om Stacken <span class="sr-only">(aktiv)</span></a></li>
-        <li><a href="../projekt/">Projekt</a></li>
-        <li><a href="../aktuellt/">Nyheter &amp; Kalender</a></li>
+        <li><a href="../projects/">Projekt</a></li>
+        <li><a href="../news/index/">Nyheter &amp; Kalender</a></li>
         <li><a href="../member/">Bli medlem</a></li>
           </ul>
 <ul class="nav navbar-nav navbar-right">
 <li><a href="../en/club/" rel="alternate" hreflang="en">English</a></li>
+            <li><a href="." rel="alternate" hreflang="sv">Svenska</a></li>
           </ul>
 </div>
       </div>
@@ -62,27 +74,27 @@ Stacken bildades 1978 och är en kårförening inom Tekniska Högskolans Student
 </div> <!-- end row -->
 <p></p>
 <div class="row alert alert-info">
-  <div class="col-md-6">
+  <div class="col-md-9">
    <p>
 Om du är intresserad av hur Stacken sköts, vem du ska kontakta eller
 om du vill bli involverad i föreningen så rekommenderar jag att du
 läser på undersidan funktionärer.
 </p>
   </div>
-  <div class="col-md-6">
-    <a class="btn btn-primary" href="officers">Funktionärer</a>
+  <div class="col-md-3">
+    <a class="btn btn-primary btn-lg" href="officers">Funktionärer</a>
   </div>
 </div>
 <p></p>
 <div class="row alert alert-info">
-  <div class="col-md-6">
+  <div class="col-md-9">
    <p>
 Vi håller hus på plan 2 i Q-huset, behöver du mer hjälp så se läs mer
 på sidan hitta.
 </p>
   </div>
-  <div class="col-md-6">
-    <a class="btn btn-primary" href="../hitta">Hitta till lokalen</a>
+  <div class="col-md-3">
+    <a class="btn btn-primary btn-lg" href="../hitta">Hitta till lokalen</a>
   </div>
 </div>
 </div>
