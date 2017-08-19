@@ -1,0 +1,20 @@
+{#  -*- coding: utf-8 -*- #}
+{% extends 'base.tmpl' %}
+{% import 'macro_menu.tmpl' as menu with context %}
+
+{#
+    This is the /news/YYYY/ yearly page that lists all posts for a specific year.
+#}
+
+{% block menu %}{{ menu.show_menu() }}{% endblock %}
+
+{% block content %}
+    <h1>{{ tag }}</h1>
+    {% if posts %}
+    <ul class="postlist">
+    {% for post in posts %}
+        <li><time class="listdate" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time> - <a href="{{ post.permalink() }}" class="listtitle">{{ post.title()|e }}<a></li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+{% endblock %}
