@@ -15,7 +15,7 @@ Just type `make`, this will output the result to `output/`
 
 ### Local server
 
-A easy and nice way to test your page, just type `make server`, point your browser to [localhost:8080](http://localhost:8000).
+A easy and nice way to test your page, just type `make server`, point your browser to [localhost:8000](http://localhost:8000).
 
 ## Deploy
 
