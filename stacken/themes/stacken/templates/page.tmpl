@@ -1,39 +1,16 @@
 {#  -*- coding: utf-8 -*- #}
 
 {% extends 'base.tmpl' %}
+{% import 'macro_menu.tmpl' as menu with context %}
+{% import 'macro_lang.tmpl' as language with context %}
 
-{% block menu %}
-  {% for url, text in navigation_links[lang] %}
-    {% if isinstance(url, tuple) %}
-      <li> {{ text }}
-      <ul>
-        {% for suburl, text in url %}
-          {% if rel_link(permalink, suburl) == "#" %}
-            <li class="current">
-              <a href="{{ permalink }}">{{ text }} <span class="sr-only">{{ messages("(active)", lang) }}</span></a>
-            </li>
-          {% else %}
-            <li><a href="{{ suburl }}">{{ text }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    {% else %}
-      {% if rel_link(permalink, url) == "#" %}
-        <li class="current"><a href="{{ permalink }}">{{ text }} <span class="sr-only">{{ messages("(active)", lang) }}</span></a></li>
-      {% else %}
-        <li><a href="{{ url }}">{{ text }}</a></li>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-{% endblock %}
+{#
+    This is displays various pages from the folder pages with the base /
+    This includes the front page.
+#}
 
-{% block lang %}
-    {% for langname in translations|sort %}
-        {% if langname != lang and post.is_translation_available(langname) %}
-            <li><a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a></li>
-        {% endif %}
-    {% endfor %}
-{% endblock %}
+{% block menu %}{{ menu.show_menu() }}{% endblock %}
+{% block lang %}{{ language.lang() }}{% endblock %}
 
 {% block content %}
     <h2>{{ post.title() }}</h2>

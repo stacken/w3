@@ -1,0 +1,18 @@
+{#  -*- coding: utf-8 -*- #}
+{% extends 'base.tmpl' %}
+{% import 'macro_menu.tmpl' as menu with context %}
+
+{#
+    This is the template for /news/
+#}
+
+{% block menu %}{{ menu.show_menu() }}{% endblock %}
+
+{% block content %}
+    <h1>Nyheter</h1>
+    {% for text, full_name, path, link, indent_levels,
+            indent_change_before, indent_change_after
+            in cat_hierarchy %}
+        <a class="reference" href="{{ link }}">{{ text }}</a><br>
+    {% endfor %}
+{% endblock %}

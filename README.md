@@ -5,7 +5,7 @@ based on the design [Jumbotron](http://getbootstrap.com/examples/jumbotron/).
 
 ## How it works
 
-Nikola is a static site generator, with means that it reads the jinja template files from `themes/stacken` together with `pages` and `posts` and generate a static page that is served from a simple web server. This is simple, secure and easy to maintain.
+Nikola is a static site generator, with means that it reads the jinja template files from `themes/stacken` together with `pages` and `news` and generate a static page that is served from a simple web server. This is simple, secure and easy to maintain.
 
 To build/use this on your computer we assume a few things like that you have virtualenv installed and the needed dependencies to build and setup a python 3 build environment.
 
