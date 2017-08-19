@@ -2,7 +2,7 @@
 
 {% extends 'base.tmpl' %}
 {% import 'macro_menu.tmpl' as menu with context %}
-{% import 'macro_lang.tmpl' as lang with context %}
+{% import 'macro_lang.tmpl' as language with context %}
 
 {#
     This is displays various pages from the folder pages with the base /
@@ -10,7 +10,7 @@
 #}
 
 {% block menu %}{{ menu.show_menu() }}{% endblock %}
-{% block lang %}{{ lang.lang() }}{% endblock %}
+{% block lang %}{{ language.lang() }}{% endblock %}
 
 {% block content %}
     <h2>{{ post.title() }}</h2>
