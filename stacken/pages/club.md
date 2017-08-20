@@ -15,6 +15,7 @@ Föreningen har idag ca 90 medlemmar och vi sysslar med allt från byggande av d
 {{% /text-and-image %}}
 
 ## Address
+E-post: styrelsen@stacken.kth.se
 
 ```
  Datorföreningen Stacken

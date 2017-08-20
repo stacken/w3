@@ -15,6 +15,8 @@ Today, the club has about 90 members, doing everything from building computers t
 {{% /text-and-image %}}
 
 ## Address
+E-mail: styrelsen@stacken.kth.se
+
 ```
  Datorföreningen Stacken
  c/o NADA
