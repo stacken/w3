@@ -31,13 +31,13 @@ E-post: styrelsen@stacken.kth.se
 Stefan Berggren <ordf@stacken.kth.se>
 
 #### Vice ordförande 
-Fabian Ström <fabian@stacken.kth.se>
+Fabian Ström <vordf@stacken.kth.se>
 
 #### Kassör 
 Stellan Lagerström <kass@stacken.kth.se>
 
 #### Sekreterare 
-Olof Sjödin <medik@stacken.kth.se>
+Olof Sjödin <sekr@stacken.kth.se>
 
 #### Ledamöter
 Martin Frost <frost@stacken.kth.se>
