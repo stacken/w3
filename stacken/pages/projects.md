@@ -60,7 +60,7 @@ Vi har redan Kerberos (KDC) som används för inloggning till våra system. Med 
 Stacken har egna DNS-servrar där vi erbjuder DNS för oss själva men även andra föreningar och medlemmar.
 
 ## Stack-O-maten
-Stacken har sedan en tid tillbaka ett system för registrering av inventarier baserad runt RFID, sträckkoder och en pekskärm.
+Stacken har sedan en tid tillbaka ett system för registrering av inventarier baserad runt RFID, streckkoder och en pekskärm.
 
 ## Servrar
 
@@ -88,7 +88,7 @@ Duff är ett kommandoradsverktyg för att enkelt hitta dubbletter inom en uppsä
 HS är ett verktyg för att generera zonfiler för DNS från en HOSTS.TXT-fil.
 
 ## [Parrot](http://www.parrot.org/)
-Parrot är en virtuell maskin för att effektivt köra bytekod för interpreterade stpråk.
+Parrot är en virtuell maskin för att effektivt köra bytekod för interpreterade språk.
 
 ## [The secret comics database](http://comicsearch.stacken.kth.se/)
 Ett sökbart textarkiv för tecknade serier på webben.
