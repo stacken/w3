@@ -17,6 +17,9 @@ monotone är ett fritt distribuerat versionshanteringssystem. Det tillhadahålle
 ## [OpenBSD](http://www.openbsd.org/)
 Ett antal medlemmar hackar friskt på OpenBSD. OpenBSD- projektet gör ett fritt, portabelt 4.4BSD- baserat UNIX-likt operativsystem.
 
+## [StackHack](stackhack)
+Stackens programmeringstävling – bli kompis med din kompilator
+
 {{% 2split-middle %}}
 
 ## [GLFW](http://www.glfw.org/)
