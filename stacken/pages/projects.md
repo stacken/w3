@@ -25,6 +25,9 @@ GLFW är ett portablet ramverk för OpenGL-programmering, som hanterar fönster,
 ## [OpenSSL](http://www.openssl.org/)
 Även OpenSSL hackas det på. OpenSSL är en fri implementation av Secure Sockets Layer, vilket implementerar säkerhet och kryptografi i bl.a. Webbuppkopplingar. Det används av bland andra [OpenSSH](http://www.openssh.com/).
 
+## [StackPointer](stackpointer)
+StackPointer var Datorföreningen Stackens tidning, och kom ut i varierande antal per år, beroende på mängden inkomna bidrag.
+
 {{% 2split-end %}}
 
 
