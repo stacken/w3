@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags --><meta name="description" content="">
+<meta name="author" content="">
+<title>StackHack - Shakespeare Programming Language - Datorföreningen Stacken</title>
+<!-- Bootstrap core CSS --><link href="../../../../assets/css/bootstrap.min.css" rel="stylesheet">
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug --><link href="../../../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+<!-- Custom styles for this template --><link href="../../../../assets/css/jumbotron.css" rel="stylesheet">
+<!-- Just for debugging purposes. Don't actually copy these 2 lines! --><!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]--><script src="../../../../assets/js/ie-emulation-modes-warning.js"></script><!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --><!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]--><style>
+
+    .navbar { background-color: #000000; }
+    .navbar-brand {
+        padding: 0px;
+     }
+    .navbar-brand>img { height: 100%;
+        padding: 3px;
+        width: auto;
+    }
+
+    </style>
+</head>
+<body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top"><div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#"><img src="../../../../images/stacken.png" id="logo"></a>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar">
+          <ul class="nav navbar-nav">
+<li><a href="../../../">Home</a></li>
+        <li><a href="../../../club/">About Stacken</a></li>
+        <li><a href="../../">Projects &amp; Services</a></li>
+        <li><a href="../../../../news/index/">News &amp; Calendar</a></li>
+        <li><a href="../../../member/">Become a member</a></li>
+          </ul>
+<ul class="nav navbar-nav navbar-right">
+<li><a href="../../../../projects/stackhack/shakespeare-programming-language/" rel="alternate" hreflang="sv">Svenska</a></li>
+          </ul>
+</div>
+      </div>
+    </nav><div class="container">
+    <h2>StackHack - Shakespeare Programming Language</h2>
+    <div>
+<blockquote>
+<p>StackHack omgång 4 – implementera ett Unix-kommando i Shakespeare Programming Language</p>
+</blockquote>
+<p>Den här tävlingsomgången går ut på att implementera ett Unix-kommando i <a href="http://shakespearelang.sourceforge.net/">Shakespeare Programming Language</a>. Antingen ett kommando som redan finns, eller ett som borde finnas. </p>
+<p></p>
+<div class="row">
+  <div class="col-md-6">
+<h3>Hur man deltar</h3>
+<p>Du skickar in bidraget genom att lägga den i din hemkatalog på Stacken, i en tarfil vid namn /afs/stacken.kth.se/home/$USER/Public/stackhack-$USER-20050317.tar där $USER är ditt användarnamn. Notera datumet. Manuset ska vara inlämnat senast 2005-03-17 20:47:11 Central Stacken Time.</p>
+<h3>Regler för denna omgång</h3>
+<ol>
+<li>Max 500 rader</li>
+<li>Spelas på någon av Stackens arbetsstationer</li>
+<li>Läsligt manus - så att bidragen kan granskas innan de spelas. Recensenterna kommer granska manuset innan det spelas, för att inte riskera att spela manus som på något sätt kan misstänkas innehålla oönskade repliker. Eftersom recensenterna har begränsat med tid att spendera på varje bidrag, kan det leda till att om recensenterna inte förstår manuset. Om recensenterna inte förstår manus såpass att man kan vara säker på att inga oönskade repliker uttalas kommer den inte kunna vara med i tävlingen.</li>
+<li>Alltså inga obfuscerade bidrag a la obfuscated shakespeare contest.</li>
+<li>Skicka med en Makefile som kan regissera pjäsen m.h.a. targeten "setup", och spela manuset med targeten "perform".</li>
+<li>Hör av dej om du behöver hjälp med att skriva en sådan.</li>
+<li>Vinnarna samt övriga utmärkelser kommer meddelas i Stackenlokalen 2005-03-17.</li>
+<li>Bidraget ska innehålla en fil vid namn AFFISH.txt som ska innehålla följande information: Ditt namn, email, telefonnummer, skonummer och pjäsens namn.</li>
+</ol>
+<p></p>
+</div>
+<div class="col-md-6">
+<h3>Recensenter</h3>
+<p>Recensenter är Magnus Danielson och Hans Insulander.</p>
+<h3>Bra länkar</h3>
+<ul>
+<li>http://people.csa.iisc.ernet.in/sreejith/frontends/spl/</li>
+<li>http://shakespearelang.sourceforge.net/</li>
+</ul>
+<h3>Recensioner</h3>
+<h4>"The truth, as is shall be spoken; or A true story based on truthful acquaintances; or Truely a pittance; or In truth, this author has way too much time." av Mikael Johansson</h4>
+<p>En ultra-kort sanningsenlig pjäs som gott kunnat vara något längre än den statiska handlingen. Det var uppenbart hur den skulle sluta redan i den första (och sista) scenen. Vi önskar att den unge lovande pjäsförfattaren använt mer av all den tid som fortfarande står till hans förfogande. Vi ser fram emot hans nästa pjäs i hopp om att det ger ett mer bestående intryck.</p>
+<p>Betyg: Tre arbetsmyror av FEM.</p>
+<h4>"The Unix Command yes" av F</h4>
+<p>En kort pjäs om positivt tänkande med en spännande och givande dialog mellan huvudpersonerna Miranda och Venus. Efter en kort inledning i scen ett och en mycket intrikat mellanparti tar handlingen en intressant vändning i scen tre. Avsaknaden av Shakespearianska förolämpningar i manuset är slående en brytning mot konventionen för dessa spel.</p>
+<p>Betyg: Fyra arbetsmyror av FEM.</p>
+<p>(Tyvärr har vi tappat bort true.spl samt yes.spl)</p>
+<p> </p>
+</div>
+</div>
+</div>
+
+      <hr>
+<footer><p>Datorföreningen Stacken</p>
+      </footer>
+</div> <!-- /container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script><script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script><script src="../../../../assets/js/bootstrap.min.js"></script><!-- IE10 viewport hack for Surface/desktop Windows 8 bug --><script src="../../../../assets/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>

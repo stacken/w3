@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags --><meta name="description" content="">
+<meta name="author" content="">
+<title>StackHack - StackHack omgång 20041021 - Datorföreningen Stacken</title>
+<!-- Bootstrap core CSS --><link href="../../../assets/css/bootstrap.min.css" rel="stylesheet">
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug --><link href="../../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+<!-- Custom styles for this template --><link href="../../../assets/css/jumbotron.css" rel="stylesheet">
+<!-- Just for debugging purposes. Don't actually copy these 2 lines! --><!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]--><script src="../../../assets/js/ie-emulation-modes-warning.js"></script><!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --><!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]--><style>
+
+    .navbar { background-color: #000000; }
+    .navbar-brand {
+        padding: 0px;
+     }
+    .navbar-brand>img { height: 100%;
+        padding: 3px;
+        width: auto;
+    }
+
+    </style>
+</head>
+<body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top"><div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#"><img src="../../../images/stacken.png" id="logo"></a>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar">
+          <ul class="nav navbar-nav">
+<li><a href="../../../">Hem</a></li>
+        <li><a href="../../../club/">Om Stacken</a></li>
+        <li><a href="../../../forum">Forum</a></li>
+        <li><a href="../../">Projekt &amp; Tjänster</a></li>
+        <li><a href="../../../news/index/">Nyheter &amp; Kalender</a></li>
+        <li><a href="../../../member/">Bli medlem</a></li>
+          </ul>
+<ul class="nav navbar-nav navbar-right">
+<li><a href="." rel="alternate" hreflang="sv">Svenska</a></li>
+          </ul>
+</div>
+      </div>
+    </nav><div class="container">
+    <h2>StackHack - StackHack omgång 20041021</h2>
+    <div>
+<blockquote>
+<p>Efter viss förvirring hos den enfaldige domaren samlades bidragen upp klockan 21.00 SET (Stackens Egen Tidszon). Tre bidrag inkom - från Fredrik Arnerup, Rasmus Kaj. Ett felformatterat bidrag hittades även i Magdas hemkatalog.</p>
+</blockquote>
+<p>Som av en ren slump hade domarna i förväg beslutat att dela ut priser i tre klasser. Klasserna och vinnarna presenteras här. </p>
+<p></p>
+<div class="row">
+  <div class="col-md-6">
+<h3>Klass: Strukturerad spagetti</h3>
+<p>Vinnare: foo</p>
+<h4>Motivering</h4>
+<p>För hans förmåga att ta spagetti-programmering till nya nivåer och på ett förtjänstfullt sätt grafiskt åskådliggöra detta.</p>
+<h4>Beskrivning</h4>
+<p>pgmake är en parallell grafisk make. Programmet läser en Makefile (klarar en delmängd av Makefile-syntaxen) och visar en grafisk (kräver X) representation av beroenden och targets i Makefilen. När användaren trycker på knappen "Bygg" så försöker pgmake bygga alla targets genom att starta en tråd för varje nod i grafen. Varje tråd väntar tills eventuella beroenden har blivit tillfredställda och exekverar sedan kommandot som krävs för att skapa nodens target. Om det gick bra blir noden grön, om det gick dåligt blir noden röd. Noder som representerar filer som förväntas existera a priori är fyrkantiga, övriga runda.</p>
+<ul>
+<li>README.txt</li>
+<li>Skärmdump från programmet</li>
+<li>Programmet och några exempelfiler</li>
+</ul>
+<p>(Tyvärr har filerna försvunnit)</p>
+<h3>Klass: Pedagogik</h3>
+<p>Vinnare: kaj</p>
+<h4>Motivering</h4>
+<p>För hans mycket pedagogiska exempel på ineffektiv programmering med hjälp av pipor. Kort och gott ett skolboksexempel.</p>
+<h4>Beskrivning</h4>
+<p>Bidraget är uppdelat i två delar - ett som genererar tal, och ett annat som via en finurlig fork()-bomb listar ut vilka av de genererade talen som är primtal.</p>
+<ul>
+<li>README</li>
+<li>primfilter.c</li>
+</ul>
+<p>(Tyvärr har filerna försvunnit)</p>
+<p></p>
+</div>
+<div class="col-md-6">
+<h3>Klass: Gammal är äldst</h3>
+<p>Vinnare: A.nonym</p>
+<p>Eftersom den README.txt som enligt reglerna saknades har vi ingen aaaaning om varifrån detta bidrag kom.</p>
+<h4>Motivering</h4>
+<p>För hans eller hennes förmåga att bevisa att en ålderdomlig processor är fullt kapabel till äkta parallellitet genom att utföra sexton samtidiga additioner i samma klockcykel.</p>
+<h4>Beskrivning</h4>
+<p>Programmet räknar antalet ettställda bitar i ett tar, genom att använda en algoritm från 1954, enligt Knuth. Algoritmen går ut på att successivt addera bitarna i större och större klumpar i en träd-struktur. Notera särskilt användningen av många variabler och loopar.</p>
+<ul>
+<li>concurrent.c</li>
+</ul>
+<p>(Tyvärr har filen försvunnit)</p>
+<p> </p>
+</div>
+</div>
+</div>
+
+      <hr>
+<footer><p>Datorföreningen Stacken</p>
+      </footer>
+</div> <!-- /container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script><script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script><script src="../../../assets/js/bootstrap.min.js"></script><!-- IE10 viewport hack for Surface/desktop Windows 8 bug --><script src="../../../assets/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>

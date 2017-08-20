@@ -112,7 +112,58 @@
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/projects/</loc>
-  <lastmod>2017-08-20T15:24:00Z</lastmod>
+  <lastmod>2017-08-20T17:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/projects/Stackhack/</loc>
+  <lastmod>2017-08-20T17:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/projects/stackhack/</loc>
+  <lastmod>2017-08-20T18:27:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackhack/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/projects/stackhack/20041021/</loc>
+  <lastmod>2017-08-20T18:27:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackhack/20041021/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/projects/stackhack/20041028/</loc>
+  <lastmod>2017-08-20T18:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/projects/stackhack/20041118/</loc>
+  <lastmod>2017-08-20T18:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/projects/stackhack/20051110/</loc>
+  <lastmod>2017-08-20T18:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/projects/stackhack/ascii-art/</loc>
+  <lastmod>2017-08-20T18:18:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackhack/ascii-art/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/projects/stackhack/chuck/</loc>
+  <lastmod>2017-08-20T18:26:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackhack/chuck/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/projects/stackhack/opengl/</loc>
+  <lastmod>2017-08-20T18:01:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackhack/opengl/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/projects/stackhack/shakespeare-programming-language/</loc>
+  <lastmod>2017-08-20T18:10:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackhack/shakespeare-programming-language/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/projects/stackpointer/</loc>
+  <lastmod>2017-08-20T17:44:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackpointer/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/forum/</loc>
@@ -175,6 +226,50 @@
  </url>
  <url>
   <loc>https://stacken.github.io/w3/projects/</loc>
-  <lastmod>2017-08-20T15:24:00Z</lastmod>
+  <lastmod>2017-08-20T17:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/projects/Stackhack/</loc>
+  <lastmod>2017-08-20T17:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/projects/stackhack/</loc>
+  <lastmod>2017-08-20T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/projects/stackhack/20041021/</loc>
+  <lastmod>2017-08-20T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/projects/stackhack/20041028/</loc>
+  <lastmod>2017-08-20T18:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/projects/stackhack/20041118/</loc>
+  <lastmod>2017-08-20T18:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/projects/stackhack/20051110/</loc>
+  <lastmod>2017-08-20T18:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/projects/stackhack/ascii-art/</loc>
+  <lastmod>2017-08-20T18:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/projects/stackhack/chuck/</loc>
+  <lastmod>2017-08-20T18:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/projects/stackhack/opengl/</loc>
+  <lastmod>2017-08-20T18:01:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/projects/stackhack/shakespeare-programming-language/</loc>
+  <lastmod>2017-08-20T18:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/projects/stackpointer/</loc>
+  <lastmod>2017-08-20T17:44:00Z</lastmod>
  </url>
 </urlset>
