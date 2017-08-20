@@ -8,7 +8,7 @@
 
 Stacken has a chatroom at KTH's Jabber server (stacken@chat.kth.se). Here we talk about everything that has with Stacken to do. This is also our primary out-of-band channel i.e. it works even if our server hall is offline.
 
-You don't have to be a member in Stacken nor study at KTH to join our channel. Are you a KTH student and don't have a Jabber account? You can create one at https://www.lan.kth.se/xmpp.html.
+You don't have to be a member in Stacken nor study at KTH to join our channel. Are you a KTH student and don't have a Jabber account? You can create one at [KTH's Jabber page](https://www.lan.kth.se/xmpp.html).
 
 # Mailing lists at Stacken
 

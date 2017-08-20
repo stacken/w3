@@ -8,7 +8,7 @@
 
 Stacken har ett chattrum på KTHs jabberserver (stacken@chat.kth.se). Här kan man prata om vad som helst som har med Stacken att göra. Detta är också våran primära out-of-band kanal, det vill säga att den fungerar även om det blir strömlöst i våran datorhall.
 
-Du behöver inte vara medlem i Stacken eller studera på KTH för att delta i kanalen. Har du inget Jabber konto kan du skapa ett på https://www.lan.kth.se/xmpp.html om du har ett KTH konto.
+Du behöver inte vara medlem i Stacken eller studera på KTH för att delta i kanalen. Har du inget Jabber konto kan du skapa ett på [KTHs XMPP sida](https://www.lan.kth.se/xmpp.html) om du har ett KTH konto.
 
 # Stackens E-postlistor
 
