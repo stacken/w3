@@ -14,7 +14,6 @@ Du behöver inte vara medlem i Stacken eller studera på KTH för att delta i ka
 
 Stacken har sedan en lång tid tilllbaka ett antal e-postlistor som används för att meddela intresserade om olika händelser i samband med stacken. Om du upplever något problem eller har frågor om e-posttjänsten kan du kontakta postmaster@stacken.kth.se för hjälp.
 
-## Listor
 
 ### stacken@stacken.kth.se
   
