@@ -43,7 +43,7 @@ Martin Frost <frost@stacken.kth.se>
 
 Rasmus Kaj <kaj@stacken.kth.se>
 
-Peter Caprioli <..?>
+Peter Caprioli <petercap@stacken.kth.se>
 
 
 {{% subpage-box link="officers" text="Funktionärer" %}}
