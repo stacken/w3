@@ -6,40 +6,8 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://stacken.github.io/w3/categories/blaha.xml</loc>
-  <lastmod>2017-08-19T13:17:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://stacken.github.io/w3/categories/cat_2016.xml</loc>
-  <lastmod>2017-08-19T13:17:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://stacken.github.io/w3/categories/cat_2017.xml</loc>
-  <lastmod>2017-08-19T13:17:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://stacken.github.io/w3/categories/www.xml</loc>
-  <lastmod>2017-08-19T13:17:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://stacken.github.io/w3/en/categories/blaha.xml</loc>
-  <lastmod>2017-08-19T13:17:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://stacken.github.io/w3/en/categories/cat_2016.xml</loc>
-  <lastmod>2017-08-19T13:17:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://stacken.github.io/w3/en/categories/cat_2017.xml</loc>
-  <lastmod>2017-08-19T13:17:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://stacken.github.io/w3/en/categories/www.xml</loc>
-  <lastmod>2017-08-19T13:17:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://stacken.github.io/w3/en/galleries/rss.xml</loc>
-  <lastmod>2017-08-19T13:17:00Z</lastmod>
+  <lastmod>2017-08-20T17:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/en/news/2016.xml</loc>
@@ -62,12 +30,8 @@
   <lastmod>2017-08-19T13:17:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://stacken.github.io/w3/en/tags/blaha.xml</loc>
-  <lastmod>2017-08-19T12:55:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://stacken.github.io/w3/galleries/rss.xml</loc>
-  <lastmod>2017-08-19T13:17:00Z</lastmod>
+  <lastmod>2017-08-20T17:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/news/2016.xml</loc>
@@ -91,10 +55,6 @@
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/sitemap.xml</loc>
-  <lastmod>2017-08-19T13:17:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://stacken.github.io/w3/tags/blaha.xml</loc>
-  <lastmod>2017-08-19T12:55:00Z</lastmod>
+  <lastmod>2017-08-20T17:04:00Z</lastmod>
  </sitemap>
 </sitemapindex>

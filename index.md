@@ -19,6 +19,7 @@ inom datorområdet.
         Vi erbjuder gemensamma projekt att arbeta på, tjänster för
         medlemmar, föreningar eller sektioner att använda.
         Föreläsningar och andra kul aktiviteter.
+        [Läs mer](/projects/)
     {{% /3cell %}}
     {{% 3cell title="För studenter" %}}
         Stacken är en datorförening för studenter och anställda

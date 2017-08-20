@@ -6,7 +6,7 @@
 
 > Stacken is a computer club for students and staff at KTH. The goal is to provide a more independent way of absorbing computing knowledge than through the schools courses.
 
-{{% text-and-image image="pic06.jpg" alt="Place a image here" %}}
+{{% text-and-image image="install-servers.jpg" alt="Image of server management at Stacken" caption="Foto av Janwikifoto" %}}
 Founded in 1978, the club is a part of the Student Union at the KTH. We have a club room on floor 2 in the Q-building (to the left and down one flight of stairs from the main entrance), in former terminal room XQ7 (50:16 A:237). Q-Huset has entrances at Osquldas väg 6 next to the restaurant and at Drottning Kristinas Väg 53C at the bridge that crosses the Roslagsbanan light rail line.
 
 On thursday evenings we usualy gather somewhere to eat, after deciding on where to eat in Jabber. After eating, we go to the club room and hack away the rest of the night.
@@ -14,7 +14,37 @@ On thursday evenings we usualy gather somewhere to eat, after deciding on where 
 Today, the club has about 90 members, doing everything from building computers to programming at all levels, systems support, networking, courses, etc. We are connected to sunet, giving access to computers around the world.
 {{% /text-and-image %}}
 
+## Address
+E-mail: styrelsen@stacken.kth.se
+
+```
+ Datorföreningen Stacken
+ c/o NADA
+ KTH
+ 100 44 Stockholm
+```
+
+## The board
+
+### 2016-2017
+#### Chairman
+Stefan Berggren <ordf@stacken.kth.se>
+#### Vice Chairman
+Fabian Ström <vordf@stacken.kth.se>
+#### Treasurer
+Stellan Lagerström <kass@stacken.kth.se>
+#### Secretary
+Olof Sjödin <sekr@stacken.kth.se>
+##### Board Members
+Martin Frost <frost@stacken.kth.se>
+
+Rasmus Kaj <kaj@stacken.kth.se>
+
+Peter Caprioli <petercap@stacken.kth.se>
+
+
 {{% subpage-box link="/en/hitta" text="Find the clubroom" %}}
 We are on the 2nd floor of the Q-building, for more information see
 the page "Find the clubroom".
 {{% /subpage-box %}}
+
