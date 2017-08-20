@@ -136,6 +136,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Hem"),
         ("/club/", "Om Stacken"),
+        ("/forum", "Forum"),
         ("/projects/", "Projekt"),
         ("/news/index/", "Nyheter & Kalender"),
         ("/member/", "Bli medlem"),
