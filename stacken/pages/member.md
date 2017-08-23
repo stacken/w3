@@ -22,9 +22,7 @@ allt från programmering till drift av stora kluster av servrar.
 Torsdagkvällar från 19-tiden och frammåt möts vi traditionsenligt i
 lokalen och bygger något, felsöker eller bara pratar om något
 intressant. Är du intresserad så är du alltid väkommen förbi en
-torsdag, det är bara och knacka på vår dörr på plan 2 i Q-huset. Vi
-har även ett öppet hus nu på torsdag som är ett perfekt tillfälle
-att få veta mer.
+torsdag, det är bara och knacka på vår dörr på plan 2 i Q-huset.
 
 {{% 2split-middle %}}
 

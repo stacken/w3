@@ -4,8 +4,10 @@
 .. description:
 -->
 
-{{% jumbotron title="Stackenföreläsning" %}}
-Föreläs i O(n) tid vid väldigt stora n.
+{{% jumbotron title="Kårens dag" %}}
+Fredagen den 25/8 ställer Stacken ut på THS/Kåren på Kårens dag
+högst upp på plan 3. Undrar du något om Stacken så kom förbi.
+Undrar du något mer, [läs mer här](unionday).
 {{% /jumbotron %}}
 
 {{% big %}}

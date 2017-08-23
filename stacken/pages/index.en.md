@@ -5,7 +5,9 @@
 -->
 
 {{% jumbotron title="Stacken lecture" %}}
-Lecture in O(n) time, with really large n.
+Friday the 25th is Stacken at THS Student Union Day. We will be
+located all the way up on the top floor. We will be there (almost)
+all day, come and say hi. [Read more](unionday).
 {{% /jumbotron %}}
 
 {{% big %}}
