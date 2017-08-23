@@ -1,4 +1,4 @@
-# Stacken (maybe future web?)
+# Stacken Web
 
 This repository is built with the static site generator [Nikola](https://getnikola.com/),
 based on the design [Jumbotron](http://getbootstrap.com/examples/jumbotron/).
