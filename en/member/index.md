@@ -22,9 +22,7 @@ from programming to administration of large clusters of servers.
 Thursday evenings from 7 PM are our traditional day where we meet in the
 clubroom and build something, debug a problem or discuss something
 interesting. If you are interested you are always welcome at any Thursday
-evening, knock at our door at the 2nd level in the Q-building. A perfect
-opportunity to meet us is this Thursday, we have a Open House event from 5
-PM.
+evening, knock at our door at the 2nd level in the Q-building.
 
 {{% 2split-middle %}}
 
