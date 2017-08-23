@@ -145,7 +145,7 @@ NAVIGATION_LINKS = {
     "en": (
         ("/en/", "Home"),
         ("/en/club/", "About Stacken"),
-        ("/forum/", "Forum"),
+        ("/en/forum/", "Forum"),
         ("/en/projects/", "Projects & Services"),
         ("/news/index/", "News & Calendar"),
         ("/en/member/", "Become a member"),
