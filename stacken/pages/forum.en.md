@@ -13,18 +13,23 @@ You don't have to be a member in Stacken nor study at KTH to join our channel. A
 
 # Mailing lists at Stacken
 
-We at Stacken have since a long time ago a number of mailing lists used to inform people on events with Stacken. If you experience problem on or having questions about our mailing lists, then please contact postmaster@stacken.kth.se for assistance. 
+We at Stacken have since a long time ago a number of mailing lists used to inform people on events with Stacken. If you experience problem on or having questions about our mailing lists, then please contact <postmaster@stacken.kth.se> for assistance. 
 
-stacken@stacken.kth.se
+<stacken@stacken.kth.se>
 : A generic list, everything Stacken, talk about problems, fun things to do or just the weather. This list contains both members and non-members. Note that this list is administrated and it can take some time if you send a email from a unknown adress.
 
-staff@stacken.kth.se
+<staff@stacken.kth.se>
 : A list for Stackens systems administrators, send relevant questions/mails here.
 
-postmaster@stacken.kth.se
+<postmaster@stacken.kth.se>
 : A list for Stackens e-mail administrators.
 
 {{% 2split-middle %}}
+
+# The Club Room
+Our club room is open all the days for members. Thursday evenings from 7 PM are our traditional day where we meet in the clubroom and build something, debug a problem or discuss something interesting.
+
+Non-members and guests are always welcome.
 
 # Archived forums
 Here is a list of previous forum used at Stacken.
