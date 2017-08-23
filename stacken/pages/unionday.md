@@ -20,6 +20,8 @@ torsdagskväll (säkrast efter 19).
 medlemskap i Stacken helt gratis. Annars kostar medlemsavgiften
 117 kr/år vilket betalas efter att du har blivit medlem.
 
+[Läs mer](../club), eller [bli medlem](../member).
+
 {{% 2split-middle %}}
 ## Stacken
 Datorföreningen Stacken är en förening för studenter och anställda

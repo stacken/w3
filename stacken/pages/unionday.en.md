@@ -18,6 +18,8 @@ Thursday evening (after 7 PM).
 Membership in Stacken is completely free for THS members. For everyone
 else there is a fee of 117 kr/year.
 
+[Read more](../club), or [become a member](../member).
+
 {{% 2split-middle %}}
 ## Stacken
 Stacken Computer Club is open for students or employees at the Royal
