@@ -2,12 +2,17 @@
 
 {% macro show_menu() %}
   {% for url, text in navigation_links[lang] %}
+    {% set root_url = "/" if lang == "sv" else "/en/" %}
     {% if isinstance(url, tuple) %}
       <li> {{ text }}
       <ul>
         {% for suburl, text in url %}
-          {% if rel_link(permalink, suburl) == "#" %}
-            <li class="current">
+          {% if permalink == root_url and suburl == root_url %}
+            <li class="current active">
+              <a href="{{ permalink }}">{{ text }} <span class="sr-only">{{ messages("(active)", lang) }}</span></a>
+            </li>
+          {% elif (permalink|string).startswith(suburl) and not suburl == root_url %}
+            <li class="current active">
               <a href="{{ permalink }}">{{ text }} <span class="sr-only">{{ messages("(active)", lang) }}</span></a>
             </li>
           {% else %}
@@ -16,8 +21,14 @@
         {% endfor %}
       </ul>
     {% else %}
-      {% if rel_link(permalink, url) == "#" %}
-        <li class="current"><a href="{{ permalink }}">{{ text }} <span class="sr-only">{{ messages("(active)", lang) }}</span></a></li>
+      {% if permalink == root_url and url == root_url %}
+        <li class="current active">
+          <a href="{{ url }}">{{ text }} <span class="sr-only">{{ messages("(active)", lang) }}</span></a>
+        </li>
+      {% elif (permalink|string).startswith(url) and not url == root_url %}
+        <li class="current active">
+          <a href="{{ url }}">{{ text }} <span class="sr-only">{{ messages("(active)", lang) }}</span></a>
+        </li>
       {% else %}
         <li><a href="{{ url }}">{{ text }}</a></li>
       {% endif %}
