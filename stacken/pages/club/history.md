@@ -33,11 +33,19 @@ Clubs Conference, NUCCC.
 
 # 90-tal
 
-Baltikumprojektet.
+Baltikumprojektet.  Tack vare Stacken har flesta av de baltiska högskolorna
+gått från ryska PDP-11 kopior till moderna VAXar och SUNar med VMS eller
+UNIX.
 
 1992: Första baltikumresan gick till Riga.
 
 1993: Andra baltikumresan, till Tallin, och tredje, till Riga.
+
+Hösten 1993 påbörjades utvecklingen av Arla, en klient för filsystemet AFS,
+på Nada. Utvecklingen pågick både på Stacken och andra delar av KTH, och med
+bidrag från resten av världen, fram till 2007.
+[Arlaprojektet har en mer detaljerad
+historia](https://www.stacken.kth.se/project/arla/html/arla.html#SEC72).
 
 Hösten 1996 hade vi mer eller mindre byggt färdigt och flyttat in i vår lokal
 "Brandlabbet".
@@ -46,6 +54,10 @@ Våren 1998 tömde vi den gamla lokalen, "stora datorhallen".
 Fredagen den 23:e april - söndagen den 25:e april 1999 arrangerade stacken
 Nordic Computer Club Conference, NUCCC.
 
+19 juni 1999 släppte Stackenmedlemmen thn den första versionen av ktelnet, en
+telnetklient för windows med kerberosautentisering och kryptering.
+Vidareutveckling pågick mer eller mindre till 2004, då den senaste versionen
+släpptes.
 
 TokKOM
 
