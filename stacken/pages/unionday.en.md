@@ -21,6 +21,7 @@ else there is a fee of 117 kr/year.
 [Read more](../club), or [become a member](../member).
 
 {{% 2split-middle %}}
+![Stacken på Kårens Dag](/images/karensdag.jpg){: style="width: 100%" }
 ## Stacken
 Stacken Computer Club is open for students or employees at the Royal
 Institute of Technology founded in 1978. We have a clubroom located in the

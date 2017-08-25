@@ -23,6 +23,7 @@ medlemskap i Stacken helt gratis. Annars kostar medlemsavgiften
 [Läs mer](../club), eller [bli medlem](../member).
 
 {{% 2split-middle %}}
+![Stacken på Kårens Dag](/images/karensdag.jpg){: style="width: 100%" }
 ## Stacken
 Datorföreningen Stacken är en förening för studenter och anställda
 på KTH som funnit sedan 1978. Vi har i dag en lokal uppe i Q-huset
