@@ -1,5 +1,5 @@
 <!--
-.. title: Föreningen Stacken
+.. title: Datorföreningen Stacken
 .. slug: thanks
 .. description:
 -->
