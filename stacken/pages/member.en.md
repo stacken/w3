@@ -52,15 +52,15 @@ No worry, we speak English.
 
 {{% 2split-end %}}
 
-## Medlemsansökan
+## Membership application
 
 {{% member-form
 name="Name"
 email="E-mail"
-KTH="KTH-name"
+KTH="Username at KTH"
 phone="Phone"
 syss="Occupation"
-user="Preferred username"
+user="Username at Stacken"
 misc="Comments"
 misc2="A few words about your self"
 THS="I am a KTH student and a THS member"

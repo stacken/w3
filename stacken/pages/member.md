@@ -51,7 +51,7 @@ Inget, gå med och lär dig det du tycker är intressant.
 {{% member-form
 name="Namn"
 email="E-post"
-KTH="KTH-namn"
+KTH="Användarnamn på KTH"
 phone="Telefon"
 syss="Sysselsättning"
 user="Användarnamn på Stacken"
