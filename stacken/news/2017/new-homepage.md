@@ -8,5 +8,5 @@
 .. author: nsg
 -->
 
-Det var några år sedan det hände något med våran hemsida men vi har jobbat
+Det var några år sedan det hände något med vår hemsida men vi har jobbat
 från och till under året med den nya sidan och nu är den här!
