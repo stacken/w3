@@ -39,7 +39,7 @@ UNIX.
 
 1992: Första baltikumresan gick till Riga.
 
-1993: Andra baltikumresan, till Tallin, och tredje, till Riga.
+1993: Andra baltikumresan, till Tallinn, och tredje, till Riga.
 
 Hösten 1993 påbörjades utvecklingen av Arla, en klient för filsystemet AFS,
 på Nada. Utvecklingen pågick både på Stacken och andra delar av KTH, och med
@@ -55,7 +55,7 @@ Fredagen den 23:e april - söndagen den 25:e april 1999 arrangerade stacken
 Nordic Computer Club Conference, NUCCC.
 
 19 juni 1999 släppte Stackenmedlemmen thn den första versionen av ktelnet, en
-telnetklient för windows med kerberosautentisering och kryptering.
+telnetklient för Windows med kerberosautentisering och kryptering.
 Vidareutveckling pågick mer eller mindre till 2004, då den senaste versionen
 släpptes.
 
@@ -64,14 +64,14 @@ TokKOM
 # 00-tal
 
 Några stackenmedlemmar besökte konventet
-[HAL2001](http://oldwww.stacken.kth.se/~haba/hal2001/) i Enschede,
+[HAL2001](http://www.stacken.kth.se/~haba/hal2001/) i Enschede,
 Nederländerna.
 
 2002 hölls NUCCC i Umeå, med en delegation från Stacken.
 
 NUCCC 2003 hölls i Helsingfors.  Åkte några från Stacken dit?
 
-2003 fick Staken en temporär lokal, "Baracken", vid Drottning Kristinas väg
+2003 fick Stacken en temporär lokal, "Baracken", vid Drottning Kristinas väg
 medans vår gamla lokal, "brandlabbet", revs för att ge plats åt
 militärhögskolan.  Hela flytten med bygge kunde i stort sett genomföras i
 juli, även om en del lokalfixande pågick åtminstone resten av året.
@@ -79,7 +79,7 @@ juli, även om en del lokalfixande pågick åtminstone resten av året.
 2004 och 2005 hölls de fem första omgångarna av vår programmeringstävling
 StackHack.
 
-2006 var Staken inblandad i att arrangera demopartyt [Deadline
+2006 var Stacken inblandad i att arrangera demopartyt [Deadline
 Harakiri](http://deadline.pseudohacker.org/harakiri/) i kårhuset.
 
 I april flyttade Stacken från artikeln Drottning Kristinas väg till vår
