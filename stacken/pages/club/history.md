@@ -24,12 +24,15 @@ Nadja).
 
 1982 fick vi tillgång till klubblokalen 6502 (med lite utrymme för Stacken).
 
-Stora hallen.
+1986 fick Stacken tillgång till en datorhall på Brinnellvägen 30.
 
 1986 höll Richard M. Stallman en föreläsning på KTH i Stackens arrangemang.
 
 1987 startade Stacken tillsammans med Chalmers Datorförening Nordic Computer
 Clubs Conference, NUCCC.
+
+1989 flyttade vi in i Stora datorhallen, ett före detta garage på 340 m²
+under Sing Sing-gården.
 
 # 90-tal
 
@@ -49,7 +52,14 @@ historia](https://www.stacken.kth.se/project/arla/html/arla.html#SEC72).
 
 Hösten 1996 hade vi mer eller mindre byggt färdigt och flyttat in i vår lokal
 "Brandlabbet".
-Våren 1998 tömde vi den gamla lokalen, "stora datorhallen".
+Våren 1998 tömde vi den gamla lokalen, "stora datorhallen", som vi bott i
+sedan 1989.
+
+1997 sattes TokKOM upp.  Efter att många stackenmedlemmar varit aktiva i
+[Lysators](http://www.lysator.liu.se/) diskussionsforum
+[LysKOM](http://www.lysator.liu.se/lyskom/) var det dags för en egen server
+av samma sort.
+Systemet användes flitigt en bit in på 2000-talet.
 
 Fredagen den 23:e april - söndagen den 25:e april 1999 arrangerade stacken
 Nordic Computer Club Conference, NUCCC.
@@ -58,8 +68,6 @@ Nordic Computer Club Conference, NUCCC.
 telnetklient för Windows med kerberosautentisering och kryptering.
 Vidareutveckling pågick mer eller mindre till 2004, då den senaste versionen
 släpptes.
-
-TokKOM
 
 # 00-tal
 
