@@ -67,6 +67,12 @@ Några stackenmedlemmar besökte konventet
 [HAL2001](http://www.stacken.kth.se/~haba/hal2001/) i Enschede,
 Nederländerna.
 
+21 mars 2002 hölls den första Stackenföreläsningen, Thord Nilson
+visade film med djupzoom i fraktaler och berättade om hur han burit
+sig åt för att göra den.
+Sedan dess har Stackenföreläsningar i skilda ämnen varit ett mer eller mindre
+regelbundet återkommande inslag i Stackens verksamhet.
+
 2002 hölls NUCCC i Umeå, med en delegation från Stacken.
 
 NUCCC 2003 hölls i Helsingfors.  Åkte några från Stacken dit?
