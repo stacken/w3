@@ -4,7 +4,7 @@
 .. description:
 -->
 
-{{% jumbotron title="Stacken lecture" %}}
+{{% jumbotron title="Student union day" %}}
 Friday the 25th is Stacken at THS Student Union Day. We will be
 located all the way up on the top floor. We will be there (almost)
 all day, come and say hi.

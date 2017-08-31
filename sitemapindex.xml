@@ -6,16 +6,8 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://stacken.github.io/w3/en/news/2016.xml</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://stacken.github.io/w3/en/news/2017.xml</loc>
   <lastmod>2017-08-25T15:30:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://stacken.github.io/w3/en/news/tags/blaha.xml</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/en/news/tags/ths.xml</loc>
@@ -26,28 +18,12 @@
   <lastmod>2017-08-25T15:30:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://stacken.github.io/w3/en/news/year/2016.xml</loc>
-  <lastmod>2017-08-19T14:06:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://stacken.github.io/w3/en/news/year/2017.xml</loc>
-  <lastmod>2017-08-19T14:06:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://stacken.github.io/w3/en/rss.xml</loc>
   <lastmod>2017-08-25T15:30:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://stacken.github.io/w3/news/2016.xml</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://stacken.github.io/w3/news/2017.xml</loc>
   <lastmod>2017-08-25T15:30:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://stacken.github.io/w3/news/tags/blaha.xml</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/news/tags/ths.xml</loc>
@@ -58,19 +34,11 @@
   <lastmod>2017-08-25T15:30:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://stacken.github.io/w3/news/year/2016.xml</loc>
-  <lastmod>2017-08-19T14:06:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://stacken.github.io/w3/news/year/2017.xml</loc>
-  <lastmod>2017-08-19T14:06:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://stacken.github.io/w3/rss.xml</loc>
   <lastmod>2017-08-25T15:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/sitemap.xml</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2017-08-31T17:00:00Z</lastmod>
  </sitemap>
 </sitemapindex>

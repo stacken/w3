@@ -11,10 +11,6 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/" />
  </url>
  <url>
-  <loc>https://stacken.github.io/w3/2016/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
- </url>
- <url>
   <loc>https://stacken.github.io/w3/2017/</loc>
   <lastmod>2017-08-19T13:53:00Z</lastmod>
  </url>
@@ -36,10 +32,6 @@
   <lastmod>2017-08-25T15:30:00Z</lastmod>
  </url>
  <url>
-  <loc>https://stacken.github.io/w3/en/2016/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
- </url>
- <url>
   <loc>https://stacken.github.io/w3/en/2017/</loc>
   <lastmod>2017-08-19T13:53:00Z</lastmod>
  </url>
@@ -58,7 +50,7 @@
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/forum/</loc>
-  <lastmod>2017-08-20T12:21:00Z</lastmod>
+  <lastmod>2017-08-31T16:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/hitta/</loc>
@@ -75,15 +67,7 @@
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/news/</loc>
-  <lastmod>2017-08-19T14:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/en/news/2016/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/en/news/2016/test2/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2017-08-31T16:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/news/2017/</loc>
@@ -105,11 +89,7 @@
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/news/tags/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/en/news/tags/blaha/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2017-08-31T16:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/news/tags/ths/</loc>
@@ -118,18 +98,6 @@
  <url>
   <loc>https://stacken.github.io/w3/en/news/tags/www/</loc>
   <lastmod>2017-08-19T13:53:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/en/news/year/</loc>
-  <lastmod>2017-08-19T14:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/en/news/year/2016/</loc>
-  <lastmod>2017-08-19T14:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/en/news/year/2017/</loc>
-  <lastmod>2017-08-19T14:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/projects/</loc>
@@ -176,7 +144,7 @@
  </url>
  <url>
   <loc>https://stacken.github.io/w3/forum/</loc>
-  <lastmod>2017-08-20T12:21:00Z</lastmod>
+  <lastmod>2017-08-31T16:55:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/forum/" />
  </url>
  <url>
@@ -195,15 +163,7 @@
  </url>
  <url>
   <loc>https://stacken.github.io/w3/news/</loc>
-  <lastmod>2017-08-19T14:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/news/2016/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/news/2016/test2/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2017-08-31T16:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/news/2017/</loc>
@@ -223,11 +183,7 @@
  </url>
  <url>
   <loc>https://stacken.github.io/w3/news/tags/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/news/tags/blaha/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2017-08-31T16:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/news/tags/ths/</loc>
@@ -236,18 +192,6 @@
  <url>
   <loc>https://stacken.github.io/w3/news/tags/www/</loc>
   <lastmod>2017-08-19T13:53:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/news/year/</loc>
-  <lastmod>2017-08-19T14:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/news/year/2016/</loc>
-  <lastmod>2017-08-19T14:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://stacken.github.io/w3/news/year/2017/</loc>
-  <lastmod>2017-08-19T14:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/projects/</loc>
