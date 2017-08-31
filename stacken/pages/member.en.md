@@ -68,6 +68,6 @@ send="Send"
 %}}
 <br>
 We are that you apply to Stacken. If you have filled in the form correctly
-(a 2 in the above field) the Bord will get a E-mail with your information.
+(a 2 in the above field) the Board will get a E-mail with your information.
 We will process your application on our next board meeting.
 {{% /member-form %}}
