@@ -19,7 +19,7 @@ nya studenter som är här och lär sig, använder lokalen för att
 studera, till äldre som har gått vidare i arbetslivet och jobbar med
 allt från programmering till drift av stora kluster av servrar.
 
-Torsdagkvällar från 19-tiden och frammåt möts vi traditionsenligt i
+Torsdagkvällar från 19-tiden och framåt möts vi traditionsenligt i
 lokalen och bygger något, felsöker eller bara pratar om något
 intressant. Är du intresserad så är du alltid väkommen förbi en
 torsdag, det är bara och knacka på vår dörr på plan 2 i Q-huset.
