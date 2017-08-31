@@ -45,7 +45,9 @@
         <li><a href="../forum/">Forum</a></li>
         <li><a href="../projects/">Projekt &amp; Tjänster</a></li>
         <li><a href="../news/index/">Nyheter &amp; Kalender</a></li>
-        <li class="current"><a href=".">Bli medlem <span class="sr-only">(aktiv)</span></a></li>
+        <li class="current active">
+          <a href=".">Bli medlem <span class="sr-only">(aktiv)</span></a>
+        </li>
           </ul>
 <ul class="nav navbar-nav navbar-right">
 <li><a href="../en/member/" rel="alternate" hreflang="en">English</a></li>
@@ -70,7 +72,7 @@ en kårförening inom THS, Tekniska Högskolans Studentkår.</p>
 nya studenter som är här och lär sig, använder lokalen för att
 studera, till äldre som har gått vidare i arbetslivet och jobbar med
 allt från programmering till drift av stora kluster av servrar.</p>
-<p>Torsdagkvällar från 19-tiden och frammåt möts vi traditionsenligt i
+<p>Torsdagkvällar från 19-tiden och framåt möts vi traditionsenligt i
 lokalen och bygger något, felsöker eller bara pratar om något
 intressant. Är du intresserad så är du alltid väkommen förbi en
 torsdag, det är bara och knacka på vår dörr på plan 2 i Q-huset.</p>
@@ -94,49 +96,49 @@ som medlem.</p>
 </div>
 <h3>Medlemsansökan</h3>
 <p></p>
-<form class="form-horizontal">
+<form class="form-horizontal" action="https://www.stacken.kth.se/scripts/mail/index.php" method="post">
   <div class="row">
     <div class="col-md-8">
       <div class="form-group">
         <label for="inputEmail3" class="col-sm-2 control-label">Namn</label>
         <div class="col-sm-10">
-          <input type="text" class="form-control" id="realname" placeholder="Ture Teknolog">
+          <input type="text" class="form-control" name="realname" placeholder="Ture Teknolog">
 </div>
       </div>
       <div class="form-group">
         <label for="inputPassword3" class="col-sm-2 control-label">E-post</label>
         <div class="col-sm-10">
-          <input type="email" class="form-control" id="email" placeholder="d83-ture@kth.se">
+          <input type="email" class="form-control" name="email" placeholder="d83-ture@kth.se">
 </div>
       </div>
       <div class="form-group">
-        <label for="inputPassword3" class="col-sm-2 control-label">KTH-namn</label>
+        <label for="inputPassword3" class="col-sm-2 control-label">Användarnamn på KTH</label>
         <div class="col-sm-10">
-          <input type="text" class="form-control" id="kthnamn" placeholder="d83-ture">
+          <input type="text" class="form-control" name="kthnamn" placeholder="d83-ture">
 </div>
       </div>
       <div class="form-group">
         <label for="inputPassword3" class="col-sm-2 control-label">Telefon</label>
         <div class="col-sm-10">
-          <input type="phone" class="form-control" id="phone" placeholder="07xxxxxx">
+          <input type="phone" class="form-control" name="phone" placeholder="07xxxxxx">
 </div>
       </div>
       <div class="form-group">
         <label for="inputPassword3" class="col-sm-2 control-label">Sysselsättning</label>
         <div class="col-sm-10">
-          <input type="text" class="form-control" id="syssel" placeholder="Student">
+          <input type="text" class="form-control" name="syssel" placeholder="Student">
 </div>
       </div>
       <div class="form-group">
         <label for="inputPassword3" class="col-sm-2 control-label">Användarnamn på Stacken</label>
         <div class="col-sm-10">
-          <input type="text" class="form-control" id="anvandare" placeholder="ture">
+          <input type="text" class="form-control" name="anvandare" placeholder="ture">
 </div>
       </div>
       <div class="form-group">
         <label for="inputPassword3" class="col-sm-2 control-label">Kommentar</label>
         <div class="col-sm-10">
-          <textarea class="form-control" id="anvandare" placeholder="Några ord om dig och varför du söker till Stacken"></textarea>
+          <textarea class="form-control" name="comment" placeholder="Några ord om dig och varför du söker till Stacken"></textarea>
 </div>
       </div>
     </div>
@@ -144,12 +146,12 @@ som medlem.</p>
       <div class="form-group">
         <label for="inputPassword3" class="col-sm-2 control-label">Spam</label>
         <div class="col-sm-10">
-          <input type="text" class="form-control" id="SpamCheck" placeholder="1+1">
+          <input type="text" class="form-control" name="SpamCheck" placeholder="1+1">
 </div>
       </div>
       <div class="checkbox">
         <label>
-          <input type="checkbox"> Jag är THS medlem samt aktiv student på KTH
+          <input type="checkbox" name="is_ths"> Jag är THS medlem samt aktiv student på KTH
         </label>
       </div>
       <div>

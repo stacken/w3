@@ -14,13 +14,6 @@ After the event, if you like to contact us see the page
 [Forum](forum). You are also welcome to our club room at any
 Thursday evening (after 7 PM).
 
-## Membership
-Membership in Stacken is completely free for THS members. For everyone
-else there is a fee of 117 kr/year.
-
-[Read more](../club), or [become a member](../member).
-
-{{% 2split-middle %}}
 ## Stacken
 Stacken Computer Club is open for students or employees at the Royal
 Institute of Technology founded in 1978. We have a clubroom located in the
@@ -38,4 +31,12 @@ Thursday evenings from 7 PM are our traditional day where we meet in the
 clubroom and build something, debug a problem or discuss something
 interesting. If you are interested you are always welcome at any Thursday
 evening, knock at our door at the 2nd level in the Q-building.
+
+{{% 2split-middle %}}
+![Stacken på Kårens Dag](/images/karensdag.jpg){: style="width: 100%" }
+## Membership
+Membership in Stacken is completely free for THS members. For everyone
+else there is a fee of 117 kr/year.
+
+[Read more](../club), or [become a member](../member).
 {{% 2split-end %}}

@@ -52,15 +52,15 @@ No worry, we speak English.
 
 {{% 2split-end %}}
 
-## Medlemsansökan
+## Membership application
 
 {{% member-form
 name="Name"
 email="E-mail"
-KTH="KTH-name"
+KTH="Username at KTH"
 phone="Phone"
 syss="Occupation"
-user="Preferred username"
+user="Username at Stacken"
 misc="Comments"
 misc2="A few words about your self"
 THS="I am a KTH student and a THS member"
@@ -68,6 +68,6 @@ send="Send"
 %}}
 <br>
 We are that you apply to Stacken. If you have filled in the form correctly
-(a 2 in the above field) the Bord will get a E-mail with your information.
+(a 2 in the above field) the Board will get a E-mail with your information.
 We will process your application on our next board meeting.
 {{% /member-form %}}
