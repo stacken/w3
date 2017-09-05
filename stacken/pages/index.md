@@ -33,6 +33,7 @@ inom datorområdet.
         Stacken har varit på och runt KTH i 40 år och varit med
         om födelsen av både den moderna datorn och internet som
         vi känner det i dag.
+        [Läs mer](/club/history/)
     {{% /3cell %}}
 {{% rowend %}}
 

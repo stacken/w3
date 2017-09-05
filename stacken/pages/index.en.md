@@ -32,6 +32,7 @@ all day, come and say hi.
     {{% 3cell title="40 years of Stacken" %}}
         Stacken have been around in 40 years and we have seen the
         birth of the modern computer and the internet.
+        [Read more](/club/history/)
     {{% /3cell %}}
 {{% rowend %}}
 
