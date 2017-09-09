@@ -8,7 +8,7 @@
 Stacken association meeting Thursday 21th september to discuss
 a change in the statutes.
 
-[Read more](/news/2017/extra-meeting/) - [På svenska](/)
+[Read more](https://translate.google.com/translate?hl=en&sl=sv&tl=en&u=http%3A%2F%2Fstacken.kth.se%2Fnews%2F2017%2Fextra-meeting%2F&sandbox=1) (translated) - [På svenska](/)
 {{% /jumbotron %}}
 
 {{% big %}}
