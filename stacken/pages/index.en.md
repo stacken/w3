@@ -5,11 +5,10 @@
 -->
 
 {{% jumbotron title="Stacken lecture" %}}
-Friday the 25th is Stacken at THS Student Union Day. We will be
-located all the way up on the top floor. We will be there (almost)
-all day, come and say hi.
+Stacken association meeting Thursday 21th september to discuss
+a change in the statutes.
 
-[Read more](unionday) - [På svenska](/)
+[Read more](/news/2017/extra-meeting/) - [På svenska](/)
 {{% /jumbotron %}}
 
 {{% big %}}

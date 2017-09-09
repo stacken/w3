@@ -4,11 +4,11 @@
 .. description:
 -->
 
-{{% jumbotron title="Kårens dag" %}}
-Fredagen den 25/8 ställer Stacken ut på THS/Kåren på Kårens dag
-högst upp på plan 3. Undrar du något om Stacken så kom förbi.
+{{% jumbotron title="Stacken föreningsmöte" %}}
+Kallelse till extrainsatt föreningsmöte för Stacken torsdag
+21 september 2017 kl. 19.30.
 
-[Läs mer här](unionday) - [In English](en)
+[Läs mer här](/news/2017/extra-meeting/) - [In English](en)
 {{% /jumbotron %}}
 
 {{% big %}}
