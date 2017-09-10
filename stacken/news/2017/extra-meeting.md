@@ -13,6 +13,8 @@ Kallelse till extrainsatt föreningsmöte för Stacken.
 
 Härmed kallas du som är medlem i Datorföreningen Stacken till föreningsmöte, torsdag 21 september 2017 kl. 19.30 i en sal nära Stackenlokalen.
 
+<!-- TEASER_END -->
+
 Var god betala din medlemsavgift om den inte redan är inbetald (eller du är hedersmedlem eller THS-medlem). Om du betalar den i tid (inkommen innan
 mötet) har du rätt att rösta på mötet.
 
