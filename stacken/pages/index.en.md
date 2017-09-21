@@ -4,11 +4,11 @@
 .. description:
 -->
 
-{{% jumbotron title="Extraordinary General Meeting" %}} On Thursday of
-21th september The Computer Club Stacken organizes an extraordinary
-general meeting to discuss changes in the statutes.
+{{% jumbotron title="Extraordinary General Meeting" %}}
+On Thursday of 21th september The Computer Club Stacken held an
+extraordinary general meeting to discuss changes in the statutes.
 
-[Read more](https://translate.google.com/translate?hl=en&sl=sv&tl=en&u=http%3A%2F%2Fstacken.kth.se%2Fnews%2F2017%2Fextra-meeting%2F&sandbox=1) (translated) - [På svenska](/)
+[Read more](/news/2017/extra-meeting-minutes/)
 {{% /jumbotron %}}
 
 {{% big %}}
