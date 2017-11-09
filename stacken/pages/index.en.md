@@ -4,9 +4,10 @@
 .. description:
 -->
 
-{{% jumbotron title="Extraordinary General Meeting" %}}
-On Thursday of 21th september The Computer Club Stacken held an
-extraordinary general meeting to discuss changes in the statutes.
+{{% jumbotron title="Kallelse till Stackens höstmöte" %}}
+Härmed kallas du som är medlem i Datorföreningen Stacken till
+höstmöte, torsdag 30 november 2017 kl. 19.30 i en sal nära
+Stackenlokalen.
 
 [Read more](/news/2017/fall-meeting/)
 {{% /jumbotron %}}

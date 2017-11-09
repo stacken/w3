@@ -4,9 +4,11 @@
 .. description:
 -->
 
-{{% jumbotron title="Protokoll föreningsmöte 21 september" %}}
-Protokoll fört vid Datorföreningen Stackens extra medlemsmöte
-2017-09-21 klockan 19:30 i Q24.
+{{% jumbotron title="Kallelse till Stackens höstmöte" %}}
+Härmed kallas du som är medlem i Datorföreningen Stacken till
+höstmöte, torsdag 30 november 2017 kl. 19.30 i en sal nära
+Stackenlokalen.
+
 
 [Läs mer här](/news/2017/fall-meeting/)
 {{% /jumbotron %}}
