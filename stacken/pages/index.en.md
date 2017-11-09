@@ -8,7 +8,7 @@
 On Thursday of 21th september The Computer Club Stacken held an
 extraordinary general meeting to discuss changes in the statutes.
 
-[Read more](/news/2017/extra-meeting-minutes/)
+[Read more](/news/2017/fall-meeting/)
 {{% /jumbotron %}}
 
 {{% big %}}

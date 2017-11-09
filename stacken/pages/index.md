@@ -8,7 +8,7 @@
 Protokoll fört vid Datorföreningen Stackens extra medlemsmöte
 2017-09-21 klockan 19:30 i Q24.
 
-[Läs mer här](/news/2017/extra-meeting-minutes/)
+[Läs mer här](/news/2017/fall-meeting/)
 {{% /jumbotron %}}
 
 {{% big %}}
