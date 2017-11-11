@@ -4,12 +4,9 @@
 .. description:
 -->
 
-{{% jumbotron title="Kallelse till Stackens höstmöte" %}}
-Härmed kallas du som är medlem i Datorföreningen Stacken till
-höstmöte, torsdag 30 november 2017 kl. 19.30 i en sal nära
-Stackenlokalen.
-
-[Read more](/news/2017/fall-meeting/)
+{{% jumbotron title="The Computer Club Stacken's Biannual Fall General Meeting" %}}
+We are inviting you to our biannual fall meeting on Thursday 30 nov 2017 7:30 pm located near our club room at the Q-building.
+[Read more](/en/news/2017/fall-meeting/)
 {{% /jumbotron %}}
 
 {{% big %}}
