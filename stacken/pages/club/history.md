@@ -36,13 +36,13 @@ under Sing Sing-gården.
 
 # 90-tal
 
-Baltikumprojektet.  Tack vare Stacken har flesta av de baltiska högskolorna
-gått från ryska PDP-11 kopior till moderna VAXar och SUNar med VMS eller
+Baltikumprojektet.  Tack vare Stacken kunde flera av de baltiska högskolorna
+gå från ryska PDP-11-kopior till moderna VAXar och SUNar med VMS eller
 UNIX.
 
 1992: Första baltikumresan gick till Riga.
 
-1993: Andra baltikumresan, till Tallinn, och tredje, till Riga.
+1993: Andra baltikumresan, till Tallinn, och tredje, till Riga. Se även [artikeln av Jörgen Städje och Thomas Nyström](http://www.teknikaliteter.se/2017/11/14/containeraffaren-ett-stycke-betydelsefull-teknikhistoria/)
 
 Hösten 1993 påbörjades utvecklingen av Arla, en klient för filsystemet AFS,
 på Nada. Utvecklingen pågick både på Stacken och andra delar av KTH, och med
