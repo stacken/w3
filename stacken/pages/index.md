@@ -4,13 +4,12 @@
 .. description:
 -->
 
-{{% jumbotron title="Kallelse till Stackens höstmöte" %}}
-Härmed kallas du som är medlem i Datorföreningen Stacken till
-höstmöte, torsdag 30 november 2017 kl. 19.30 i en sal nära
-Stackenlokalen.
+{{% jumbotron title="Protokoll föreningsmöte 30 november" %}} 
+Protokoll fört vid Datorföreningen Stackens höstmöte, torsdag den 30 November
+2017 klockan 19:30 på Kungliga Tekniska högskolan i en sal nära Stackenlokalen
+(Q24).
 
-
-[Läs mer här](/news/2017/fall-meeting/)
+[Läs mer här](/news/2017/fall-meeting-minutes/)
 {{% /jumbotron %}}
 
 {{% big %}}
