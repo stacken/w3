@@ -4,9 +4,9 @@
 .. description:
 -->
 
-{{% jumbotron title="The Computer Club Stacken's Biannual Fall General Meeting" %}}
-We are inviting you to our biannual fall meeting on Thursday 30 nov 2017 7:30 pm located near our club room at the Q-building.
-[Read more](/en/news/2017/fall-meeting/)
+{{% jumbotron title="The Computer Club Stacken exhibits at The Union Day at Nymble" %}}
+We are currently exhibiting at The Union Day at Nymble. Come and say hi, we are located at the radio room on level 3.
+[Read more](/en/unionday/)
 {{% /jumbotron %}}
 
 {{% big %}}

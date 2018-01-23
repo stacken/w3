@@ -4,12 +4,10 @@
 .. description:
 -->
 
-{{% jumbotron title="Protokoll föreningsmöte 30 november" %}} 
-Protokoll fört vid Datorföreningen Stackens höstmöte, torsdag den 30 November
-2017 klockan 19:30 på Kungliga Tekniska högskolan i en sal nära Stackenlokalen
-(Q24).
+{{% jumbotron title="Stacken ställer ut Kårens dag" %}} 
+Vi på Stacken ställer ut på kårens dag (på Nymble) den 23e Januari 2018, ni är välkommen att komma och säga hej. Ni finner oss i radiorummet på plan 3. 
 
-[Läs mer här](/news/2017/fall-meeting-minutes/)
+[Läs mer här](/unionday/)
 {{% /jumbotron %}}
 
 {{% big %}}
