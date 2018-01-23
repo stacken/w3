@@ -17,7 +17,7 @@ Today, the club has about 90 members, doing everything from building computers t
 If you are interested in how Stacken is managed or if you want to be involved in the association, then read more on the page ["officers"](officers).
 
 ## How to find the club room
-We are located on level 2 in the Q building. You will find more information about our club room on [clubroom](/en/hitta/).
+We are located on level 2 in the Q building. The location of our clubroom can be found [here](https://www.kth.se/places/room/id/dff6aecb-9ad4-43dd-9682-0b0cd3bac131). If you want a more detailed instruction you can find that on [this page](/en/hitta/).
 
 {{% 2split-middle %}}
 ![Photo of server management at Stacken](/images/install-servers.jpg){: style="width: 100%" }
