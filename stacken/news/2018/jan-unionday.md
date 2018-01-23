@@ -1,17 +1,14 @@
-<!--
+<!-- 
 .. title: Kårens dag
-.. slug: student-union-day
-.. date: 2017-08-23 12:00:00 CEST
-.. tags: ths
+.. slug: jan-unionday
+.. date: 2018-01-23 00:00:00 CEST
 .. description:
-.. category: 2017
-.. author: nsg
+.. category: 2018
 -->
 
-Stacken ställer ut på Kårens dag fredagen den 25/8 2017 i THS/Kårens
-hus Nymble från 10:00 till 16:00. Är du intresserad av Stacken, vill
-veta mer om oss eller undrar något så är det ett perfekt tillfälle
-att prata med oss.
+Vi på Stacken ställer ut på Kårens dag (på Nymble) den 23:e Januari
+2018, välkommen att komma och säga hej.
+Ni finner oss i radiorummet på plan 3.
 
 <!-- TEASER_END -->
 

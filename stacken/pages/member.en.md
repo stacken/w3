@@ -24,6 +24,8 @@ clubroom and build something, debug a problem or discuss something
 interesting. If you are interested you are always welcome at any Thursday
 evening, knock at our door at the 2nd level in the Q-building.
 
+[På svenska](/member/)
+
 {{% 2split-middle %}}
 
 ## Membership

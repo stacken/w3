@@ -4,6 +4,6 @@
 .. description:
 -->
 
-Tack för din ansökan.
+Thank you / Tack för din ansökan.
 
-[Tillbaka](..)
+[Back](/en/member/) / [Tillbaka](..)

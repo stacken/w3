@@ -4,8 +4,10 @@
 .. description:
 -->
 
-{{% jumbotron title="Stacken ställer ut Kårens dag" %}} 
-Vi på Stacken ställer ut på kårens dag (på Nymble) den 23e Januari 2018, ni är välkommen att komma och säga hej. Ni finner oss i radiorummet på plan 3. 
+{{% jumbotron title="Stacken ställer ut Kårens dag" %}}
+Vi på Stacken ställer ut på Kårens dag (på Nymble) den 23:e Januari
+2018, välkommen att komma och säga hej.
+Ni finner oss i radiorummet på plan 3.
 
 [Läs mer här](/unionday/)
 {{% /jumbotron %}}
