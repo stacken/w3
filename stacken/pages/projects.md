@@ -31,6 +31,9 @@ GLFW är ett portablet ramverk för OpenGL-programmering, som hanterar fönster,
 ## [StackPointer](stackpointer)
 StackPointer var Datorföreningen Stackens tidning, och kom ut i varierande antal per år, beroende på mängden inkomna bidrag.
 
+## [Nextcloud](https://www.nextcloud.stacken.kth.se)
+Nextcloud kan användas för Dokument, Kalender, Kontakter, Mail och mycket mer. Stacken kör en egen installation sedan 2018.
+
 {{% 2split-end %}}
 
 
