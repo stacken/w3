@@ -24,6 +24,8 @@ lokalen och bygger något, felsöker eller bara pratar om något
 intressant. Är du intresserad så är du alltid väkommen förbi en
 torsdag, det är bara och knacka på vår dörr på plan 2 i Q-huset.
 
+[In English](/en/member/)
+
 {{% 2split-middle %}}
 
 ## Medlemskap
