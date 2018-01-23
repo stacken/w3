@@ -16,7 +16,7 @@ You don't have to be a member in Stacken nor study at KTH to join our channel. A
 We at Stacken have since a long time ago a number of mailing lists used to inform people on events with Stacken. If you experience problem on or having questions about our mailing lists, then please contact <postmaster@stacken.kth.se> for assistance. 
 
 <stacken@stacken.kth.se>
-: A generic list, everything Stacken, talk about problems, fun things to do or just the weather. This list contains both members and non-members. Note that this list is administrated and it can take some time if you send a email from a unknown adress.
+: A generic list, everything Stacken, talk about problems, fun things to do or just the weather. This list contains both members and non-members. Note that this list is administrated and it can take some time if you send a email from a unknown adress. You can be member of this list [here](https://lists.stacken.kth.se/mailman/listinfo/stacken).
 
 <staff@stacken.kth.se>
 : A list for Stackens systems administrators, send relevant questions/mails here.

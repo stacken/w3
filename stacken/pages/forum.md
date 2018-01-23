@@ -16,7 +16,7 @@ Stacken har sedan en lång tid tilllbaka ett antal e-postlistor som används fö
 
 ## Listor
 <stacken@stacken.kth.se>
-: Allmän meddelandekanal, innehåller både medlemmar och icke-medlemmar. Används för det mesta som har med Stacken att göra, som inte hanteras i mer specialiserade listor, och är dessutom per tradition den epostlista som används av utomstående för att kontakta Stacken. Listan är administrerad och skickar du från en okänd adress kan det ta tid för meddelandet att bli godkänt.
+: Allmän meddelandekanal, innehåller både medlemmar och icke-medlemmar. Används för det mesta som har med Stacken att göra, som inte hanteras i mer specialiserade listor, och är dessutom per tradition den epostlista som används av utomstående för att kontakta Stacken. Listan är administrerad och skickar du från en okänd adress kan det ta tid för meddelandet att bli godkänt. För att bli medlem i listan kan du bli det [här](https://lists.stacken.kth.se/mailman/listinfo/stacken).
 
 <staff@stacken.kth.se>
 : En lista för de som känner sig ansvariga för driften av Stackens datorer, nät och dylikt. Hit kan du rapportera systemfel och liknande.
