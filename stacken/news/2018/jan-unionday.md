@@ -6,7 +6,6 @@
 .. category: 2018
 -->
 
-## Kårens dag 
 Vi på Stacken ställer ut på Kårens dag (på Nymble) den 23:e Januari
 2018, välkommen att komma och säga hej.
 Ni finner oss i radiorummet på plan 3.
