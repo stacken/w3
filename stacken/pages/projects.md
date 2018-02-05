@@ -72,7 +72,7 @@ Stacken har egna DNS-servrar där vi erbjuder DNS för oss själva men även and
 ## Stack-O-maten
 Stacken har sedan en tid tillbaka ett system för registrering av inventarier baserad runt RFID, streckkoder och en pekskärm.
 
-## Matrix
+## [Matrix](https://chat.stacken.kth.se/)
 Matrix är ett protokoll för federerade chattrum. Lite som en blandning av IRC och XMPP (Jabber). Stacken kör en egen så kallad "hemserver" av Matrix där alla medlemmar kan få ett konto. Stackens publika chattrum heter #stacken:stacken.kth.se
 
 {{% 2split-end %}}
