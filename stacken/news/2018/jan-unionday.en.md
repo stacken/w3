@@ -10,6 +10,8 @@ Stacken will be at the Student Union Day the 23rd Januari 2018. We
 will be there from 10 to 14. This is an excellent time to say hi,
 talk with us if there is something you like to know.
 
+<!-- TEASER_END -->
+
 {{% 2split-start %}}
 After the event, if you like to contact us see the page
 [Forum](forum). You are also welcome to our club room at any

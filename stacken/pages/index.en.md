@@ -4,9 +4,13 @@
 .. description:
 -->
 
-{{% jumbotron title="The Computer Club Stacken exhibits at The Union Day at Nymble" %}}
-We are currently exhibiting at The Union Day at Nymble. Come and say hi, we are located at the radio room on level 3.
-[Read more](/en/unionday/)
+{{% jumbotron title="Invitation to spring meeting" %}}
+
+You are hereby invited to the Stacken spring meeting 2018, Thursday,
+February 22, at 19:30 at KTH Royal Institute of Technology in a room
+close to the stacken club room.
+
+[Read more](/en/news/2018/varmote/)
 {{% /jumbotron %}}
 
 {{% big %}}
