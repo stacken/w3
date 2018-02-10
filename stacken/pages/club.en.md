@@ -39,7 +39,7 @@ You are always welcome to join us in our clubroom on Thursday from 7pm. Let us k
 
 {{% 2split-middle %}}
 
-## The board 2016-2017
+## The board 2018
 Chairman
 : Stefan Berggren <ordf@stacken.kth.se>
 
@@ -55,7 +55,7 @@ Secretary
 Board Members
 : Martin Frost <frost@stacken.kth.se>
 : Rasmus Kaj <kaj@stacken.kth.se>
-: Peter Caprioli <petercap@stacken.kth.se>
+: Alexander Hjelm <alhjelm@stacken.kth.se>
 
 {{% 2split-end %}}
 
