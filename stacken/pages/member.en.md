@@ -7,14 +7,14 @@
 {{% 2split-start %}}
 
 ## Stacken
-Stacken Computer Club is open for students or employees at the Royal
-Institute of Technology founded in 1978. We have a clubroom located in the
+Stacken Computer Club is open to students and employees at the Royal
+Institute of Technology. We have a clubroom located in the
 Q-building where we have a room with a sofa, fridge, kitchen and of course
-plenty of computers. Also we have a server hall where we run several
+plenty of computers. Also we have a server room where we run several
 services like storage, email and web pages. The club is a student
-organization under THS, the official student union at KTH.
+organization under THS, the official student union at KTH. It was founded in 1978.
 
-The club has plenty of knowledge among its members, we have everything from
+The club has plenty of knowledge among its members; we have everything from
 new students who are here to learn and use the clubroom to study, all the
 way to older members that have moved on and started to work with everything
 from programming to administration of large clusters of servers.
@@ -30,8 +30,8 @@ evening, knock at our door at the 2nd level in the Q-building.
 
 ## Membership
 
-For THS members the membership fee for students is 0 kr, for the rest it is 117
-kr. We prefer it to be paid through Swedish PG 433 01 15-9. Please, note your
+For THS members the membership fee for students is 0 kr, for the rest it is 118
+kr (2018). We prefer it to be paid through Swedish PG 433 01 15-9. Please, note your
 username when paying, and don't pay the fee until you have been notified of
 your status as a member!
 
