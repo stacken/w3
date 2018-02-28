@@ -31,11 +31,11 @@ evening, knock at our door at the 2nd level in the Q-building.
 ## Membership
 
 For THS members the membership fee for students is 0 kr, for the rest it is 118
-kr (2018). We prefer it to be paid through Swedish PG 433 01 15-9. Please, note your
-username when paying, and don't pay the fee until you have been notified of
+kr (2018). We prefer it to be paid through Swedish PG 433 01 15-9. Please put your
+username (if you have one) in the payment note, and don't pay the fee until you have been notified of
 your status as a member!
 
-In all cases, please be patient! Your application will be taken care of at the
+In all cases, please be patient! Your application will be handled at the
 next board meeting.
 
 ## Common questions
@@ -50,7 +50,7 @@ We also self host and manage our own services in our datacenter.
 Nothing, join us and learn.
 
 ### What about Swedish?
-No worry, we speak English.
+No worries, we speak English.
 
 {{% 2split-end %}}
 
@@ -64,12 +64,12 @@ phone="Phone"
 syss="Occupation"
 user="Username at Stacken"
 misc="Comments"
-misc2="A few words about your self"
+misc2="A few words about yourself"
 THS="I am a KTH student and a THS member"
 send="Send"
 %}}
 <br>
-We are that you apply to Stacken. If you have filled in the form correctly
-(a 2 in the above field) the Board will get a E-mail with your information.
+Great that you're applying to Stacken! If you have filled in the form correctly
+(a 2 in the above field) the board will get an E-mail with your information.
 We will process your application on our next board meeting.
 {{% /member-form %}}
