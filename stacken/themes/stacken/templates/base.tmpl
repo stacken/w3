@@ -75,7 +75,14 @@
       <hr>
 
       <footer>
-      <p>{{ blog_title }}</p>
+        <p>
+          {{ blog_title }}
+          {% if lang == "sv" %}
+            - <a href="/club/integritetspolicy/">Integritetspolicy</a>
+          {% else %}
+            - <a href="/en/club/privacy-policy/">Privacy Policy</a>
+          {% endif %}
+        </p>
       </footer>
     </div> <!-- /container -->
 

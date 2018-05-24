@@ -14,6 +14,10 @@ Vi träffas kontinuerligt på torsdagkvällar. Vi brukar vi äta någonstans til
 
 Föreningen har idag ca 90 medlemmar och vi sysslar med allt från byggande av datorer, programmering på alla nivåer, systemunderhåll, datornätverk, kurser, mm. Vi är anslutna till det svenska universitetsdatornätet som har kontakt med datorer världen runt.
 
+## Integritetspolicy
+Stacken har en integritetspolicy om hur vi behandlar personuppgifter.
+Du kan läsa den på [undersidan Integritetspolicy](integritetspolicy).
+
 ## Funktionärer
 Om du är intresserad av hur Stacken sköts, vem du ska kontakta eller
 om du vill bli involverad i föreningen så rekommenderar jag att du

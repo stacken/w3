@@ -13,6 +13,10 @@ On thursday evenings we usualy gather somewhere to eat, after deciding on where 
 
 Today, the club has about 90 members, doing everything from building computers to programming at all levels, systems support, networking, courses, etc. We are connected to sunet, giving access to computers around the world.
 
+## Privacy Policy
+Stacken have a privacy policy with information how we process personal data.
+You can read more at [Privacy Policy](privacy-policy).
+
 ## Volunteers
 If you are interested in how Stacken is managed or if you want to be involved in the association, then read more on the page ["officers"](officers).
 
