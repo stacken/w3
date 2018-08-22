@@ -4,12 +4,12 @@
 .. description:
 -->
 
-{{% jumbotron title="Kallelse till vårmöte" %}}
-Härmed kallas Stackens medlemmar till Stackens vårmöte 2018, torsdagen
-den 22:e februari klockan 19.30 på Kungliga Tekniska Högskolan i en
-sal i närheten av Stackenlokalen.
+{{% jumbotron title="Kårens dag" %}}
+Vi på Stacken ställer ut på Kårens dag (på Nymble) idag den 22:e Augusti
+2018, välkommen att komma och säga hej.
+Ni finner oss i tv-rummet på plan 3.
 
-[Läs mer här](/news/2018/varmote/)
+[Läs mer här](/news/2018/unionday/)
 {{% /jumbotron %}}
 
 {{% big %}}
