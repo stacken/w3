@@ -12,7 +12,7 @@ talk with us if there is something you like to know.
 
 [Read more](/en/news/2018/unionday/)
 
-[Chatta med oss!](/club/irc/)
+[Chat with us!](/club/irc/)
 {{% /jumbotron %}}
 
 {{% big %}}

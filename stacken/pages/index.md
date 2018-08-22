@@ -11,7 +11,7 @@ Ni finner oss i tv-rummet på plan 3.
 
 [Läs mer här](/news/2018/unionday/)
 
-[Chat with us!](/club/irc/)
+[Chatta med oss!](/club/irc/)
 {{% /jumbotron %}}
 
 {{% big %}}
