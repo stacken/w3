@@ -4,13 +4,13 @@
 .. description:
 -->
 
-{{% jumbotron title="Invitation to spring meeting" %}}
+{{% jumbotron title="Kårens dag / THS Union day" %}}
 
-You are hereby invited to the Stacken spring meeting 2018, Thursday,
-February 22, at 19:30 at KTH Royal Institute of Technology in a room
-close to the stacken club room.
+Stacken will be at the Student Union Day the 22rd August 2018. We
+will be there from 10 to 14. This is an excellent time to say hi,
+talk with us if there is something you like to know.
 
-[Read more](/en/news/2018/varmote/)
+[Read more](/en/news/2018/unionday/)
 {{% /jumbotron %}}
 
 {{% big %}}
