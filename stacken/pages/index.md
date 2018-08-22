@@ -10,6 +10,8 @@ Vi på Stacken ställer ut på Kårens dag (på Nymble) idag den 22:e Augusti
 Ni finner oss i tv-rummet på plan 3.
 
 [Läs mer här](/news/2018/unionday/)
+
+[Chat with us!](/club/irc/)
 {{% /jumbotron %}}
 
 {{% big %}}

@@ -11,6 +11,8 @@ will be there from 10 to 14. This is an excellent time to say hi,
 talk with us if there is something you like to know.
 
 [Read more](/en/news/2018/unionday/)
+
+[Chatta med oss!](/club/irc/)
 {{% /jumbotron %}}
 
 {{% big %}}
