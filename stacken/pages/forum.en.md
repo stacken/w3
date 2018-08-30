@@ -17,7 +17,7 @@ you don't have to be a member in Stacken nor study at KTH to join our channel. #
 # IRC
 Stacken have a [#stackenkth](/club/irc/) at Freenode. The channel is to well used but it's a easy way to say *hi*. We mosly use this room for specific events.
 
-# E-post
+# E-mail
 <stacken@stacken.kth.se> is a generic list, everything Stacken, talk about problems, fun things to do or just the weather. This list contains both members and non-members.
 
 {{% 2split-middle %}}
