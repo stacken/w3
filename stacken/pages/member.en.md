@@ -66,10 +66,13 @@ user="Username at Stacken"
 misc="Comments"
 misc2="A few words about yourself"
 THS="I am a KTH student and a THS member"
-send="Send"
+send="Send and Agree"
 %}}
 <br>
 Great that you're applying to Stacken! If you have filled in the form correctly
 (a 2 in the above field) the board will get an E-mail with your information.
 We will process your application on our next board meeting.
+
+By submitting this form you agree that we store and process the submited data. More about our [privacy policy here](/en/club/privacy-policy/).
+
 {{% /member-form %}}

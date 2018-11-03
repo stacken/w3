@@ -60,10 +60,12 @@ user="Användarnamn på Stacken"
 misc="Kommentar"
 misc2="Några ord om dig och varför du söker till Stacken"
 THS="Jag är THS-medlem samt aktiv student på KTH"
-send="Skicka"
+send="Skicka och Godkänn"
 %}}
 <br>
 Kul att du söker till Stacken. Om du har fyllt i formuläret korrekt (skriv 2 här ovan)
 så kommer vi i Styrelsen få ett mail med din ansökan. Vi hör av oss nästa gång
 styrelsen möts.
+
+Genom att skicka det här formuläret så godkänner du att vi sparat och processar din data. Du kan läsa mer om vår [integritetspolicy här](/club/integritetspolicy/).
 {{% /member-form %}}
