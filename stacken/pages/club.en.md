@@ -7,7 +7,7 @@
 > Stacken is a computer club for students and staff at KTH. The goal is to provide a more independent way of absorbing computing knowledge than through the schools courses.
 
 {{% 2split-start %}}
-Founded in 1978, the club is a part of the Student Union at the KTH. We have a club room on floor 2 in the Q-building (to the left and down one flight of stairs from the main entrance), in former terminal room XQ7 (50:16 A:237). Q-Huset has entrances at Osquldas väg 6 next to the restaurant and at Drottning Kristinas Väg 53C at the bridge that crosses the Roslagsbanan light rail line.
+Founded in 1978, the club is a part of the Student Union at the KTH. We have a club room on floor 2 in the Q-building (to the left and down one flight of stairs from the main entrance), in former terminal room XQ7 (50:16 A:237). Q-Huset has entrances at Malvinas väg 6 next to the restaurant and at Drottning Kristinas Väg 53C at the bridge that crosses the Roslagsbanan light rail line.
 
 On thursday evenings we usualy gather somewhere to eat, after deciding on where to eat in Jabber. After eating, we go to the club room and hack away the rest of the night.
 

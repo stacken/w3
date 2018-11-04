@@ -28,8 +28,8 @@
 * Passera Kårhuset
 * Passera Försvarshögskolan
 * Passera Ytkemi (gult hus till vänster)
-* Sväng upp på branta backen till vänster: Osquldas Väg.
-* Gå in på Osquldas Väg 6
+* Sväng upp på branta backen till vänster: Malvinas Väg.
+* Gå in på Malvinas Väg 6
 * Sväng vänster, gå ner en trappa.
 * Du ser en rad med syddsrumsdörrar
 * Sista skyddsrumsdörren är Stackenlokalen Rum 237 XQ7 på vänster sida.
