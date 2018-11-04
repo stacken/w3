@@ -17,17 +17,18 @@
 {% endblock %}
 
 {% block content %}
-<h2>Nyheter & Kalender</h2>
+<h2>{% if lang == "sv" %}Nyheter & Kalender{% else %}News & Calendar{% endif %}</h2>
+<div class="jumbotron">
+    <div class="container">
+        <h2><a href="{{ posts.0.permalink() }}" class="u-url">{{ posts.0.title()|e }}</a></h2>
+        {{ posts.0.text(teaser_only=True) }}
+        <small>{{ posts.0.formatted_date(date_format)|e }}</small>
+    </div>
+</div>
+
+<div class="col-md-8">
 {% for post in posts %}
-    {% if loop.index == 1 %}
-        <div class="jumbotron">
-            <div class="container">
-                <h2><a href="{{ post.permalink() }}" class="u-url">{{ post.title()|e }}</a></h2>
-                {{ post.text(teaser_only=True) }}
-                <small>{{ post.formatted_date(date_format)|e }}</small>
-            </div>
-        </div>
-    {% else %}
+    {% if loop.index > 1 %}
     <div>
         <h2><a href="{{ post.permalink() }}" class="u-url">{{ post.title()|e }}</a></h2>
         <small>{{ post.formatted_date(date_format)|e }}</small>
@@ -35,6 +36,15 @@
     </div>
     {% endif %}
 {% endfor %}
+</div>
+<div class="col-md-4">
+    <h2>{% if lang == "sv" %}År{% else %}Year{% endif %}</h2>
+    {% set this_year = 2018 %}
+    {% set news_to = 1996 %}
+    {% for year in range(this_year - (news_to - 1)) %}
+        <a class="reference" href="/news/{{ this_year - year }}">{{ this_year - year }}</a><br>
+    {% endfor %}
+</div>
 {% endblock %}
 
 {% block footer %}

@@ -74,17 +74,19 @@
 
       <hr>
 
-      <footer>
-        <p>
-          {{ blog_title }}
-          {% if lang == "sv" %}
-            - <a href="/club/integritetspolicy/">Integritetspolicy</a>
-          {% else %}
-            - <a href="/en/club/privacy-policy/">Privacy Policy</a>
-          {% endif %}
-          {% block footer %}{% endblock %}
-        </p>
-      </footer>
+      <div class="col-md-12">
+        <footer>
+          <p>
+            {{ blog_title }}
+            {% if lang == "sv" %}
+              - <a href="/club/integritetspolicy/">Integritetspolicy</a>
+            {% else %}
+              - <a href="/en/club/privacy-policy/">Privacy Policy</a>
+            {% endif %}
+            {% block footer %}{% endblock %}
+          </p>
+        </footer>
+      </div>
     </div> <!-- /container -->
 
     <!-- Bootstrap core JavaScript
