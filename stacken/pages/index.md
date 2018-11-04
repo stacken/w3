@@ -4,14 +4,10 @@
 .. description:
 -->
 
-{{% jumbotron title="Kårens dag" %}}
-Vi på Stacken ställer ut på Kårens dag (på Nymble) idag den 22:e Augusti
-2018, välkommen att komma och säga hej.
-Ni finner oss i tv-rummet på plan 3.
-
-[Läs mer här](/news/2018/unionday/)
-
-[Chatta med oss!](/club/irc/)
+{{% jumbotron title="Stacken Forum" %}}
+Stacken finns på Matrix, Jabber, IRC och E-post. Vi har även en lokalt
+i Q-huset vid KTH. För att komma i kontakt med oss, eller hälsa på,
+läs mer på sidan [forum](/forum/).
 {{% /jumbotron %}}
 
 {{% big %}}

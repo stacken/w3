@@ -4,15 +4,10 @@
 .. description:
 -->
 
-{{% jumbotron title="Kårens dag / THS Union day" %}}
-
-Stacken will be at the Student Union Day the 22rd August 2018. We
-will be there from 10 to 14. This is an excellent time to say hi,
-talk with us if there is something you like to know.
-
-[Read more](/en/news/2018/unionday/)
-
-[Chat with us!](/club/irc/)
+{{% jumbotron title="Stacken Forum" %}}
+Stacken is on Matrix, Jabber, IRC and E-mail. We also have a club room in the
+Q-building at KTH. To get in contact, or if you like to visit see the
+page [forum](/en/forum/).
 {{% /jumbotron %}}
 
 {{% big %}}
