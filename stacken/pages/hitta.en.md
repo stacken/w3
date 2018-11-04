@@ -30,7 +30,7 @@
 * Pass the Defence University
 * Pass Surface Chemistry (yellow house on your left)
 * Turn left and proceed up the steep slope
-* Enter the building at Osquldas Väg 6
+* Enter the building at Malvinas Väg 6
 * Turn left, proceed down one floor.
 * Now you see shelter doors on your left
 * The last shelter door is the Stacken room (237 XQ7) to your left
