@@ -8,6 +8,13 @@
 {% import 'macro_menu.tmpl' as menu with context %}
 
 {% block menu %}{{ menu.show_menu() }}{% endblock %}
+{% block lang %}
+    {% if lang == "sv" %}
+        <li><a href="/en/news/index/" rel="alternate" hreflang="{{ langname }}">English</a></li>
+    {% else %}
+        <li><a href="/news/index/" rel="alternate" hreflang="{{ langname }}">Svenska</a></li>
+    {% endif %}
+{% endblock %}
 
 {% block content %}
 <h2>Nyheter & Kalender</h2>
@@ -28,4 +35,12 @@
     </div>
     {% endif %}
 {% endfor %}
+{% endblock %}
+
+{% block footer %}
+    {% if lang == "sv" %}
+        - This page is also available in <a href="/en/news/index/" rel="alternate" hreflang="{{ langname }}">English</a>
+    {% else %}
+        - Den är sidan finns även på <a href="/news/index/" rel="alternate" hreflang="{{ langname }}">svenska</a>
+    {% endif %}
 {% endblock %}

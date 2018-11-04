@@ -4,6 +4,12 @@
 .. description:
 -->
 
+<!--
+    En lite tydligare länk till den engelska sidan, extra viktigt på mobilen
+    där navigationen är gömd.
+-->
+Most pages are translated to English, [click here for the English version](/en/).
+
 {{% jumbotron title="Stacken Forum" %}}
 Stacken finns på Matrix, Jabber, IRC och E-post. Vi har även en lokalt
 i Q-huset vid KTH. För att komma i kontakt med oss, eller hälsa på,
