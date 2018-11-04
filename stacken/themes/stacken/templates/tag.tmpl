@@ -7,14 +7,41 @@
 #}
 
 {% block menu %}{{ menu.show_menu() }}{% endblock %}
+{% block lang %}
+    {% if lang == "sv" %}
+        <li><a href="/en/news/{{ tag }}/" rel="alternate" hreflang="{{ langname }}">English</a></li>
+    {% else %}
+        <li><a href="/news/{{ tag }}/" rel="alternate" hreflang="{{ langname }}">Svenska</a></li>
+    {% endif %}
+{% endblock %}
 
 {% block content %}
-    <h1>{{ tag }}</h1>
-    {% if posts %}
-    <ul class="postlist">
-    {% for post in posts %}
-        <li><time class="listdate" datetime="{{ post.formatted_date('webiso') }}" title="{{ post.formatted_date(date_format)|e }}">{{ post.formatted_date(date_format)|e }}</time> - <a href="{{ post.permalink() }}" class="listtitle">{{ post.title()|e }}<a></li>
+<h2>{% if lang == "sv" %}Nyheter för år {% else %}News for year {% endif %}{{ tag }}</h2>
+
+<div class="col-md-8">
+{% for post in posts %}
+    <div>
+        <h2><a href="{{ post.permalink() }}" class="u-url">{{ post.title()|e }}</a></h2>
+        <small>{{ post.formatted_date(date_format)|e }}</small>
+        {{ post.text(teaser_only=True) }}
+    </div>
+{% endfor %}
+</div>
+<div class="col-md-4">
+    <h2>{% if lang == "sv" %}År{% else %}Year{% endif %}</h2>
+    {% set this_year = 2018 %}
+    {% set news_to = 1996 %}
+    {% for year in range(this_year - (news_to - 1)) %}
+        {% set root_url = "/" if lang == "sv" else "/en/" %}
+        <a class="reference" href="{{ root_url }}news/{{ this_year - year }}">{{ this_year - year }}</a><br>
     {% endfor %}
-    </ul>
+</div>
+{% endblock %}
+
+{% block footer %}
+    {% if lang == "sv" %}
+        - This page is also available in <a href="/en/news/{{ tag }}/" rel="alternate" hreflang="{{ langname }}">English</a>
+    {% else %}
+        - Den är sidan finns även på <a href="/news/{{ tag }}/" rel="alternate" hreflang="{{ langname }}">svenska</a>
     {% endif %}
 {% endblock %}
