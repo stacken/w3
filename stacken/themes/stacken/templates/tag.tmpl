@@ -18,23 +18,41 @@
 {% block content %}
 <h2>{% if lang == "sv" %}Nyheter för år {% else %}News for year {% endif %}{{ tag }}</h2>
 
-<div class="col-md-8">
+<div class="col-md-10" style="padding-left: 0px">
 {% for post in posts %}
-    <div>
-        <h2><a href="{{ post.permalink() }}" class="u-url">{{ post.title()|e }}</a></h2>
-        <small>{{ post.formatted_date(date_format)|e }}</small>
-        {{ post.text(teaser_only=True) }}
+
+    <div class="panel panel-danger">
+        <div class="panel-heading">
+            <h3 class="panel-title">
+                <span style="float:right">{{ post.formatted_date(date_format)|e }}</span>
+                <a href="{{ post.permalink() }}" class="u-url">{{ post.title()|e }}</a>
+            </h3>
+        </div>
+        <div class="panel-body">
+            {{ post.text(teaser_only=True) }}
+        </div>
     </div>
+
 {% endfor %}
 </div>
-<div class="col-md-4">
-    <h2>{% if lang == "sv" %}År{% else %}Year{% endif %}</h2>
-    {% set this_year = 2018 %}
-    {% set news_to = 1996 %}
-    {% for year in range(this_year - (news_to - 1)) %}
-        {% set root_url = "/" if lang == "sv" else "/en/" %}
-        <a class="reference" href="{{ root_url }}news/{{ this_year - year }}">{{ this_year - year }}</a><br>
-    {% endfor %}
+<div class="col-md-2">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title text-center">
+                {% if lang == "sv" %}År{% else %}Year{% endif %}
+            </h3>
+        </div>
+        <div class="panel-body text-center">
+            {% set this_year = 2018 %}
+            {% set news_to = 1996 %}
+            {% for year in range(this_year - (news_to - 1)) %}
+                {% set root_url = "/" if lang == "sv" else "/en/" %}
+                <p style="margin-bottom: 0.4em">
+                    <a class="reference" href="{{ root_url }}news/{{ this_year - year }}">{{ this_year - year }}</a>
+                </p>
+            {% endfor %}
+        </div>
+    </div>
 </div>
 {% endblock %}
 
