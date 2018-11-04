@@ -13,6 +13,9 @@ On thursday evenings we usualy gather somewhere to eat, after deciding on where 
 
 Today, the club has about 90 members, doing everything from building computers to programming at all levels, systems support, networking, courses, etc. We are connected to sunet, giving access to computers around the world.
 
+## Bylaws
+You can find our bylaws at [this page (in Swedish)](bylaws).
+
 ## Privacy Policy
 Stacken have a privacy policy with information how we process personal data.
 You can read more at [Privacy Policy](privacy-policy).
