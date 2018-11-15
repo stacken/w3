@@ -5,9 +5,11 @@
 -->
 
 {{% jumbotron title="Stacken Forum" %}}
-Stacken is on Matrix, Jabber, IRC and E-mail. We also have a club room in the
-Q-building at KTH. To get in contact, or if you like to visit see the
-page [forum](/en/forum/).
+Hereby you, as member of The Computer Club Stacken, are called to the autumn 
+meeting at Thursday November the 29:th at 19:30 in a room near the Stacken club
+room.
+
+[Read More](/en/news/index/).
 {{% /jumbotron %}}
 
 {{% big %}}
