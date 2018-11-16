@@ -10,7 +10,7 @@
 -->
 Most pages are translated to English, [click here for the English version](/en/).
 
-{{% jumbotron title="Stacken Forum" %}}
+{{% jumbotron title="Höstmöte" %}}
 Härmed kallas du som är medlem i Datorföreningen Stacken till höstmöte, torsdag 
 29 november 2018 kl. 19.30 i en sal nära Stackenlokalen.
 

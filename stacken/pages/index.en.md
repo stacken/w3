@@ -4,7 +4,7 @@
 .. description:
 -->
 
-{{% jumbotron title="Stacken Forum" %}}
+{{% jumbotron title="Autumn Meeting" %}}
 Hereby you, as member of The Computer Club Stacken, are called to the autumn 
 meeting at Thursday November the 29:th at 19:30 in a room near the Stacken club
 room.
