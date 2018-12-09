@@ -17,10 +17,16 @@ Just type `make`, this will output the result to `output/`
 
 A easy and nice way to test your page, just type `make server`, point your browser to [localhost:8000](http://localhost:8000).
 
+You can also use the Dockerfile, do something like this:
+```
+docker build -t w3 .
+docker run -ti -p 8000:80 w3
+```
+
+## Share a test build
+
+To deploy the test site to GitHub Pages type `make deploy`. View it at [stacken.github.io/w3](https://stacken.github.io/w3/), help me make it awesome!
+
 ## Deploy
 
-To deploy the test site to GitHub Pages type `make deploy`.
-
-## View
-
-Try it out at [stacken.github.io/w3](https://stacken.github.io/w3/), help me make it awesome!
+A webhook will trigger a build for production over at [www.stacken.kth.se](https://www.stacken.kth.se). It should be live a short moment after the push.

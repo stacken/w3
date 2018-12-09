@@ -6,16 +6,8 @@
 * Publika tjänster
   * Ta bort det som inte är sant längre, flytta de till historiskt.
   * Lägg till det som saknas
-* Stadgar
 * Sponsorer
   * Gå igenom texten och länka under projekt nån stans.
-* Kalender
-  * Använd Nikolas blog-funktion för det här
-* Projekt
-  * Flytta det som är historiskt till historiskt
-  * Uppdatera med det som saknas
-* Diskussionforum
-  * Gå igenom text
 * Manualer och sånt
   * Gå igenom
 * Computing
@@ -27,5 +19,3 @@
   * Gå igenom, förmodligen städa bort
 * Administration på Stacken
   * Gå igenom, lite till manualer och mycket till wiki m.m.
-* Certifikat för Stacken
-  * ta bort
