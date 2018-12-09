@@ -10,7 +10,7 @@
 -->
 Most pages are translated to English, [click here for the English version](/en/).
 
-{{% jumbotron title="Höstmöte" %}}
+{{% jumbotron title="Stacken Forum" %}}
 Stacken finns på Matrix, Jabber, IRC och E-post. Vi har även en lokalt
 i Q-huset vid KTH. För att komma i kontakt med oss, eller hälsa på,
 läs mer på sidan [forum](/forum/).

@@ -4,7 +4,7 @@
 .. description:
 -->
 
-{{% jumbotron title="Autumn Meeting" %}}
+{{% jumbotron title="Stacken Forum" %}}
 Stacken is on Matrix, Jabber, IRC and E-mail. We also have a club room in the
 Q-building at KTH. To get in contact, or if you like to visit see the
 page [forum](/en/forum/).
