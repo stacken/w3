@@ -13,7 +13,7 @@ Most pages are translated to English, [click here for the English version](/en/)
 {{% jumbotron title="Stacken Forum" %}}
 Stacken finns på Matrix, Jabber, IRC och E-post. Vi har även en lokalt
 i Q-huset vid KTH. För att komma i kontakt med oss, eller hälsa på,
-läs mer på sidan forum.
+läs mer <a href="/forum/">på sidan <em>forum</em></a>.
 {{% /jumbotron %}}
 
 {{% big %}}
@@ -27,7 +27,7 @@ inom datorområdet.
         Vi erbjuder gemensamma projekt att arbeta på, tjänster för
         medlemmar, föreningar eller sektioner att använda.
         Föreläsningar och andra kul aktiviteter.
-        [Läs mer](/projects/)
+        <a href="/projects/">Läs mer</a>
     {{% /3cell %}}
     {{% 3cell title="För studenter" %}}
         Stacken är en datorförening för studenter och anställda
@@ -38,7 +38,7 @@ inom datorområdet.
         Stacken har varit på och runt KTH i 40 år och varit med
         om födelsen av både den moderna datorn och internet som
         vi känner det i dag.
-        [Läs mer](/club/history/)
+        <a href="/club/history/">Läs mer</a>
     {{% /3cell %}}
 {{% rowend %}}
 

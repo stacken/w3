@@ -5,9 +5,10 @@
 -->
 
 {{% jumbotron title="Stacken Forum" %}}
-Stacken is on Matrix, Jabber, IRC and E-mail. We also have a club room in the
-Q-building at KTH. To get in contact, or if you like to visit see the
-page forum.
+Stacken is online via Matrix, Jabber, IRC and E-mail.
+We also have a club room in the Q-building at KTH.
+To get in contact, or if you like to visit see
+<a href="/en/forum/">the page <em>forum</em></a>.
 {{% /jumbotron %}}
 
 {{% big %}}
@@ -30,7 +31,7 @@ page forum.
     {{% 3cell title="40 years of Stacken" %}}
         Stacken have been around in 40 years and we have seen the
         birth of the modern computer and the internet.
-        [Read more](/club/history/)
+        <a href="/club/history/">Read more</a>
     {{% /3cell %}}
 {{% rowend %}}
 
