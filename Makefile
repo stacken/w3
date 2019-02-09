@@ -21,15 +21,23 @@ deploy: ${ENVDIR} ${ENVDIR}/bin/nikola
 		&& nikola github_deploy
 
 ${ENVDIR}/bin/nikola:
-	# Note: the requirements file was the result of
-	# an "pip install --upgrade "Nikola[extras]"
 	. ${ENVDIR}/bin/activate \
-		&& pip install -r requirements.txt
+		&& pip install -r nikola-requirements.txt
+
+# Run this to update nikola-requirements.txt with a fresh version of Nikola
+update-nikola:
+	virtualenv -p python3 .tmpenv
+	. .tmpenv/bin/activate && pip install --upgrade "Nikola[extras]"
+	. .tmpenv/bin/activate && pip freeze \
+		| grep -v pkg-resources \
+		> nikola-requirements.txt
+	rm -rf .tmpenv
 
 clean:
 	rm -rf stacken/cache
 	rm -rf stacken/output
 	rm -rf ${ENVDIR}
+	rm -rf .tmpenv
 
 ${ENVDIR}:
 	virtualenv -p python3 ${ENVDIR}

@@ -1,6 +1,6 @@
 FROM python:3
-ADD requirements.txt /app/requirements.txt
-RUN pip install -r /app/requirements.txt
+ADD nikola-requirements.txt /app/nikola-requirements.txt
+RUN pip install -r /app/nikola-requirements.txt
 ADD stacken /app/stacken
 WORKDIR /app/stacken
 RUN nikola build
