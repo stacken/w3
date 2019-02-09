@@ -24,12 +24,14 @@ lokalen och bygger något, felsöker eller bara pratar om något
 intressant. Är du intresserad så är du alltid väkommen förbi en
 torsdag, det är bara och knacka på vår dörr på plan 2 i Q-huset.
 
+[In English](/en/member/)
+
 {{% 2split-middle %}}
 
 ## Medlemskap
 
-Medlemsavgiften 2017 är gratis för studenter som är THS-medlemmar,
-för övriga är den 117 kr. Vi föredrar att du betalar via
+Medlemsavgiften 2018 är gratis för studenter som är THS-medlemmar,
+för övriga är den 118 kr. Vi föredrar att du betalar via
 PG 433 01 15-9. Var god och notera ditt användarnamn när du betalar.
 Betala inte medlemsavgiften innan du har fått veta att du är antagen
 som medlem.
@@ -39,7 +41,7 @@ Din ansökan kommer att behandlas vid nästa styrelsemöte.
 ## Vanliga frågor
 
 ### Vad gör ni?
-Förenings syfte är att främja intresset för och vidga kunskaper inom datorområdet. Vad vi gör beror på vad våra aktiva medlemmar vill, det kan vara allt från föreläsningar och tävlingar till hjälp med svåra problem. Vi hostar även själv ett flertal tjänster i en egen datorhall.
+Föreningens syfte är att främja intresset för och vidga kunskaper inom datorområdet. Vad vi gör beror på vad våra aktiva medlemmar vill, det kan vara allt från föreläsningar och tävlingar till hjälp med svåra problem. Vi hostar även själva ett flertal tjänster i en egen datorhall.
 
 ### Vad behöver jag kunna för att vara med?
 Inget, gå med och lär dig det du tycker är intressant.
@@ -57,11 +59,13 @@ syss="Sysselsättning"
 user="Användarnamn på Stacken"
 misc="Kommentar"
 misc2="Några ord om dig och varför du söker till Stacken"
-THS="Jag är THS medlem samt aktiv student på KTH"
-send="Skicka"
+THS="Jag är THS-medlem samt aktiv student på KTH"
+send="Skicka och Godkänn"
 %}}
 <br>
 Kul att du söker till Stacken. Om du har fyllt i formuläret korrekt (skriv 2 här ovan)
 så kommer vi i Styrelsen få ett mail med din ansökan. Vi hör av oss nästa gång
 styrelsen möts.
+
+Genom att skicka det här formuläret så godkänner du att vi sparar och processar din data. Du kan läsa mer om vår [integritetspolicy här](/club/integritetspolicy/).
 {{% /member-form %}}

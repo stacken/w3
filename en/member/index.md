@@ -7,14 +7,14 @@
 {{% 2split-start %}}
 
 ## Stacken
-Stacken Computer Club is open for students or employees at the Royal
-Institute of Technology founded in 1978. We have a clubroom located in the
+Stacken Computer Club is open to students and employees at the Royal
+Institute of Technology. We have a clubroom located in the
 Q-building where we have a room with a sofa, fridge, kitchen and of course
-plenty of computers. Also we have a server hall where we run several
+plenty of computers. Also we have a server room where we run several
 services like storage, email and web pages. The club is a student
-organization under THS, the official student union at KTH.
+organization under THS, the official student union at KTH. It was founded in 1978.
 
-The club has plenty of knowledge among its members, we have everything from
+The club has plenty of knowledge among its members; we have everything from
 new students who are here to learn and use the clubroom to study, all the
 way to older members that have moved on and started to work with everything
 from programming to administration of large clusters of servers.
@@ -24,16 +24,18 @@ clubroom and build something, debug a problem or discuss something
 interesting. If you are interested you are always welcome at any Thursday
 evening, knock at our door at the 2nd level in the Q-building.
 
+[På svenska](/member/)
+
 {{% 2split-middle %}}
 
 ## Membership
 
-For THS members the membership fee for students is 0 kr, for the rest it is 117
-kr. We prefer it to be paid through Swedish PG 433 01 15-9. Please, note your
-username when paying, and don't pay the fee until you have been notified of
+For THS members the membership fee for students is 0 kr, for the rest it is 118
+kr (2018). We prefer it to be paid through Swedish PG 433 01 15-9. Please put your
+username (if you have one) in the payment note, and don't pay the fee until you have been notified of
 your status as a member!
 
-In all cases, please be patient! Your application will be taken care of at the
+In all cases, please be patient! Your application will be handled at the
 next board meeting.
 
 ## Common questions
@@ -48,7 +50,7 @@ We also self host and manage our own services in our datacenter.
 Nothing, join us and learn.
 
 ### What about Swedish?
-No worry, we speak English.
+No worries, we speak English.
 
 {{% 2split-end %}}
 
@@ -62,12 +64,15 @@ phone="Phone"
 syss="Occupation"
 user="Username at Stacken"
 misc="Comments"
-misc2="A few words about your self"
+misc2="A few words about yourself"
 THS="I am a KTH student and a THS member"
-send="Send"
+send="Send and Agree"
 %}}
 <br>
-We are that you apply to Stacken. If you have filled in the form correctly
-(a 2 in the above field) the Board will get a E-mail with your information.
+Great that you're applying to Stacken! If you have filled in the form correctly
+(a 2 in the above field) the board will get an E-mail with your information.
 We will process your application on our next board meeting.
+
+By submitting this form you agree that we store and process the submited data. More about our [privacy policy here](/en/club/privacy-policy/).
+
 {{% /member-form %}}

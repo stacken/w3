@@ -6,39 +6,119 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://stacken.github.io/w3/authors/kaj.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/authors/medik.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/authors/nsg.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/authors/stacken.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/en/authors/kaj.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/en/authors/medik.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/en/authors/nsg.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/en/authors/stacken.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/en/galleries/rss.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/en/news/2016.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://stacken.github.io/w3/en/news/2017.xml</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/en/news/2018.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/en/news/tags/meeting.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/en/news/tags/rms.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/en/news/tags/stackenforelasning.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/en/news/tags/ths.xml</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/en/news/tags/www.xml</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/en/rss.xml</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/galleries/rss.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/news/2016.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/news/2017.xml</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/news/2018.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/news/tags/meeting.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/news/tags/rms.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://stacken.github.io/w3/news/tags/stackenforelasning.xml</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/news/tags/ths.xml</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/news/tags/www.xml</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/rss.xml</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://stacken.github.io/w3/sitemap.xml</loc>
-  <lastmod>2017-08-31T17:00:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </sitemap>
 </sitemapindex>

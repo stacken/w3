@@ -6,13 +6,13 @@
 
 {{% 2split-start %}}
 ## Kårens dag 
-Stacken ställer ut på Kårens dag fredagen den 25/8 2017 i THS/Kårens
-hus Nymble från 10:00 till 16:00. Är du intresserad av Stacken, vill
+Stacken ställer ut på Kårens dag tisdag den 23/1 2018 i THS/Kårens
+hus Nymble från 10:00 till 14:00. Är du intresserad av Stacken, vill
 veta mer om oss eller undrar något så är det ett perfekt tillfälle
 att prata med oss.
 
 Missade du oss, eller för att komma i kontakt med oss se sidan
-[Forum](/forum). Du är även välkommen att komma förbi oss en
+[Forum](forum). Du är även välkommen att komma förbi oss en
 torsdagskväll (säkrast efter 19).
 
 ## Stacken

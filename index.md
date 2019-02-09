@@ -4,12 +4,16 @@
 .. description:
 -->
 
-{{% jumbotron title="Kårens dag" %}}
-Fredagen den 25/8 ställer Stacken ut på THS/Kåren på Kårens dag
-högst upp på plan 3. Undrar du något om Stacken så kom förbi.
+<!--
+    En lite tydligare länk till den engelska sidan, extra viktigt på mobilen
+    där navigationen är gömd.
+-->
+Most pages are translated to English, [click here for the English version](/en/).
 
-[Läs mer här](unionday) - [In English](en)
-
+{{% jumbotron title="Stacken Forum" %}}
+Stacken finns på Matrix, Jabber, IRC och E-post. Vi har även en lokalt
+i Q-huset vid KTH. För att komma i kontakt med oss, eller hälsa på,
+läs mer <a href="/forum/">på sidan <em>forum</em></a>.
 {{% /jumbotron %}}
 
 {{% big %}}
@@ -23,7 +27,7 @@ inom datorområdet.
         Vi erbjuder gemensamma projekt att arbeta på, tjänster för
         medlemmar, föreningar eller sektioner att använda.
         Föreläsningar och andra kul aktiviteter.
-        [Läs mer](/projects/)
+        <a href="/projects/">Läs mer</a>
     {{% /3cell %}}
     {{% 3cell title="För studenter" %}}
         Stacken är en datorförening för studenter och anställda
@@ -34,6 +38,7 @@ inom datorområdet.
         Stacken har varit på och runt KTH i 40 år och varit med
         om födelsen av både den moderna datorn och internet som
         vi känner det i dag.
+        <a href="/club/history/">Läs mer</a>
     {{% /3cell %}}
 {{% rowend %}}
 

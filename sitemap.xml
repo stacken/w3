@@ -7,227 +7,643 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://stacken.github.io/w3/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/" />
  </url>
  <url>
+  <loc>https://stacken.github.io/w3/2016/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://stacken.github.io/w3/2017/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/2018/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/archive.html</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/authors/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/authors/kaj/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/authors/medik/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/authors/nsg/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/authors/stacken/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/club/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/club/" />
  </url>
  <url>
+  <loc>https://stacken.github.io/w3/club/bylaws/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/club/history/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/club/integritetspolicy/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/club/privacy-policy/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/club/irc/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://stacken.github.io/w3/club/officers/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/2016/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/2017/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/2018/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/archive.html</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/authors/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/authors/kaj/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/authors/medik/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/authors/nsg/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/authors/stacken/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/club/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/club/bylaws/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/club/bylaws/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/club/history/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/club/history/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/club/irc/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/club/irc/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/club/officers/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/club/officers/" />
  </url>
  <url>
+  <loc>https://stacken.github.io/w3/en/club/privacy-policy/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/club/integritetspolicy/" />
+ </url>
+ <url>
   <loc>https://stacken.github.io/w3/en/forum/</loc>
-  <lastmod>2017-08-31T16:55:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/galleries/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/hitta/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/member/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/member/support/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/member/support/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/member/thanks/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/member/thanks/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/news/</loc>
-  <lastmod>2017-08-31T16:55:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2016/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2016/ansible/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2016/ansible/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2016/haskell/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2016/haskell/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2016/hostmote/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2016/hostmote/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2016/kardag/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2016/kardag/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2016/oppethus/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2016/oppethus/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2016/oppethus2/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2016/oppethus2/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2016/rms/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2016/rms/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2016/rust/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2016/rust/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2016/varmote/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2016/varmote/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2016/vkardag/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2016/vkardag/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/news/2017/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2017/extra-meeting-minutes/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2017/extra-meeting-minutes/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2017/extra-meeting/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2017/extra-meeting/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2017/fall-meeting-minutes/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2017/fall-meeting-minutes/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2017/fall-meeting/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2017/fall-meeting/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/news/2017/ny-hemsida/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2017/ny-hemsida/" />
  </url>
  <url>
+  <loc>https://stacken.github.io/w3/en/news/2017/spring-meeting-minutes/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2017/spring-meeting-minutes/" />
+ </url>
+ <url>
   <loc>https://stacken.github.io/w3/en/news/2017/student-union-day/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2017/student-union-day/" />
  </url>
  <url>
+  <loc>https://stacken.github.io/w3/en/news/2018/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2018/epost-nere/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2018/epost-nere/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2018/epost-uppe/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2018/epost-uppe/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2018/hostmote/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2018/hostmote/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2018/hostprotokoll/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2018/hostprotokoll/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2018/jan-unionday/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2018/jan-unionday/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2018/unionday/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2018/unionday/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2018/varmote-protokoll/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2018/varmote-protokoll/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/2018/varmote/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/news/2018/varmote/" />
+ </url>
+ <url>
   <loc>https://stacken.github.io/w3/en/news/index/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/index/index-1.html</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/index/index-2.html</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/index/index-3.html</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/index/index-4.html</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/index/index-5.html</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/index/index-6.html</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/news/tags/</loc>
-  <lastmod>2017-08-31T16:55:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/tags/meeting/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/tags/rms/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/en/news/tags/stackenforelasning/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/news/tags/ths/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/news/tags/www/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/projects/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/projects/stackhack/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackhack/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/projects/stackhack/20041021/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackhack/20041021/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/projects/stackhack/ascii-art/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackhack/ascii-art/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/projects/stackhack/chuck/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackhack/chuck/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/projects/stackhack/opengl/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackhack/opengl/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/projects/stackhack/shakespeare-programming-language/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackhack/shakespeare-programming-language/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/projects/stackpointer/</loc>
-  <lastmod>2017-08-20T18:42:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="sv" href="https://stacken.github.io/w3/projects/stackpointer/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/en/unionday/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/forum/</loc>
-  <lastmod>2017-08-31T16:55:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/forum/" />
  </url>
  <url>
+  <loc>https://stacken.github.io/w3/galleries/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://stacken.github.io/w3/hitta/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/hitta/" />
  </url>
  <url>
+  <loc>https://stacken.github.io/w3/listings/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://stacken.github.io/w3/member/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/member/" />
  </url>
  <url>
+  <loc>https://stacken.github.io/w3/member/support/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/member/support/" />
+ </url>
+ <url>
   <loc>https://stacken.github.io/w3/member/thanks/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/news/</loc>
-  <lastmod>2017-08-31T16:55:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2016/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2016/ansible/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2016/haskell/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2016/hostmote/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2016/kardag/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2016/oppethus/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2016/oppethus2/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2016/rms/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2016/rust/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2016/varmote/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2016/vkardag/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/news/2017/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2017/extra-meeting-minutes/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2017/extra-meeting/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2017/fall-meeting-minutes/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2017/fall-meeting/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/news/2017/fall-meeting/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/news/2017/ny-hemsida/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2017/spring-meeting-minutes/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/news/2017/student-union-day/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/news/2017/student-union-day/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2018/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2018/epost-nere/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2018/epost-uppe/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2018/hostmote/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/news/2018/hostmote/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2018/hostprotokoll/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2018/jan-unionday/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/news/2018/jan-unionday/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2018/unionday/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/news/2018/unionday/" />
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2018/varmote-protokoll/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/2018/varmote/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/news/2018/varmote/" />
  </url>
  <url>
   <loc>https://stacken.github.io/w3/news/index/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/index/index-1.html</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/index/index-2.html</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/index/index-3.html</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/index/index-4.html</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/index/index-5.html</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/index/index-6.html</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/news/tags/</loc>
-  <lastmod>2017-08-31T16:55:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/tags/meeting/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/tags/rms/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://stacken.github.io/w3/news/tags/stackenforelasning/</loc>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/news/tags/ths/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/news/tags/www/</loc>
-  <lastmod>2017-08-19T13:53:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/projects/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/projects/stackhack/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/projects/stackhack/20041021/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/projects/stackhack/ascii-art/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/projects/stackhack/chuck/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/projects/stackhack/opengl/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/projects/stackhack/shakespeare-programming-language/</loc>
-  <lastmod>2017-08-20T19:14:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/projects/stackpointer/</loc>
-  <lastmod>2017-08-20T18:42:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://stacken.github.io/w3/unionday/</loc>
-  <lastmod>2017-08-25T15:30:00Z</lastmod>
+  <lastmod>2019-02-09T10:08:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://stacken.github.io/w3/en/unionday/" />
  </url>
 </urlset>

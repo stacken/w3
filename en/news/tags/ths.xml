@@ -1,3 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../../../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Datorföreningen Stacken (Posts about ths)</title><link>https://stacken.github.io/w3/</link><description></description><atom:link href="https://stacken.github.io/w3/en/news/tags/ths.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2017 &lt;a href="mailto:www@stacken.kth.se"&gt;Stacken&lt;/a&gt; </copyright><lastBuildDate>Fri, 25 Aug 2017 15:30:44 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Kårens dag</title><link>https://stacken.github.io/w3/en/news/2017/student-union-day/</link><dc:creator>nsg</dc:creator><description>&lt;div&gt;&lt;p&gt;Fredagen den 25/8 ställer Stacken ut på THS/Kåren på Kårens dag högst upp på plan 3. Undrar du något om Stacken så kom förbi.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://stacken.github.io/w3/unionday"&gt;Läs mer här&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>https://stacken.github.io/w3/en/news/2017/student-union-day/</guid><pubDate>Wed, 23 Aug 2017 10:00:00 GMT</pubDate></item></channel></rss>
+<?xml-stylesheet type="text/xsl" href="../../../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Datorföreningen Stacken (Posts about ths)</title><link>https://stacken.github.io/w3/</link><description></description><atom:link href="https://stacken.github.io/w3/en/news/tags/ths.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:www@stacken.kth.se"&gt;Stacken&lt;/a&gt; </copyright><lastBuildDate>Sat, 09 Feb 2019 10:08:06 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Kårens dag</title><link>https://stacken.github.io/w3/en/news/2017/student-union-day/</link><dc:creator>nsg</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;div class="row"&gt;
+  &lt;div class="col-md-6"&gt;
+&lt;h3&gt;Student Union Day&lt;/h3&gt;
+&lt;p&gt;Stacken will be at the Student Union Day the 25th August 2017. We
+will be there from 10 to 16. This is an excellent time to say hi,
+talk with us if there is something you like to know.&lt;/p&gt;
+&lt;p&gt;After the event, if you like to contact us see the page
+&lt;a href="https://stacken.github.io/w3/en/news/2017/student-union-day/forum"&gt;Forum&lt;/a&gt;. You are also welcome to our club room at any
+Thursday evening (after 7 PM).&lt;/p&gt;
+&lt;h3&gt;Stacken&lt;/h3&gt;
+&lt;p&gt;Stacken Computer Club is open for students or employees at the Royal
+Institute of Technology founded in 1978. We have a clubroom located in the
+Q-building where we have a room with a sofa, fridge, kitchen and of course
+plenty of computers. Also we have a server hall where we run several
+services like storage, email and web pages. The club is a student
+organization under THS, the official student union at KTH.&lt;/p&gt;
+&lt;p&gt;The club has plenty of knowledge among its members, we have everything from
+new students who are here to learn and use the clubroom to study, all the
+way to older members that have moved on and started to work with everything
+from programming to administration of large clusters of servers.&lt;/p&gt;
+&lt;p&gt;Thursday evenings from 7 PM are our traditional day where we meet in the
+clubroom and build something, debug a problem or discuss something
+interesting. If you are interested you are always welcome at any Thursday
+evening, knock at our door at the 2nd level in the Q-building.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="col-md-6"&gt;
+&lt;img alt="Stacken på Kårens Dag" src="https://stacken.github.io/w3/images/karensdag.jpg" style="width: 100%"&gt;
+&lt;h3&gt;Membership&lt;/h3&gt;
+&lt;p&gt;Membership in Stacken is completely free for THS members. For everyone
+else there is a fee of 117 kr/year.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://stacken.github.io/w3/en/news/2017/club"&gt;Read more&lt;/a&gt;, or &lt;a href="https://stacken.github.io/w3/en/news/2017/member"&gt;become a member&lt;/a&gt;.
+ &lt;/p&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>ths</category><guid>https://stacken.github.io/w3/en/news/2017/student-union-day/</guid><pubDate>Wed, 23 Aug 2017 10:00:00 GMT</pubDate></item><item><title>Öppet hus</title><link>https://stacken.github.io/w3/en/news/2016/oppethus2/</link><dc:creator>kaj</dc:creator><description>&lt;div&gt;&lt;p&gt;Alla intresserade välkomnas till Stackenlokalen&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://stacken.github.io/w3/en/news/2016/oppethus2/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://stacken.github.io/w3/en/news/2016/oppethus2/</guid><pubDate>Thu, 01 Sep 2016 10:00:00 GMT</pubDate></item><item><title>Kårens dag</title><link>https://stacken.github.io/w3/en/news/2016/kardag/</link><dc:creator>kaj</dc:creator><description>&lt;div&gt;&lt;p&gt;Stacken och andra kårföreningar träffar de nyantagna i kårhuset.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://stacken.github.io/w3/en/news/2016/kardag/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://stacken.github.io/w3/en/news/2016/kardag/</guid><pubDate>Mon, 22 Aug 2016 10:00:00 GMT</pubDate></item><item><title>Öppet hus</title><link>https://stacken.github.io/w3/en/news/2016/oppethus/</link><dc:creator>kaj</dc:creator><description>&lt;div&gt;&lt;p&gt;Från och med klockan 16:00 den 4e februari kan man komma på besök och
+hälsa på oss i våra lokaler.
+Det bjuds på fika!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://stacken.github.io/w3/en/news/2016/oppethus/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://stacken.github.io/w3/en/news/2016/oppethus/</guid><pubDate>Thu, 04 Feb 2016 11:00:00 GMT</pubDate></item><item><title>Kårens dag</title><link>https://stacken.github.io/w3/en/news/2016/vkardag/</link><dc:creator>kaj</dc:creator><description>&lt;div&gt;&lt;p&gt;På kårens dag den 1a februari kommer Stacken att ha ett bord i Nymble
+där man kan träffa oss.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://stacken.github.io/w3/en/news/2016/vkardag/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><guid>https://stacken.github.io/w3/en/news/2016/vkardag/</guid><pubDate>Mon, 01 Feb 2016 11:00:00 GMT</pubDate></item></channel></rss>
