@@ -9,23 +9,9 @@ Nikola is a static site generator, with means that it reads the jinja template f
 
 To build/use this on your computer we assume a few things like that you have virtualenv installed and the needed dependencies to build and setup a python 3 build environment.
 
-### Build the project
+### Build and Run the project
 
-Just type `make`, this will output the result to `output/`
-
-### Local server
-
-A easy and nice way to test your page, just type `make server`, point your browser to [localhost:8000](http://localhost:8000).
-
-You can also use the Dockerfile, do something like this:
-```
-docker build -t w3 .
-docker run -ti -p 8000:80 w3
-```
-
-## Share a test build
-
-To deploy the test site to GitHub Pages type `make deploy`. View it at [stacken.github.io/w3](https://stacken.github.io/w3/), help me make it awesome!
+Type `make server` to run the site locally in a python environment. If you prefer to use Docker run `make server-docker` instead. For more information see the [Makefile](Makefile). In both cases browse to http://localhost:8000 to view the site.
 
 ## Deploy
 

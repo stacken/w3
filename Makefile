@@ -1,4 +1,5 @@
 ENVDIR = .env
+DOCKER ?= docker
 
 # Possible install and build Nikola, generate the pages
 build: ${ENVDIR} ${ENVDIR}/bin/nikola
@@ -6,11 +7,21 @@ build: ${ENVDIR} ${ENVDIR}/bin/nikola
 		&& cd stacken \
 		&& nikola build
 
+# If you like, you can also use docker to build the site
+# Add DOCKER="sudo docker" or DOCKER="podman" or something if needed
+build-docker:
+	${DOCKER} build -t w3 .
+
 # Build it, and serve it on http://127.0.0.1:8000/
 server: build
 	. ${ENVDIR}/bin/activate \
 		&& cd stacken \
 		&& nikola serve
+
+# Run the docker image instead
+# Add DOCKER="sudo docker" or DOCKER="podman" or something if needed
+server-docker: build-docker
+	${DOCKER} run -tip 8000:80 w3
 
 # Like server, but try to autoupdate changes
 auto: build
