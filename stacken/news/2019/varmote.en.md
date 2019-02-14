@@ -1,9 +1,9 @@
 <!-- 
 .. title: Invitation to spring meeting
 .. slug: varmote
-.. date: 2018-02-08 21:35:00 CET
+.. date: 2019-02-14 21:35:00 CET
 .. description:
-.. category: 2018
+.. category: 2019
 -->
 
 You are hereby invited to the Stacken spring meeting 2019, Thursday,
