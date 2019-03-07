@@ -11,8 +11,9 @@
 Most pages are translated to English, [click here for the English version](/en/).
 
 {{% jumbotron title="Stacken Forum" %}}
-Härmed kallas Stackens medlemmar till Stackens vårmöte 2019, torsdagen den 28:e februari klockan 19.30 på Kungliga Tekniska Högskolan i en sal i närheten av Stackenlokalen.
-<a href="/news/2019/varmote">Mer information</a>.
+Stacken finns på Matrix, Jabber, IRC och E-post. Vi har även en lokalt
+i Q-huset vid KTH. För att komma i kontakt med oss, eller hälsa på,
+läs mer <a href="/forum/">på sidan <em>forum</em></a>.
 {{% /jumbotron %}}
 
 {{% big %}}
