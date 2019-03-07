@@ -4,7 +4,7 @@
 .. description:
 -->
 
-{{% jumbotron title="Stacken Vårmöte" %}}
+{{% jumbotron title="Stacken Forum" %}}
 You are hereby invited to the Stacken spring meeting 2019, Thursday,
 February 28, at 19:30 at KTH Royal Institute of Technology in a room
 close to the stacken club room. <a href="/en/news/2019/varmote">More information.</a>
