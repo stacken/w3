@@ -6,7 +6,7 @@
 .. category: 2019
 -->
 
-På torsdag 14 februari klockan 19:30, i en sal nära Stackenlokalen i
+På torsdag 14 mars klockan 19:30, i en sal nära Stackenlokalen i
 Q-huset, kommer Rasmus Kaj att hålla en Stackenföreläsning om
 programspråket Rust.
 
