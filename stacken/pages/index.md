@@ -15,8 +15,8 @@ Most pages are translated to English, [click here for the English version](/en/)
 i Q-huset vid KTH. För att komma i kontakt med oss, eller hälsa på,
 läs mer <a href="/forum/">på sidan <em>forum</em></a>.</p>
 
-<p>Nu drar vi igång en serie Stackenföreläsningar!
-Den första handlar om <a href="/news/2019/rust/">programspråket Rust</a>.</p>
+<p>Stackenföreläsningarna fortsätter.
+Nästa gång handlar det om <a href="/news/2019/lora/">radiodata med LoRa och LoRaWAN</a>.</p>
 {{% /jumbotron %}}
 
 {{% big %}}
