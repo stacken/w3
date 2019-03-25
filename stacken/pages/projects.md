@@ -9,7 +9,7 @@ Stacken och dess medlemmar är involverade i många olika projekt. Genom åren h
 {{% 2split-start %}}
 
 ## [Kerberos / Heimdal](http://www.h5l.se/)
-Kerberos är ett authentifieringssystem som hela världen använder (även om inte alla vet det). Heimdal är en implementation av Kerberos 5 som till stora delar skrivs av Stacken.
+Kerberos är ett autentiseringssystem som hela världen använder (även om inte alla vet det). Heimdal är en implementation av Kerberos 5 som till stora delar skrivs av Stacken.
 
 ## [Monotone](http://www.monotone.ca/)
 monotone är ett fritt distribuerat versionshanteringssystem. Det tillhadahåller ett lager av versionstransaktioner i en enda fil, med en komplett samling nätoberoende operationer samt ett effektivt nätverksprotokoll.
