@@ -10,7 +10,7 @@ På torsdag 4:e april klockan 19:30, i en sal nära Stackenlokalen i
 Q-huset, kommer Stellan Lagerström att hålla en Stackenföreläsning om
 LoRa och LoRaWAN.
 
-LoRa är ett sätt att skicka datapaket långt (fast långsamt) på licensfria radiofrekvenser. LoRaWAN är nätverkslagret ovantpå det.
+LoRa är ett sätt att skicka datapaket långt (fast långsamt) på licensfria radiofrekvenser. LoRaWAN är nätverkslagret ovanpå det.
 
 Stellan kommer att berätta om den underliggande tekniken, tillämpningar som Internet of Things och sina erfarenheter av en implementation, TheThingsNetwork. Han kommer också att ha lite hårdvara med sig att titta på.
 
