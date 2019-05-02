@@ -16,7 +16,7 @@ i Q-huset vid KTH. För att komma i kontakt med oss, eller hälsa på,
 läs mer <a href="/forum/">på sidan <em>forum</em></a>.</p>
 
 <p>Stackenföreläsningarna fortsätter.
-Nästa gång handlar det om <a href="/news/2019/lora/">radiodata med LoRa och LoRaWAN</a>.</p>
+Den 2:a Maj handlar det om <a href="/news/2019/godot/">Godot</a>.</p>
 {{% /jumbotron %}}
 
 {{% big %}}
