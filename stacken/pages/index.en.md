@@ -5,10 +5,15 @@
 -->
 
 {{% jumbotron title="Stacken Forum" %}}
-Stacken is online via Matrix, Jabber, IRC and E-mail.
-We also have a club room in the Q-building at KTH.
-To get in contact, or if you like to visit see
-<a href="/en/forum/">the page <em>forum</em></a>.
+<p>
+    Stacken is online via Matrix, Jabber, IRC and E-mail.
+    We also have a club room in the Q-building at KTH.
+    To get in contact, or if you like to visit see
+    <a href="/en/forum/">the page <em>forum</em></a>.
+</p>
+<p>
+    Find us at <a href="/en/news/2019/unionday/">THS Union Day</a>.
+</p>
 {{% /jumbotron %}}
 
 {{% big %}}

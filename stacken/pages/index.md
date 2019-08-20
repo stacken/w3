@@ -11,12 +11,14 @@
 Most pages are translated to English, [click here for the English version](/en/).
 
 {{% jumbotron title="Stacken Forum" %}}
-<p>Stacken finns på Matrix, Jabber, IRC och E-post. Vi har även en lokalt
-i Q-huset vid KTH. För att komma i kontakt med oss, eller hälsa på,
-läs mer <a href="/forum/">på sidan <em>forum</em></a>.</p>
-
-<p>Stackenföreläsningarna fortsätter.
-Den 9:a Maj handlar det om <a href="/news/2019/amprnet/">AMPRNet</a>.</p>
+<p>
+    Stacken finns på Matrix, Jabber, IRC och E-post. Vi har även en lokalt
+    i Q-huset vid KTH. För att komma i kontakt med oss, eller hälsa på,
+    läs mer <a href="/forum/">på sidan <em>forum</em></a>.
+</p>
+<p>
+    Vi ställer ut på <a href="/news/2019/unionday/">Kårens Dag</a>.
+</p>
 {{% /jumbotron %}}
 
 {{% big %}}
