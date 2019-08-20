@@ -12,7 +12,7 @@ Vi på Stacken ställer ut på Kårens dag (på Nymble) idag den 21:a Augusti
 <!-- TEASER_END -->
 
 Kan du inte komma hit, så finns det andra sätt att komma i kontakt med
-oss, se sidan [Forum](forum).
+oss, se sidan [Forum](/forum).
 
 Du är även välkommen att komma förbi oss en torsdagskväll (säkrast
 efter 19).

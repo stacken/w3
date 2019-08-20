@@ -13,7 +13,7 @@ talk with us if there is something you like to know.
 <!-- TEASER_END -->
 
 After the event, if you like to contact us see the page
-[Forum](forum). You are also welcome to our club room at any
+[Forum](/forum). You are also welcome to our club room at any
 Thursday evening (after 7 PM).
 
 ## Stacken
