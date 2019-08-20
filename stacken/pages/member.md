@@ -67,5 +67,5 @@ Kul att du söker till Stacken. Om du har fyllt i formuläret korrekt (skriv 2 h
 så kommer vi i Styrelsen få ett mail med din ansökan. Vi hör av oss nästa gång
 styrelsen möts.
 
-Genom att skicka det här formuläret så godkänner du att vi sparar och processar din data. Du kan läsa mer om vår [integritetspolicy här](/club/integritetspolicy/).
+Genom att skicka det här formuläret så godkänner du att vi sparar och processar din data. Du kan läsa mer om vår <a href="/club/integritetspolicy/">integritetspolicy här</a>.
 {{% /member-form %}}

@@ -73,6 +73,6 @@ Great that you're applying to Stacken! If you have filled in the form correctly
 (a 2 in the above field) the board will get an E-mail with your information.
 We will process your application on our next board meeting.
 
-By submitting this form you agree that we store and process the submited data. More about our [privacy policy here](/en/club/privacy-policy/).
+By submitting this form you agree that we store and process the submited data. More about our <a href="/en/club/privacy-policy/">privacy policy here</a>.
 
 {{% /member-form %}}
