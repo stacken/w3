@@ -49,7 +49,7 @@ KTH<br>
 Du är alltid välkommen förbi oss i vår lokal på torsdagar från 19 och frammåt. Men hör gärna av dig så det är någon som kan hjälpa dig på plats.
 
 {{% 2split-middle %}}
-## Styrelsen 2018
+## Styrelsen 2019
 
 Ordförande 
 : Stefan Berggren <ordf@stacken.kth.se>
@@ -61,12 +61,12 @@ Kassör
 : Stellan Lagerström <kass@stacken.kth.se>
 
 Sekreterare 
-: Olof Sjödin <sekr@stacken.kth.se>
+: Alexander Hjelm <alhjelm@stacken.kth.se>
 
 Ledamöter
 : Martin Frost <frost@stacken.kth.se>
 : Rasmus Kaj <kaj@stacken.kth.se>
-: Alexander Hjelm <alhjelm@stacken.kth.se>
+: Olof Sjödin <sekr@stacken.kth.se>
 
 {{% 2split-end %}}
 
