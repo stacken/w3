@@ -30,7 +30,7 @@ Vad motionen som röstades igenom 2017 gör är att formalisera det i en medlems
 
 Styrelsen har ingen makt att tvinga någon att bli stödmedlem, det tycker vi är mycket viktigt. Medlemmen väljer själv frivilligt att avsäga sig sin rösträtt genom att bli stödmedlem. Med det hoppas vi att medlemmar frivilligt väljer att bli stödmedlemmar för att hjälpa föreningen.
 
-Som stödmedlem har du samma rättigheter till våra system och lokalt som en vanlig medlem. Du är inbjuden till föreningens samtliga möten och event. Genom att bli stödmedlem så hjälper du Stacken att ha en hälsosam blandning av gamla och nya vilket hjälper med vår relation med KTH och THS.
+Som stödmedlem har du samma rättigheter till våra system och lokal som en vanlig medlem. Du är inbjuden till föreningens samtliga möten och event. Genom att bli stödmedlem så hjälper du Stacken att ha en hälsosam blandning av gamla och nya vilket hjälper med vår relation med KTH och THS.
 
 ## Tack
 

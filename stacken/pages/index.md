@@ -12,7 +12,7 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-    Stacken finns på Matrix, Jabber, IRC och E-post. Vi har även en lokalt
+    Stacken finns på Matrix, Jabber, IRC och E-post. Vi har även en lokal
     i Q-huset vid KTH. För att komma i kontakt med oss, eller hälsa på,
     läs mer <a href="/forum/">på sidan <em>forum</em></a>.
 </p>
