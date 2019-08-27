@@ -22,12 +22,12 @@ BLOG_TITLE = "Datorföreningen Stacken"  # (translatable)
 
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://stacken.github.io/w3/"
+SITE_URL = "https://www.stacken.kth.se/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://www.stacken.kth.se/"
 BLOG_EMAIL = "www@stacken.kth.se"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_DESCRIPTION = "Stacken Computer Club at KTH."  # (translatable)
 
 # Nikola is multilingual!
 #
