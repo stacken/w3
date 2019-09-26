@@ -12,7 +12,7 @@
     <a href="/en/forum/">the page <em>forum</em></a>.
 </p>
 <p>
-    Find us at <a href="/en/news/2019/unionday/">THS Union Day</a>.
+    Welcome to our <a href="/en/news/2019/intro/">Intro Lectures</a>.
 </p>
 {{% /jumbotron %}}
 

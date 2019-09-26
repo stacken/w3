@@ -17,7 +17,7 @@ Most pages are translated to English, [click here for the English version](/en/)
     läs mer <a href="/forum/">på sidan <em>forum</em></a>.
 </p>
 <p>
-    Vi ställer ut på <a href="/news/2019/unionday/">Kårens Dag</a>.
+    Välkommen till våra <a href="/news/2019/intro/">introföreläsingar</a>.
 </p>
 {{% /jumbotron %}}
 
