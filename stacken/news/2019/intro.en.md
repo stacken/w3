@@ -20,3 +20,4 @@ The programming lectures will be aimed towards thos who have never coded before,
 
 All lectures will begin with a presentation, followed by a practise session where students can work on problems themselves. If you are interested in helping out during the practise sessions, either let us know or simply show up at your preferred lecture(s).
 
+Here's the [slides from the git introduction](https://rasmus.krats.se/tmp/slides/git.html).

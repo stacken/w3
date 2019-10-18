@@ -17,3 +17,5 @@ Programmeringsföreläsningarna kommer att rikta sig till den som aldrig har kod
 <!-- TEASER_END -->
 
 Alla föreläsningar kommer bestå av först en lektion följt av egen problemlösning. Om du är intresserad av att hjälpa till under problemlösningen, hör antingen av dig till oss eller bara dyk upp på den/de föreläsning(ar) du vill vara med på.
+
+Här finns [slides från git-föreläsningen](https://rasmus.krats.se/tmp/slides/git.html).
