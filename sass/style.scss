@@ -1,0 +1,155 @@
+$balk: #b33;
+$beige: #fff8f0;
+$vspace: 1.5vw;
+
+html {
+    margin: 0;
+    padding: 0;
+    background: white;
+    color: black;
+    line-height: 1.4;
+}
+body {
+    margin: 3em auto 1em;
+    padding: 1em 2*$vspace 0;
+    max-width: 62em;
+}
+header.nav {
+    background: black;
+    color: white;
+    margin: 0 auto 1em;
+    padding: 0 1ex;
+    width: -moz-available;
+    position: fixed;
+    top: 0;
+    left: 0;
+    nav {
+	margin: auto;
+	max-width: 62em;
+	padding: 0;
+	:link, :visited {
+	    color: white;
+	}
+	ul {
+	    display: flex;
+	    flex-flow: row wrap;
+	    margin: 0;
+	    padding: 0;
+	    li {
+		display: block;
+		margin: 0;
+		padding: .7em 0;
+		flex-grow: .3;
+		&:last-child {
+		    flex-grow: 1;
+		    text-align: right;
+		}
+		a {
+		    padding: .5em .2em;
+		    font-family: sans;
+		    text-decoration-color: rgba(255,255,255,0.5);
+		    &:focus, &:hover {
+			text-decoration-color: white;
+			text-decoration-style: double;
+		    }
+		}
+		&.stacken a {
+		    background: $balk;
+		    font-weight: bold;
+		    border-style: solid;
+		    border-width: .3em .6em;
+		    border-color: mix($balk, black, 75%) black mix($balk, white, 85%);
+		    padding: .1em .2em;
+		}
+	    }
+	}
+    }
+}
+
+footer.site {
+    border-top: solid 1px $balk;
+    margin: 2em -2*$vspace 0;
+    padding: 1ex 2*$vspace;
+    border-radius: $vspace;
+}
+
+header.page {
+    background: $beige center/cover url(blades.jpg);
+    border-radius: $vspace;
+    padding: 3em $vspace 1em;
+    margin: 0 -2*$vspace 2em;
+    text-shadow: 0 0 0.1em $beige;
+    :last-child {
+	margin-bottom: 0;
+    }
+    > * {
+	background: rgba($beige, 0.8);
+	margin: 0;
+	padding: .3rem $vspace;
+	&:first-child {
+	    margin-top: 1ex;
+	    border-radius: $vspace/2 $vspace/2 0 0;
+	}
+	&:last-child {
+	    border-radius: 0 0 $vspace/2 $vspace/2;
+	}
+    }
+
+    &.site {
+	background-color: $balk;
+	color: white;
+	text-shadow: .1em .08em 0.05em black;
+	:link, :visited {
+	    color: #fef;
+	}
+	h1 {
+	    font-style: italic;
+	    font-weight: 300;
+	    font-size: calc(1.4em + 6vmin);
+	    margin-bottom: 0;
+	    text-shadow: .08em .06em 0.03em black;
+	}
+	> * {
+	    background: rgba($balk, 0.6);
+	}
+    }
+}
+
+
+div.row {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 1ex -1ex;
+    div.block {
+	flex: 1 0 15em;
+	border-radius: 1ex;
+	margin: 1ex;
+	:first-child {
+	    margin-top: 0;
+	}
+	:last-child {
+	    margin-bottom: 0;
+	}
+	&.page {
+	    background: $beige;
+	    padding: 1ex;
+	    &.page-member {
+		background: #dff;
+	    }
+	}
+    }
+}
+
+h1, h2, h3, h4 {
+    font-family: Kalam, Caveat, serif;
+    --font-family: sans;
+    margin: 1em 0 .2em;
+}
+p {
+    margin: 0 0 1em 0;
+}
+
+listing {
+    overflow: auto;
+    background: #edf;
+}

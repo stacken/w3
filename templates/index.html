@@ -1,0 +1,28 @@
+{% import "macros.html" as macros %}
+<html lang="{{lang}}">
+  {{ macros::head(title=section.title) }}
+  <body>
+    {% include "topnav.html" %}
+    <header class="page section site">
+      <h1>{{section.title}}</h1>
+      <p>{{section.description}}</p>
+      <!-- Content dependent: we make sure news is section[0] -->
+      {% set news = get_section(path=section.subsections.0) %}
+      {% set news = get_section(path=news.subsections.0) %}
+      {% set news = news.pages.0 %}
+      <h2>{{trans(key="update", lang=lang)}}: {{news.title}}</h2>
+      <p>
+	{{news.date | date(format="%F %k:%M")}}: {{news.description}}
+	  … <a href="{{news.permalink}}">Läs mer om {{news.title}}</a>
+      </p>
+    </header>
+
+    {{ macros::sectionboxes(sections=section.subsections | slice(start=1)) }}
+
+    {{ section.content | safe }}
+
+    {{ macros::pageboxes(pages=section.pages) }}
+
+    {% include "footer.html" %}
+  </body>
+</html>

@@ -1,0 +1,20 @@
+{% import "macros.html" as macros %}
+<html lang="{{lang}}">
+  {{ macros::head(title = section.title) }}
+  <body>
+    {% include "topnav.html" %}
+    <header class="page section">
+      {{ macros::ancestors(ancestors = section.ancestors) }}
+      <h1>{{section.title}}</h1>
+      <p>{{section.description}}</p>
+    </header>
+
+    {{section.content | safe}}
+
+    {{ macros::pageboxes(pages=section.pages) }}
+
+    {{ macros::sectionboxes(sections=section.subsections) }}
+
+    {% include "footer.html" %}
+  </body>
+</html>

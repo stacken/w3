@@ -1,0 +1,26 @@
+    <header class="nav">
+      <nav>
+	<ul>
+	  <li class="stacken"><a href="/{% if lang != 'sv' %}{{lang}}/{% endif %}">Stacken</a></li>
+	  <li><a href="/forum/">Forum</a></li>
+	  <li><a href="/projects/">Projekt &amp; Tjänster</a></li>
+	  <li><a href="/news/">Nyheter &amp; Kalender</a></li>
+	  <li><a href="/member">Bli medlem</a></li>
+	  <li>
+	    {% if page %}
+	    {% for lang in page.translations %}
+	    <a hreflang="{{lang.lang}}" title="{{lang.title}}"
+	       href="{{lang.permalink}}">{{trans(key=lang.lang,lang=lang.lang)}}</a>
+	    {% endfor %}
+	    {% endif %}
+	    {% if section %}
+	    {% for lang in section.translations %}
+	    <a hreflang="{{lang.lang}}" title="{{lang.title}}"
+	       href="{{lang.permalink}}">{{trans(key=lang.lang,lang=lang.lang)}}</a>
+	    {% endfor %}
+	    {% endif %}
+	    
+	  </li>
+	</ul>
+      </nav>
+    </header>

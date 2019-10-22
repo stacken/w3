@@ -1,0 +1,19 @@
+{% import "macros.html" as macros %}
+<html lang="{{lang}}">
+  {{ macros::head(title = page.title) }}
+  <body>
+    {% include "topnav.html" %}
+    <header class="page">
+      {{ macros::ancestors(ancestors = page.ancestors) }}
+      <h1>{{page.title}}</h1>
+      <p>
+	{% if page.date %}{{page.date | date(format="%A %F %k:%M")}}: {% endif %}
+	{{page.description}}
+      </p>
+    </header>
+
+    {{page.content | safe}}
+
+    {% include "footer.html" %}
+  </body>
+</html>

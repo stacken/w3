@@ -1,0 +1,47 @@
+{% macro head(title) %}
+  <head>
+    <title>{{title}}{% if not title is matching('[Ss]tacken]') %} - Datorföreningen Stacken{% endif %}</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" type="text/css" href="/style.css"/>
+  </head>
+{% endmacro head %}
+
+{% macro ancestors(ancestors) %}
+  {% set ancestors = ancestors | slice(start=1) %}
+  {% if ancestors %}
+  <p class="ancestors">
+    {% for a in ancestors %}
+    {% set aa = get_section(path=a, metadata_only=true) %}
+    <a href="{{aa.permalink}}">{{aa.title}}</a>:
+    {% endfor %}
+  </p>
+  {% endif %}
+{% endmacro ancestors %}
+
+{% macro pageboxes(pages) %}
+  {% if pages %}
+  <div class="row">
+    {% for post in pages %}
+    <div class="block page page-{{ post.slug }}">
+      <h2><a href="{{ post.permalink }}">{{ post.title }}</a></h2>
+      <p>{% if post.date %}<em>Publicerat {{post.date | date(format="%F %k:%M")}}:</em><br/>{% endif %}
+	{{post.description}}
+      </p>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endmacro pageboxes %}
+
+{% macro sectionboxes(sections) %}
+  <div class="row">
+    {% for path in sections %}
+      {% set section = get_section(path=path) %}
+      <div class="block">
+	<h2><a href="{{section.permalink}}">{{section.title}}</a></h2>
+	{% if section.description %}<p>{{section.description}}</p>{% endif %}
+      </div>
+    {% endfor %}
+  </div>
+{% endmacro sectionboxes %}
