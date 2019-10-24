@@ -26,12 +26,11 @@
     {% endif %}
 
     {% if photo_array %}
-    <ul class="thumbnails">
         {% for image in photo_array %}
-            <li><a href="{{ image['url'] }}" class="thumbnail image-reference" title="{{ image['title']|e }}">
-                <img src="{{ image['url_thumb'] }}" alt="{{ image['title']|e }}" style="max-width: 120px" /></a>
+            <a href="{{ image['url'] }}" title="{{ image['title']|e }}">
+                <img src="{{ image['url_thumb'] }}" alt="{{ image['title']|e }}" style="max-width: 120px" />
+            </a>
         {% endfor %}
-    </ul>
     {% endif %}
 
     {% if site_has_comments and enable_comments %}
