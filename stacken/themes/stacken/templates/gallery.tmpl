@@ -29,7 +29,7 @@
     <ul class="thumbnails">
         {% for image in photo_array %}
             <li><a href="{{ image['url'] }}" class="thumbnail image-reference" title="{{ image['title']|e }}">
-                <img src="{{ image['url_thumb'] }}" alt="{{ image['title']|e }}" /></a>
+                <img src="{{ image['url_thumb'] }}" alt="{{ image['title']|e }}" style="max-width: 120px" /></a>
         {% endfor %}
     </ul>
     {% endif %}
