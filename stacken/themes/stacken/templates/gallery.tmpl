@@ -1,5 +1,16 @@
 {#  -*- coding: utf-8 -*- #}
 {% extends 'base.tmpl' %}
+{% import 'macro_menu.tmpl' as menu with context %}
+
+{% block menu %}{{ menu.show_menu() }}{% endblock %}
+{% block lang %}
+    {% for langname in translations|sort %}
+        {% if langname != lang and post.is_translation_available(langname) %}
+            <li><a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a></li>
+        {% endif %}
+    {% endfor %}
+{% endblock %}
+
 {% import 'comments_helper.tmpl' as comments with context %}
 {% import 'ui_helper.tmpl' as ui with context %}
 {% block sourcelink %}{% endblock %}
