@@ -46,6 +46,15 @@
 {% if site_has_comments and enable_comments %}
     {{ comments.comment_form(None, permalink, title) }}
 {% endif %}
+
+<script src="/assets/js/justified-layout.min.js"></script>
+<script src="/assets/js/gallery.min.js"></script>
+<script>
+var jsonContent = {{ photo_array_json }};
+var thumbnailSize = {{ thumbnail_size }};
+renderGallery(jsonContent, thumbnailSize);
+window.addEventListener('resize', renderGallery);
+</script>
 {% endblock %}
 
 {% block extra_head %}
@@ -69,11 +78,3 @@
 <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
 {% endblock %}
 
-<script src="/assets/js/justified-layout.min.js"></script>
-<script src="/assets/js/gallery.min.js"></script>
-<script>
-var jsonContent = {{ photo_array_json }};
-var thumbnailSize = {{ thumbnail_size }};
-renderGallery(jsonContent, thumbnailSize);
-window.addEventListener('resize', renderGallery);
-</script>
