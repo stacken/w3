@@ -5,7 +5,7 @@
 {% block menu %}{{ menu.show_menu() }}{% endblock %}
 {% block lang %}
     {% for langname in translations|sort %}
-        {% if langname != lang %}
+        {% if langname != lang  and post %}
             <li><a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a></li>
         {% endif %}
     {% endfor %}
