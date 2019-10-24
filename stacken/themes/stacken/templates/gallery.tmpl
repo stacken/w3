@@ -25,14 +25,12 @@
 
 <div id="gallery_container"></div>
 {% if photo_array %}
-<noscript>
 <ul class="thumbnails">
     {% for image in photo_array %}
         <li><a href="{{ image['url'] }}" class="thumbnail image-reference" title="{{ image['title']|e }}">
             <img src="{{ image['url_thumb'] }}" alt="{{ image['title']|e }}" /></a>
     {% endfor %}
 </ul>
-</noscript>
 {% endif %}
 {% if site_has_comments and enable_comments %}
     {{ comments.comment_form(None, permalink, title) }}
