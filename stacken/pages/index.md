@@ -17,7 +17,10 @@ Most pages are translated to English, [click here for the English version](/en/)
     läs mer <a href="/forum/">på sidan <em>forum</em></a>.
 </p>
 <p>
-    Välkommen till våra <a href="/news/2019/intro/">introföreläsingar</a>.
+    Aktuell Stackenföreläsning:
+    <a href="/news/2019/embedded/">Embedded Deathmatch
+    – Arduino, Raspberry Pi, ESP8266</a>.
+    Torsdag 7 november.
 </p>
 {{% /jumbotron %}}
 

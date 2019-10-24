@@ -12,7 +12,10 @@
     <a href="/en/forum/">the page <em>forum</em></a>.
 </p>
 <p>
-    Welcome to our <a href="/en/news/2019/intro/">Intro Lectures</a>.
+    Upcoming Stacken lecture:
+    <a href="/en/news/2019/embedded/">Embedded Deathmatch
+    – Arduino, Raspberry Pi, ESP8266</a>.
+    Thursday, November 7.
 </p>
 {{% /jumbotron %}}
 
