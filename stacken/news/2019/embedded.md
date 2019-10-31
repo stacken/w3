@@ -8,7 +8,8 @@
 
 > Arduino - Raspberry Pi - ESP8266
 >
-> Stackenföreläsning torsdag 7 november, i ett rum nära [Stackenlokalen].
+> Stackenföreläsning torsdag 7 november klockan 19:30, i ett rum nära
+> [Stackenlokalen].
 
 Vill du mäta eller styra någonting?
 En översikt över tre enkla och billiga sätt att komma igång med

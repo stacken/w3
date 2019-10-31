@@ -8,7 +8,8 @@
 
 > Arduino - Raspberry Pi - ESP8266
 >
-> Stacken lecture thursday November 7, in a room close to [the clubroom].
+> Stacken lecture thursday November 7 at 19:30 hours, in a room close
+> to [the clubroom].
 
 Do you want to sense or control something? An overview of three easy
 and inexpensive roads to getting started with embedded systems;
