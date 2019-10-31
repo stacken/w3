@@ -16,10 +16,12 @@ meeting) you have the right to vote at the meeting; supporting members do not
 have voting rights. The fee for THS student members is waived, for others it is
 119 Swedish crowns.
 
+<!-- TEASER_END -->
+
 Do you feel that you are not active and want to support Stacken? As supporting 
 member you keep both your accounts and access to the club room but waive your 
-voting rights. This helps Stacken, for more information, see 
-https://www.stacken.kth.se/en/member/support.
+voting rights. This helps Stacken,
+([more information about support membership](https://www.stacken.kth.se/en/member/support)).
 
 Proposal of Agenda:
 

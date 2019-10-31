@@ -7,17 +7,19 @@
 -->
 
 Härmed kallas du som är medlem i Datorföreningen Stacken till höstmöte, torsdag 
-28 november 2018 kl. 19.30 i en sal nära Stackenlokalen.
+28 november 2019 kl. 19.30 i en sal nära Stackenlokalen.
 
 Var god betala din medlemsavgift om den inte redan är inbetald (eller du är 
 hedersmedlem). Om du betalar den i tid (inkommen innan höstmötet) har du rätt 
 att rösta på mötet, stödmedlemmar har inte har rösträtt. Avgiften för 
 THS-studerandemedlemmar är gratis, för övriga 119 kr.
 
+<!-- TEASER_END -->
+
 Känner du att du inte är aktiv och vill stödja Stacken? Som stödmedlem behåller 
 du såväl konton som åtkomst till lokalen men du avsäger dig din rösträtt. Detta 
-hjälper Stacken, för mer information, se 
-https://www.stacken.kth.se/member/support.
+hjälper Stacken,
+([mer info om stödmedlemskap](https://www.stacken.kth.se/member/support)).
 
 Förslag till dagordning:
 
