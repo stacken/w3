@@ -20,7 +20,7 @@ Most pages are translated to English, [click here for the English version](/en/)
     Aktuell Stackenföreläsning:
     <a href="/news/2019/embedded/">Embedded Deathmatch
     – Arduino, Raspberry Pi, ESP8266</a>.
-    <strike>Torsdag 7</strike> 14 november.
+    Torsdag <strike>7 november</strike> 14 november.
 </p>
 {{% /jumbotron %}}
 
