@@ -41,4 +41,5 @@ Proposal of Agenda:
 14. Other Questions
 15. Closing of the Meeting
 
-The Computer Club Stacken, through Fabian Ström
+
+The Computer Club Stacken

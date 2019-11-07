@@ -39,4 +39,5 @@ Förslag till dagordning:
 14. Övriga frågor
 15. Mötets avslutande
 
-Datorföreningen Stackens styrelse, genom Fabian Ström
+
+Datorföreningen Stackens styrelse
