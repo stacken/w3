@@ -15,7 +15,7 @@
     Upcoming Stacken lecture:
     <a href="/en/news/2019/embedded/">Embedded Deathmatch
     – Arduino, Raspberry Pi, ESP8266</a>.
-    Thursday, November 7.
+    Thursday, <strike>November 7</strike> November 14.
 </p>
 {{% /jumbotron %}}
 
