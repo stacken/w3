@@ -43,7 +43,7 @@
             </h3>
         </div>
         <div class="panel-body text-center">
-            {% set this_year = 2018 %}
+            {% set this_year = (posts|first).date.year %}
             {% set news_to = 1996 %}
             {% for year in range(this_year - (news_to - 1)) %}
                 {% set root_url = "/" if lang == "sv" else "/en/" %}
