@@ -57,12 +57,12 @@ Treasurer
 : Stellan Lagerström <kass@stacken.kth.se>
 
 Secretary
-: Alexander Hjelm <alhjelm@stacken.kth.se>
+: Alexander Hjelm <sekr@stacken.kth.se>
 
 Board Members
 : Martin Frost <frost@stacken.kth.se>
 : Rasmus Kaj <kaj@stacken.kth.se>
-: Olof Sjödin <sekr@stacken.kth.se>
+: Olof Sjödin <medik@stacken.kth.se>
 
 {{% 2split-end %}}
 
