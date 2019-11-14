@@ -8,11 +8,11 @@
 
 > Arduino - Raspberry Pi - ESP8266
 >
-> Stacken lecture thursday ~~November 7~~ November 14 at 19:30 hours,
+> Stacken lecture thursday ~~November 7~~ ~~November 14~~ at 19:30 hours,
 > in a room close to [the clubroom].
 
-**Update** The lecture has been postponed to the 14th of November due
-to a cold. We apologize for the inconvenience this might have caused
+**Update** The lecture has been postponed to an unknown thursday due
+to illness. We apologize for the inconvenience this might have caused
 you. And we hope that you can still attend this lecture.
 
 Do you want to sense or control something? An overview of three easy

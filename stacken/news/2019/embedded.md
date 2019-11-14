@@ -8,11 +8,12 @@
 
 > Arduino - Raspberry Pi - ESP8266
 >
-> Stackenföreläsning torsdag ~~7 november~~ 14 november klockan 19:30, i ett rum nära
+> Stackenföreläsning torsdag ~~7 november~~ ~~14 november~~ någon vecka klockan 19:30, i ett rum nära
 > [Stackenlokalen].
 
-**Uppdatering** Pga sjukdom framflyttas föreläsningen till 14e
-November. Vi i Stacken hoppas att du kan närvara vid detta tillfälle
+**Uppdatering** Pga sjukdom framflyttas föreläsningen till en kommande
+torsdagkväll.
+Vi i Stacken hoppas att du kan närvara vid detta tillfälle
 och beklagar det inträffade.
 
 Vill du mäta eller styra någonting?
