@@ -12,10 +12,7 @@
     <a href="/en/forum/">the page <em>forum</em></a>.
 </p>
 <p>
-    Upcoming Stacken lecture:
-    <a href="/en/news/2019/embedded/">Embedded Deathmatch
-    – Arduino, Raspberry Pi, ESP8266</a>.
-    <ins>An upcoming</ins> Thursday, <del>November 7</del> <del>November 14</del>.
+    Hereby you, as member of The Computer Club Stacken, are called to the autumn meeting at Thursday November the 28:th at 19:30 in a room near the Stacken club room. [Read more](/en/news/2019/hostmote/)
 </p>
 {{% /jumbotron %}}
 

@@ -17,10 +17,7 @@ Most pages are translated to English, [click here for the English version](/en/)
     läs mer <a href="/forum/">på sidan <em>forum</em></a>.
 </p>
 <p>
-    Aktuell Stackenföreläsning:
-    <a href="/news/2019/embedded/">Embedded Deathmatch
-    – Arduino, Raspberry Pi, ESP8266</a>.
-    <ins>En kommande</ins> Torsdag <del>7 november</del> <del>14 november</del>.
+    Härmed kallas du som är medlem i Datorföreningen Stacken till höstmöte, torsdag 28 november 2019 kl. 19.30 i en sal nära Stackenlokalen. [Läs mer](/news/2019/hostmote/)
 </p>
 {{% /jumbotron %}}
 
