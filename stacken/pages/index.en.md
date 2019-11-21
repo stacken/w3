@@ -12,7 +12,7 @@
     <a href="/en/forum/">the page <em>forum</em></a>.
 </p>
 <p>
-    Hereby you, as member of The Computer Club Stacken, are called to the autumn meeting at Thursday November the 28:th at 19:30 in a room near the Stacken club room. [Read more](/en/news/2019/hostmote/)
+    Hereby you, as member of The Computer Club Stacken, are called to the autumn meeting at Thursday November the 28:th at 19:30 in a room near the Stacken club room. <a href="/en/news/2019/hostmote/">Read more</a>
 </p>
 {{% /jumbotron %}}
 
