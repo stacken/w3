@@ -36,7 +36,7 @@ Mötet valde alhjelm (Alexander Hjelm) till mötessekreterare
 
 ## 6. Frågan om dagordningens godkännande
 
-Mötet finner degordningen godkänd
+Mötet finner dagordningen godkänd
 
 ## 7. Tillkännagivande av röstlängd
 
@@ -58,7 +58,7 @@ alhjelm
 fabian
 Gordon Gidofalvy
 William Rågstad
-Simon Sonden
+Simon Sondén
 Simon Thor
 ```
 
