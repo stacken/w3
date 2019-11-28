@@ -1,5 +1,5 @@
 <!-- 
-.. title: Protokoll från stakcens höstmöte
+.. title: Protokoll från stackens höstmöte
 .. slug: hostmote-protokoll
 .. date: 2019-11-28 20:53:00 CET
 .. description: 
@@ -8,7 +8,7 @@
 
 Protokoll från stackens höstmöte den 28 november 2019
 
-<!-- TEASER END -->
+<!-- TEASER_END -->
 
 # Protokoll från höstmöte 28 november 2019
 
