@@ -12,7 +12,8 @@
     <a href="/en/forum/">the page <em>forum</em></a>.
 </p>
 <p>
-    Hereby you, as member of The Computer Club Stacken, are called to the autumn meeting at Thursday November the 28:th at 19:30 in a room near the Stacken club room. <a href="/en/news/2019/hostmote/">Read more</a>
+    The Computer Club Stacken autumn meeting were held ad november 28, 2019.
+    <a href="/news/2019/hostmote-protokoll/">here are the minutes (in swedish)</a>.
 </p>
 {{% /jumbotron %}}
 
