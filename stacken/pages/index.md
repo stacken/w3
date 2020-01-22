@@ -17,7 +17,8 @@ Most pages are translated to English, [click here for the English version](/en/)
     läs mer <a href="/forum/">på sidan <em>forum</em></a>.
 </p>
 <p>
-    Härmed kallas du som är medlem i Datorföreningen Stacken till höstmöte, torsdag 28 november 2019 kl. 19.30 i en sal nära Stackenlokalen. <a href="/news/2019/hostmote/">Läs mer</a>
+    Stackens till höstmöte hölls torsdag 28 november 2019,
+    <a href="/news/2019/hostmote-protokoll/">här kan du läsa protokollet</a>.
 </p>
 {{% /jumbotron %}}
 
