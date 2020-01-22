@@ -12,7 +12,7 @@
     <a href="/en/forum/">the page <em>forum</em></a>.
 </p>
 <p>
-    The Computer Club Stacken autumn meeting were held ad november 28, 2019.
+    The Computer Club Stacken autumn meeting were held november 28, 2019.
     <a href="/news/2019/hostmote-protokoll/">here are the minutes (in swedish)</a>.
 </p>
 {{% /jumbotron %}}
