@@ -105,4 +105,62 @@ Stacken representerades av katy och kaj.
 
 # 10-tal
 
-?
+Hela 2010-talet bodde Stacken i sin lokal i Q-huset, och träffades där
+på torsdagkvällar, ofta efter middag på Sushi Zen på Frejgatan.
+Vi deltog i kårens dag i början av varje termin och höll ofta öppet
+hus efter det.
+
+2011
+Stackenföreläsningar om digitalfoto och färglära,
+versionshanteringssystemet monotone samt textdetektering i bilder.
+Vi började bygga ny webbserver (cookie).
+
+2012 driftsattes nya servrar för webb (cookie), epost (vingummi), och
+afs (mount-kilimanjaro och mount-everest).
+Stackens afscell fick plats för 15 TB data.
+
+2013
+Lokalen försågs med hyllor längst in, i labb- / skrotavdelningen.
+Stora delar av eposthanteringen flyttades till vingummi.
+
+
+2014
+Stacenföreläsning OpenStreetMap, och vi driftsatte en openstreemapserver.
+Vi fick bladmaskinen Eken av PDC och började använda en del blad i den.
+
+Lokalen försågs med en ny soffa och ett par stolar, och den gamla
+soffan har förpassats till lämpligt slutförvar.
+En mekanisk klocka har bytts ut mot en skärm som visar en klocka och
+diverse status från datorhallen.
+
+
+
+2015 höll vi stackenföreläsning i DNSSEC.  Till lokalen skaffade vi
+bland annat nya stolar och en liten dator med tillbehör.
+
+2016 Stackenföreläsningar hölls i Rust (kaj), Ansible (nsg) och Haskell (dicander).
+Lokalen försågs med ett vitrinskåp för de museala föremål som får
+plats där samt en ny kaffebryggare och lite smärre hårdvara.
+
+2017 byggde vi en ny virtualiesrigslösnig, och en ny plattform för våra webbsidor.
+Vi började också använda chatprotokollet Matrix, med en egen server
+chat.stacken.kth.se, och nextcloud för filsynk, kalender och sånt.
+Dessutom finger.stacken.kth.se, som ett system för att hantera
+medlemmars access till andra webbtjänster.
+Lokalen försågs med n 55 tums väggmonterad skärm.
+
+2018 hackade vi vidare på "finger", matrix, och virtualiseringssystemet.
+Dessutom började vi försöka hantera GDPR, den nya lagen om hur vi får
+hantera medlemslistor och andra personuppgifter.
+
+2019 höll vi stackenföreläsningar om Rust, LoRa, Godot, och AMPRNet.
+Dessutom "introföreläsningar", en ny serie av mer grundläggande
+Stackenföreläsningar där vi lärde ut python, java, och git.
+Vi fick även ovanligt många nya medlemmar som faktiskt dök upp i
+lokalen under hösten.
+
+
+# 20-tal
+
+Stackens historia under 2020-talet återstår att skriva, och du kan
+vara en del av den!
