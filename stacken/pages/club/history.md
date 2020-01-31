@@ -125,7 +125,7 @@ Stora delar av eposthanteringen flyttades till vingummi.
 
 
 2014
-Stacenföreläsning OpenStreetMap, och vi driftsatte en openstreemapserver.
+Stackenföreläsning OpenStreetMap, och vi driftsatte en openstreemapserver.
 Vi fick bladmaskinen Eken av PDC och började använda en del blad i den.
 
 Lokalen försågs med en ny soffa och ett par stolar, och den gamla
