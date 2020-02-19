@@ -5,6 +5,7 @@
 .. description:
 .. category: 202
 -->
+
 Härmed kallas Stackens medlemmar till Stackens vårmöte 2020, torsdagen den 27:e 
 februari klockan 19.30 på Kungliga Tekniska Högskolan i en sal i närheten av 
 Stackenlokalen.

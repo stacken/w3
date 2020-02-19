@@ -12,8 +12,10 @@
     <a href="/en/forum/">the page <em>forum</em></a>.
 </p>
 <p>
-    The Computer Club Stacken autumn meeting were held november 28, 2019.
-    <a href="/news/2019/hostmote-protokoll/">here are the minutes (in swedish)</a>.
+    You are hereby invited to the Stacken spring meeting 2020, Thursday, February 
+27, at 19:30 at KTH Royal Institute of Technology in a room close to the Stacken 
+club room.
+    <a href="/news/2020/varmote">Read more</a>.
 </p>
 {{% /jumbotron %}}
 
@@ -45,5 +47,5 @@
 
 {{% subpage-box text="Learn more / Become a member" link="member" %}}
 Stacken is a good way to find people that share your interests,
-or alternatively learn something new from out members.
+or alternatively learn something new from our members.
 {{% /subpage-box %}}
