@@ -17,8 +17,19 @@ Most pages are translated to English, [click here for the English version](/en/)
     läs mer <a href="/forum/">på sidan <em>forum</em></a>.
 </p>
 <p>
-    Stackens till höstmöte hölls torsdag 28 november 2019,
-    <a href="/news/2019/hostmote-protokoll/">här kan du läsa protokollet</a>.
+Härmed kallas Stackens medlemmar till Stackens vårmöte 2020, torsdagen den 27:e 
+februari klockan 19.30 på Kungliga Tekniska Högskolan i en sal i närheten av 
+Stackenlokalen.
+
+Var god betala din medlemsavgift om den inte redan är inbetald (såvida du inte 
+är THS-studerandemedlem alternativt hedersmedlem). Om du betalar den i tid 
+(inkommen innan vårmötet) har du rätt att rösta på vårmötet. För 
+THS-studerandemedlemmar är medlemsavgiften 0 kr, vänligen ta med din 
+kårlegitimation för att styrka ditt medlemskap.
+
+Medlemsavgiften är för närvarande 120 kr och betalas till PG 433 01 15-9, 
+Datorföreningen Stacken. Glöm inte att ange namn och username - samtligas, om du 
+betalar för flera personer. Eventuella frågor kan ställas till styrelsen@stacken.kth.se
 </p>
 {{% /jumbotron %}}
 
@@ -54,6 +65,6 @@ inom datorområdet.
 Att bli medlem i Stacken kan vara ett bra sätt att få kontakt
 med andra som delar intressen. Alternativt lära sig nya saker
 och få hjälp. Stacken är även en bra resurs för att komma i
-kontakt med näringslivet då vi har god kontakter med livet
+kontakt med näringslivet då vi har goda kontakter med livet
 utanför KTH.
 {{% /subpage-box %}}
