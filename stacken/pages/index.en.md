@@ -13,9 +13,8 @@
 </p>
 <p>
     You are hereby invited to the Stacken spring meeting 2020, Thursday, February 
-27, at 19:30 at KTH Royal Institute of Technology in a room close to the Stacken 
-club room.
-    <a href="/news/2020/varmote.en.md">Read more</a>.
+27, at 19:30 at KTH in a room close to the Stacken club room.
+    <a href="/en/news/2020/varmote">Read more</a>.
 </p>
 {{% /jumbotron %}}
 
