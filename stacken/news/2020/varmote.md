@@ -3,7 +3,7 @@
 .. slug: varmote
 .. date: 2020-02-19 23:01:00 CET
 .. description:
-.. category: 202
+.. category: 2020
 -->
 
 Härmed kallas Stackens medlemmar till Stackens vårmöte 2020, torsdagen den 27:e 
