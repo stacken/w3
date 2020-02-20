@@ -24,6 +24,16 @@
     computers and surrounding technologies.
 {{% /big %}}
 
+{{% info-box %}}
+<p>
+    Are you interested in design? Stacken is looking for someone
+    who is interested to develop our webpage.
+</p>
+<p>
+    <a href="https://github.com/stacken/w3/issues/25">Read more and enter your submission here!</a>
+</p>
+{{% /info-box %}}
+
 {{% rowstart %}}
     {{% 3cell title="Project and Activities" %}}
         We work on projects together and offer services for our
