@@ -17,9 +17,9 @@ Most pages are translated to English, [click here for the English version](/en/)
     läs mer <a href="/forum/">på sidan <em>forum</em></a>.
 </p>
 <p>
-Härmed kallas Stackens medlemmar till Stackens vårmöte 2020, torsdagen den 27:e 
+Stackens vårmöte 2020 hölls torsdagen den 27:e
 februari klockan 19.30 på Kungliga Tekniska Högskolan i en sal i närheten av 
-Stackenlokalen. <a href="/news/2020/varmote">Läs mer</a>
+Stackenlokalen. <a href="/news/2020/varmote-proto">Läs protokollet</a>.
 </p>
 {{% /jumbotron %}}
 

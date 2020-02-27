@@ -12,9 +12,9 @@
     <a href="/en/forum/">the page <em>forum</em></a>.
 </p>
 <p>
-    You are hereby invited to the Stacken spring meeting 2020, Thursday, February 
+    The stacken Stacken spring meeting 2020 was held Thursday, February
 27, at 19:30 at KTH in a room close to the Stacken club room.
-    <a href="/en/news/2020/varmote">Read more</a>.
+    <a href="/en/news/2020/varmote-proto">Read the procedings</a>.
 </p>
 {{% /jumbotron %}}
 
