@@ -142,12 +142,11 @@ bland annat nya stolar och en liten dator med tillbehör.
 Lokalen försågs med ett vitrinskåp för de museala föremål som får
 plats där samt en ny kaffebryggare och lite smärre hårdvara.
 
-2017 byggde vi en ny virtualiesrigslösnig, och en ny plattform för våra webbsidor.
-Vi började också använda chatprotokollet Matrix, med en egen server
-chat.stacken.kth.se, och nextcloud för filsynk, kalender och sånt.
-Dessutom finger.stacken.kth.se, som ett system för att hantera
-medlemmars access till andra webbtjänster.
-Lokalen försågs med n 55 tums väggmonterad skärm.
+2017 byggde vi en ny virtualiseringslösning, och en ny plattform för våra
+webbsidor. Vi började också använda chatprotokollet Matrix, med en egen server
+chat.stacken.kth.se, och nextcloud för filsynk, kalender och sånt. Dessutom
+finger.stacken.kth.se, som ett system för att hantera medlemmars access till
+andra webbtjänster. Lokalen försågs med n 55 tums väggmonterad skärm.
 
 2018 hackade vi vidare på "finger", matrix, och virtualiseringssystemet.
 Dessutom började vi försöka hantera GDPR, den nya lagen om hur vi får
