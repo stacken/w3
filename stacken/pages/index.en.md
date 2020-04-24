@@ -6,15 +6,17 @@
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-    Stacken is online via Matrix, Jabber, IRC and E-mail.
-    We also have a club room in the Q-building at KTH.
-    To get in contact, or if you like to visit see
+    Stackens club room in the Q-building is closed due the COVID-19 pandemic.
+    We are online via Matrix, Jabber, IRC and E-mail. To get in contact see
     <a href="/en/forum/">the page <em>forum</em></a>.
 </p>
 <p>
-    Stackens clubroom is closed due the COVID-19 pandemic. Feel free to chat with
-    us at Matrix/Jabber/IRC. We have a weekly video meeting on Thursday evenings
+    We have a weekly video meeting on Thursday evenings
     at <a href="https://meet.stacken.kth.se/Stacken">meet.stacken.kth.se/Stacken</a>.
+</p>
+<p>
+    
+    
 </p>
 {{% /jumbotron %}}
 
