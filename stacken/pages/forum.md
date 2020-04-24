@@ -24,7 +24,13 @@ under event.
 
 {{% 2split-middle %}}
 
+# Jitsi Meet
+Vi har satt upp en Jitsi Meet server på [meet.stacken.kth.se](https://meet.stacken.kth.se) för att medlemmar ska kunna mötas
+trots att lokalen är stängd. Torsdagskvällar kör vi våra Stackenkvällar i rummet [Stacken](https://meet.stacken.kth.se/Stacken).
+
 # Lokalen
+**Notera att lokalen är stängd på obestämd tid på grund av COVID-19 pandemin.**
+
 Vår lokal är öppen dygnet runt för våra medlemmar men på torsdagagskvällar från runt 19 och frammåt möts traditionsenligt medlemmar i lokalen. Vissa är bara där för att umgås, andra för att göra något tillsammans.
 
 Utomstående och gäster är så klart alltid välkommna, knacka på dörren om lampan är tänd och säg hej. Om du vill vara säker på att någon är där, hör av dig först.
