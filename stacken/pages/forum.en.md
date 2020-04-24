@@ -5,17 +5,20 @@
 -->
 
 {{% 2split-start %}}
+# Matrix
+Stacken runs a [Matrix](https://www.matrix.org) server where we have several chat rooms. The room **#stacken:stacken.kth.se** is public and open for all, you don't have to be a member in Stacken nor study at KTH to join our channel.
+
 # XMPP
 Stacken has a chatroom at KTH's [XMPP](https://xmpp.org/) server on **stacken@chat.kth.se**. Here we talk about everything that has with Stacken to do. This is also our primary out-of-band channel i.e. it works even if our server hall is offline.
 
 You don't have to be a member in Stacken nor study at KTH to join our channel. Are you a KTH student and don't have a Jabber account? You can create one at [KTH's Jabber page](https://www.lan.kth.se/xmpp.html).
 
-# Matrix
-Stacken runs a [Matrix](https://www.matrix.org) server where we have several chat rooms. The room **#stacken:stacken.kth.se** is public and open for all,
-you don't have to be a member in Stacken nor study at KTH to join our channel. #stacken:stacken.kth.se is mirrowed with the XMPP room stacken@chat.kth.se.
+This room is mirrored with the matrix room #stacken:stacken.kth.se.
 
 # IRC
 Stacken have a [#stackenkth](/club/irc/) at Freenode. The channel is to well used but it's a easy way to say *hi*. We mosly use this room for specific events.
+
+This room is mirrored with the matrix room #stacken:stacken.kth.se.
 
 # E-mail
 <stacken@stacken.kth.se> is a generic list, everything Stacken, talk about problems, fun things to do or just the weather. This list contains both members and non-members.
