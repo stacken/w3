@@ -12,9 +12,9 @@
     <a href="/en/forum/">the page <em>forum</em></a>.
 </p>
 <p>
-    The stacken Stacken spring meeting 2020 was held Thursday, February
-27, at 19:30 at KTH in a room close to the Stacken club room.
-    <a href="/en/news/2020/varmote-proto">Read the procedings</a>.
+    Stackens clubroom is closed due the COVID-19 pandemic. Feel free to chat with
+    us at Matrix/Jabber/IRC. We have a weekly video meeting on Thursday evenings
+    at <a href="https://meet.stacken.kth.se/Stacken">meet.stacken.kth.se/Stacken</a>.
 </p>
 {{% /jumbotron %}}
 

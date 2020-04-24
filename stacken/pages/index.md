@@ -17,9 +17,9 @@ Most pages are translated to English, [click here for the English version](/en/)
     läs mer <a href="/forum/">på sidan <em>forum</em></a>.
 </p>
 <p>
-Stackens vårmöte 2020 hölls torsdagen den 27:e
-februari klockan 19.30 på Kungliga Tekniska Högskolan i en sal i närheten av 
-Stackenlokalen. <a href="/news/2020/varmote-proto">Läs protokollet</a>.
+    Stackens lokal är stängd på grund av COVID-19 pandemin. Men chatta gärna med
+    oss på Matrix/Jabber/IRC. Vi har videomöten på torsdagskvällar på
+    <a href="https://meet.stacken.kth.se/Stacken">meet.stacken.kth.se/Stacken</a>.
 </p>
 {{% /jumbotron %}}
 
