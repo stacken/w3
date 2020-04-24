@@ -11,12 +11,6 @@ Stacken och dess medlemmar är involverade i många olika projekt. Genom åren h
 ## [Kerberos / Heimdal](http://www.h5l.se/)
 Kerberos är ett autentiseringssystem som hela världen använder (även om inte alla vet det). Heimdal är en implementation av Kerberos 5 som till stora delar skrivs av Stacken.
 
-## [Monotone](http://www.monotone.ca/)
-monotone är ett fritt distribuerat versionshanteringssystem. Det tillhadahåller ett lager av versionstransaktioner i en enda fil, med en komplett samling nätoberoende operationer samt ett effektivt nätverksprotokoll.
-
-## [OpenBSD](http://www.openbsd.org/)
-Ett antal medlemmar hackar friskt på OpenBSD. OpenBSD- projektet gör ett fritt, portabelt 4.4BSD- baserat UNIX-likt operativsystem.
-
 ## [StackHack](stackhack)
 Stackens programmeringstävling – bli kompis med din kompilator
 
@@ -24,9 +18,6 @@ Stackens programmeringstävling – bli kompis med din kompilator
 
 ## [GLFW](http://www.glfw.org/)
 GLFW är ett portablet ramverk för OpenGL-programmering, som hanterar fönster, inputenheter, tid, etc
-
-## [OpenSSL](http://www.openssl.org/)
-Även OpenSSL hackas det på. OpenSSL är en fri implementation av Secure Sockets Layer, vilket implementerar säkerhet och kryptografi i bl.a. Webbuppkopplingar. Det används av bland andra [OpenSSH](http://www.openssh.com/).
 
 ## [StackPointer](stackpointer)
 StackPointer var Datorföreningen Stackens tidning, och kom ut i varierande antal per år, beroende på mängden inkomna bidrag.
@@ -38,15 +29,11 @@ StackPointer var Datorföreningen Stackens tidning, och kom ut i varierande anta
 
 {{% 2split-start %}}
 
-## LDAP
-
-Stackens nuvarande medlemsdatabas går 20 år bak i tiden och ett par aktiva inom Stacken arbetar nu på att exponera den informationen i en LDAP-databas för enklare integration med olika system.
-
 ## [Nextcloud](https://nextcloud.stacken.kth.se)
 
 Nextcloud är en mjukvara för att kunna erbjuda fil, kalender och kontaktsync från din telefon eller dator. Bekvämt sätt att komma åt dina filer på Stacken via webbläsaren samt mycket mycket mer.
 
-## Mail
+## [Mail](https://webmail.stacken.kth.se)
 
 Vi erbjuder mail för våra medlemmar, samt e-postlistor för föreningar och projekt.
 
@@ -61,10 +48,6 @@ Vi har medlemmar som både driftar, jobbar och bidrar till Linux, OpenBSD och Fr
 
 {{% 2split-middle %}}
 
-## SAML
-
-Vi har redan Kerberos (KDC) som används för inloggning till våra system. Med SAML hoppas vi kunna erbjuda en smidigare inloggning och integration med webbaserade system.
-
 ## DNS
 
 Stacken har egna DNS-servrar där vi erbjuder DNS för oss själva men även andra föreningar och medlemmar.
@@ -75,11 +58,22 @@ Stacken har sedan en tid tillbaka ett system för registrering av inventarier ba
 ## [Matrix](https://chat.stacken.kth.se/)
 Matrix är ett protokoll för federerade chattrum. Lite som en blandning av IRC och XMPP (Jabber). Stacken kör en egen så kallad "hemserver" av Matrix där alla medlemmar kan få ett konto. Stackens publika chattrum heter #stacken:stacken.kth.se
 
+## [Jitsi Meet](https://meet.stacken.kth.se/)
+Stacken satte upp en Jitsi Meet en Stackentorsdag under CONVID-19 pandemin för att fortsätta kunna möts, även om virtuellt. Jitsi Meet är en tjänst för videokonferenser där man kan prata i grupp, dela skärmen eller se på video tillsammans.
+
 {{% 2split-end %}}
 
 # Historiska avdelningen
 
+Historiska avdelningen innehåller projekt och tjänster som inte aktivt utvecklas/körs av Stackens medlemmar lägre.
+
 {{% 2split-start %}}
+
+## [OpenSSL](http://www.openssl.org/)
+Även OpenSSL hackas det på. OpenSSL är en fri implementation av Secure Sockets Layer, vilket implementerar säkerhet och kryptografi i bl.a. Webbuppkopplingar. Det används av bland andra [OpenSSH](http://www.openssh.com/).
+
+## [Monotone](http://www.monotone.ca/)
+monotone är ett fritt distribuerat versionshanteringssystem. Det tillhadahåller ett lager av versionstransaktioner i en enda fil, med en komplett samling nätoberoende operationer samt ett effektivt nätverksprotokoll.
 
 ## [Arla-projektet](http://stacken.kth.se/project/arla/)
 AFS är ett globalt filsystem med klienter för nästan alla operativsystem. Arla är en fri implementation av en AFS-klient för de flesta av de plattformarna.
@@ -109,6 +103,9 @@ Ett forum för alla som tycker om att skriva. Huvudsyftet är att skapa en trygg
 Jargon är ett projekt för att göra en ordlista över svensk datorjargon. Detta är ett spritt projekt, med anhängare lite överallt i landet.
 
 {{% 2split-middle %}}
+
+## [OpenBSD](http://www.openbsd.org/)
+Ett antal medlemmar hackar friskt på OpenBSD. OpenBSD- projektet gör ett fritt, portabelt 4.4BSD- baserat UNIX-likt operativsystem.
 
 ## [Passepartout](http://www.stacken.kth.se/project/pptout/)
 Passepartout är ett källkodsöppet layoutprogram (<abbr title="DescTop Publishing" lang="en">DTP</abbr>) för Unix / Gnome.
