@@ -6,11 +6,11 @@
 
 {{% 2split-start %}}
 # Matrix
-Stacken driftar även en [Matrix](https://www.matrix.org)-server där vi har ett flertalet chattrum. Rummet **#stacken:stacken.kth.se** är öppet för alla,
+Stacken driftar en [Matrix](https://www.matrix.org)-server där vi har ett flertalet chattrum. Rummet **#stacken:stacken.kth.se** är öppet för alla,
 du behöver inte vara medlem eller studera på KTH för att delta i kanalen.
 
 # XMPP
-Stacken har ett chattrum på KTHs [XMPP](https://xmpp.org/)-server på **stacken@chat.kth.se**. Här kan man prata om vad som helst som har med Stacken att göra. Detta är också våran primära out-of-band kanal, det vill säga att den fungerar även om det blir strömlöst i våran datorhall.
+Stacken har även ett chattrum på KTHs [XMPP](https://xmpp.org/)-server på **stacken@chat.kth.se**. Här kan man prata om vad som helst som har med Stacken att göra. Detta är också våran primära out-of-band kanal, det vill säga att den fungerar även om det blir strömlöst i våran datorhall.
 
 Du behöver inte vara medlem i Stacken eller studera på KTH för att delta i kanalen. Om du inte har ett jabberkonto men studerar på KTH kan du skapa ett på
 [KTHs XMPP sida](https://www.lan.kth.se/xmpp.html).
