@@ -44,10 +44,11 @@
         </div>
         <div class="panel-body text-center">
             {% set this_year = comment_system %}
+            {% set post_year = (posts|first).date.year %}
             {% set news_to = 1996 %}
             {% for year in range(this_year - (news_to - 1)) %}
                 {% set root_url = "/" if lang == "sv" else "/en/" %}
-                <p style="margin-bottom: 0.4em">
+                <p style="margin-bottom: 0.4em; {% if post_year == (this_year - year) %}font-weight: 700{% endif %}">
                     <a class="reference" href="{{ root_url }}news/{{ this_year - year }}">{{ this_year - year }}</a>
                 </p>
             {% endfor %}
