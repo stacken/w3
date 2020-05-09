@@ -19,6 +19,7 @@ Most pages are translated to English, [click here for the English version](/en/)
 <p>
     Vi har videomöten på torsdagskvällar på
     <a href="https://meet.stacken.kth.se/Stacken">meet.stacken.kth.se/Stacken</a>.
+    Är ingen där, kom in i vårat <a href="/forum">chattrum</a>.
 </p>
 
 {{% /jumbotron %}}
