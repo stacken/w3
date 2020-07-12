@@ -12,7 +12,7 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-    Stackens lokal i i Q-huset vid KTH är stängd på grund av COVID-19 pandemin.
+    Stackens lokal i Q-huset vid KTH är stängd på grund av COVID-19 pandemin.
     Stacken finns på Matrix, Jabber, IRC och E-post.
     Läs mer <a href="/forum/">på sidan <em>forum</em></a>.
 </p>
