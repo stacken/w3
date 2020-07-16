@@ -46,9 +46,10 @@ You are always welcome to join us in our clubroom on Thursday from 7pm. Let us k
 
 {{% 2split-middle %}}
 
-## The board 2019
+## The board 2020
+
 Chairman
-: Stefan Berggren <ordf@stacken.kth.se>
+: Alexander Hjelm <sekr@stacken.kth.se>
 
 Vice Chairman
 : Fabian Ström <vordf@stacken.kth.se>
@@ -57,11 +58,12 @@ Treasurer
 : Stellan Lagerström <kass@stacken.kth.se>
 
 Secretary
-: Alexander Hjelm <sekr@stacken.kth.se>
+: Rasmus Kaj <kaj@stacken.kth.se>
 
 Board Members
+: Stefan Berggren <ordf@stacken.kth.se>
 : Martin Frost <frost@stacken.kth.se>
-: Rasmus Kaj <kaj@stacken.kth.se>
+: William Rågstad
 : Olof Sjödin <medik@stacken.kth.se>
 
 {{% 2split-end %}}

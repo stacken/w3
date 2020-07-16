@@ -49,10 +49,10 @@ KTH<br>
 Du är alltid välkommen förbi oss i vår lokal på torsdagar från 19 och frammåt. Men hör gärna av dig så det är någon som kan hjälpa dig på plats.
 
 {{% 2split-middle %}}
-## Styrelsen 2019
+## Styrelsen 2020
 
 Ordförande 
-: Stefan Berggren <ordf@stacken.kth.se>
+: Alexander Hjelm <sekr@stacken.kth.se>
 
 Vice ordförande 
 : Fabian Ström <vordf@stacken.kth.se>
@@ -61,11 +61,12 @@ Kassör
 : Stellan Lagerström <kass@stacken.kth.se>
 
 Sekreterare 
-: Alexander Hjelm <sekr@stacken.kth.se>
+: Rasmus Kaj <kaj@stacken.kth.se>
 
 Ledamöter
+: Stefan Berggren <ordf@stacken.kth.se>
 : Martin Frost <frost@stacken.kth.se>
-: Rasmus Kaj <kaj@stacken.kth.se>
+: William Rågstad
 : Olof Sjödin <medik@stacken.kth.se>
 
 {{% 2split-end %}}
