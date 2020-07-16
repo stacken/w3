@@ -30,8 +30,8 @@ evening, knock at our door at the 2nd level in the Q-building.
 
 ## Membership
 
-For THS members the membership fee for students is 0 kr, for the rest it is 119
-kr (2019). We prefer it to be paid through Swedish PG 433 01 15-9. Please put your
+For THS members the membership fee for students is 0 kr, for the rest it is 120
+kr (2020). We prefer it to be paid through Swedish PG 433 01 15-9. Please put your
 username (if you have one) in the payment note, and don't pay the fee until you have been notified of
 your status as a member!
 
