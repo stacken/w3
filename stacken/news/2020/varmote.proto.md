@@ -1,5 +1,5 @@
 <!-- 
-.. title: Vårmöte 2019
+.. title: Vårmöte 2020
 .. slug: varmote-proto
 .. date: 2020-02-27 22:20:00 CET
 .. description:
