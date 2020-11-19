@@ -12,12 +12,12 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-    Stackens lokal i Q-huset vid KTH är stängd på grund av COVID-19 pandemin.
-    Stacken finns på Matrix, Jabber, IRC och E-post.
-    Läs mer <a href="/forum/">på sidan <em>forum</em></a>.
+    Vårat höstmöte äger rum Torsdagen den 26:e november,
+    <a href="/news/2020/hostmote/">mer information</a>.
 </p>
 <p>
-    Vi har videomöten på torsdagskvällar på
+    På grund av COVID-19 pandemin finns vi extra mycket på Matrix, Jabber, IRC och E-post.
+    Läs mer <a href="/forum/">på sidan <em>forum</em></a>. Vi har videomöten på torsdagskvällar på
     <a href="https://meet.stacken.kth.se/Stacken">meet.stacken.kth.se/Stacken</a>.
     Är ingen där, kom in i vårat <a href="/forum">chattrum</a>.
 </p>
