@@ -11,11 +11,11 @@
 Most pages are translated to English, [click here for the English version](/en/).
 
 {{% jumbotron title="Stacken Forum" %}}
-<div class="alert alert-primary" role="alert">
+<p style="font-weight: 700">
     Gå med i vårat höstmöte på länken
     <a href="https://meet.stacken.kth.se/hostmote">https://meet.stacken.kth.se/hostmote</a>.
     Prova gärna innan mötet börjar att ljud och bild funkar för dig.
-</div>
+</p>
 <p>
     Vårat höstmöte äger rum Torsdagen den 26:e november,
     <a href="/news/2020/hostmote/">mer information</a>.
