@@ -5,6 +5,10 @@
 -->
 
 {{% jumbotron title="Stacken Forum" %}}
+<p style="font-weight: 700">
+    Join our Autumn Meeting at the following link
+    <a href="https://meet.stacken.kth.se/hostmote">https://meet.stacken.kth.se/hostmote</a>.
+</p>
 <p>
     Stacken Autumn Meeting occurs Thursdag 26th November,
     <a href="/en/news/2020/hostmote/">read more</a>.
