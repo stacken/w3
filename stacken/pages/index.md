@@ -12,7 +12,7 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-    Vårat vårmöte ägde rum Torsdagen den 25:e februari,
+    Vårat vårmöte äger rum Torsdagen den 25:e februari,
     <a href="/news/2021/varmote/">mer information</a>.
 </p>
 <p>
