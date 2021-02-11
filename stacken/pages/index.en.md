@@ -6,8 +6,8 @@
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-    Stacken Autumn Meeting occurs Thursdag 26th November,
-    <a href="/en/news/2020/hostmote/">read more</a>.
+    Stacken Spring Meeting occurs Thursdag 25th February,
+    <a href="/en/news/2021/varmote/">read more</a>.
 </p>
 <p>
     Due the COVID-19 pandemic we are extra active on Matrix, Jabber, IRC and E-mail. To get in contact see

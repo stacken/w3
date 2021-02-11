@@ -12,8 +12,8 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-    Vårat höstmöte ägde rum Torsdagen den 26:e november,
-    <a href="/news/2020/hostmote/">mer information</a>.
+    Vårat vårmöte ägde rum Torsdagen den 25:e februari,
+    <a href="/news/2021/varmote/">mer information</a>.
 </p>
 <p>
     På grund av COVID-19 pandemin finns vi extra mycket på Matrix, Jabber, IRC och E-post.
