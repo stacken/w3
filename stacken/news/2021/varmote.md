@@ -8,7 +8,7 @@
 
 Härmed kallas Stackens medlemmar till Stackens vårmöte 2021, torsdagen
 den 25:e februari klockan 19.30. 
-Vårmötet kommer äga rum online på grund av rådande rekommendationer
+Vårmötet kommer att äga rum online på grund av rådande rekommendationer
 runt covid-19.
 
 <!-- TEASER_END -->
@@ -17,8 +17,8 @@ Var god betala din medlemsavgift om den inte redan är inbetald (såvida
 du inte är THS-studerandemedlem alternativt hedersmedlem). 
 Om du betalar den i tid (inkommen innan vårmötet) har du rätt att
 rösta på vårmötet.
-För THS-studerandemedlemmar är medlemsavgiften 0 kr, vänligen ta med
-din kårlegitimation för att styrka ditt medlemskap.
+För THS-studerandemedlemmar är medlemsavgiften 0 kr, vänligen ha
+din kårlegitimation till hands för att styrka ditt medlemskap.
 
 Medlemsavgiften är för närvarande 121 kr och betalas till PG 433 01 15-9, 
 Datorföreningen Stacken.

@@ -20,7 +20,7 @@ Stacken).
 If we have received it on time (before the meeting) you are eligible
 to vote.
 For student members of the student union, the Stacken membership is
-free, please bring your proof of membership.
+free; please have your proof of membership at hand.
 
 The regular fee is currently 121 SEK and payable to PG 433 01 15-9,
 Datorföreningen Stacken.
