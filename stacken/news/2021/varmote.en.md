@@ -7,7 +7,7 @@
 -->
 
 You are hereby invited to the Stacken spring meeting 2021, Thursday,
-February 27, at 19:30.
+February 25, at 19:30.
 The spring meeting will be held online due to the current covid-19
 recommendations.
 
