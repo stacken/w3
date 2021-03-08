@@ -30,8 +30,8 @@ torsdag, det är bara och knacka på vår dörr på plan 2 i Q-huset.
 
 ## Medlemskap
 
-Medlemsavgiften 2020 är gratis för studenter som är THS-medlemmar,
-för övriga är den 120 kr. Vi föredrar att du betalar via
+Medlemsavgiften 2021 är gratis för studenter som är THS-medlemmar,
+för övriga är den 121 kr. Vi föredrar att du betalar via
 PG 433 01 15-9. Var god och notera ditt användarnamn när du betalar.
 Betala inte medlemsavgiften innan du har fått veta att du är antagen
 som medlem.
