@@ -61,7 +61,7 @@ prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
 pygal==2.4.0
-Pygments==2.6.1
+Pygments==2.7.4
 pyinotify==0.9.6
 pyparsing==2.4.6
 Pyphen==0.9.5
