@@ -4,4 +4,7 @@
 .. description: 
 -->
 
-<iframe src="https://webchat.freenode.net?channels=stackenkth&uio=MT1mYWxzZSYzPWZhbHNlJjEwPXRydWUmMTM9ZmFsc2U6f" style="width: 100%; min-height: 600px"></iframe>
+We bride our Matrix room #stacken:stacken.kth.se with #stackenkth @ libera.chat.
+
+* Web based IRC client: https://web.libera.chat
+* Pick a username and select `#stackenkth` as the channel

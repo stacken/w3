@@ -18,7 +18,7 @@ Du behöver inte vara medlem i Stacken eller studera på KTH för att delta i ka
 Det här rummet är speglat med Matrix-rummet #stacken:stacken.kth.
 
 # IRC
-Stacken har även [#stackenkth](/club/irc/) på Freenode. Kanalen är inte så väl besökt men det är ett enkelt sätt att säga hej till oss. Vi är extra aktiva där
+Stacken har även [#stackenkth](/club/irc/) på Libera.chat. Kanalen är inte så väl besökt men det är ett enkelt sätt att säga hej till oss. Vi är extra aktiva där
 under event.
 
 Det här rummet är speglat med Matrix-rummet #stacken:stacken.kth.

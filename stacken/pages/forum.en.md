@@ -16,7 +16,7 @@ You don't have to be a member in Stacken nor study at KTH to join our channel. A
 This room is mirrored with the matrix room #stacken:stacken.kth.se.
 
 # IRC
-Stacken have a [#stackenkth](/club/irc/) at Freenode. The channel is to well used but it's a easy way to say *hi*. We mosly use this room for specific events.
+Stacken have a [#stackenkth](/club/irc/) at Libera.chat. The channel is to well used but it's a easy way to say *hi*. We mosly use this room for specific events.
 
 This room is mirrored with the matrix room #stacken:stacken.kth.se.
 
