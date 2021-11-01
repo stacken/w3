@@ -6,8 +6,8 @@
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-    Stacken Spring Meeting occurs Thursdag 25th February,
-    <a href="/en/news/2021/varmote/">read more</a>.
+    Stacken Spring Meeting occurs Thursday 11th November,
+    <a href="/en/news/2021/hostmote/">read more</a>.
 </p>
 <p>
     Due the COVID-19 pandemic we are extra active on Matrix, Jabber, IRC and E-mail. To get in contact see
@@ -28,7 +28,7 @@
 {{% info-box %}}
 <p>
     Are you interested in design? Stacken is looking for someone
-    who is interested to develop our webpage.
+    who is interested in developing our webpage.
 </p>
 <p>
     <a href="https://github.com/stacken/w3/issues/25">Read more and enter your submission here!</a>
