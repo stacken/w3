@@ -6,7 +6,7 @@
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-    Stacken Spring Meeting occurs Thursday 11th November,
+    Stacken Autumn Meeting occurs Thursday 25th November,
     <a href="/en/news/2021/hostmote/">read more</a>.
 </p>
 <p>
