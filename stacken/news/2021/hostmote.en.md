@@ -1,13 +1,13 @@
 <!-- 
 .. title: Summons to the Stacken Autumn Meeting
 .. slug: hostmote
-.. date: 2021-10-28 20:20:00 CET
+.. date: 2021-11-11 20:20:00 CET
 .. description: 
 .. category: 2021
 -->
 
 Hereby you, as member of The Computer Club Stacken, are called to the autumn 
-meeting at Thursday November the 11:th at 19:30 in a room near the Stacken club
+meeting at Thursday November the 25:th at 19:30 in a room near the Stacken club
 room.
 
 Please pay your membership fee if it is not already paid (or if you are an 

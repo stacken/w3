@@ -1,13 +1,13 @@
 <!-- 
 .. title: Kallelse till Stackens höstmöte
 .. slug: hostmote
-.. date: 2021-10-28 20:20:00 CET
+.. date: 2021-11-11 20:20:00 CET
 .. description: 
 .. category: 2021
 -->
 
 Härmed kallas du som är medlem i Datorföreningen Stacken till höstmöte, torsdag 
-11 november 2021 kl. 19.30 i en sal nära Stackenlokalen.
+25 november 2021 kl. 19.30 i en sal nära Stackenlokalen.
 
 Var god betala din medlemsavgift om den inte redan är inbetald (eller du är 
 hedersmedlem). Om du betalar den i tid (inkommen innan höstmötet) har du rätt 
