@@ -47,7 +47,7 @@ fabian
 
 Alexander Hjelm visade, efter lite betänketid, valberedningens förslag:
 
-* Ordförade Markus Dicander
+* Ordförade Marcus Dicander
 * Vice ordförande: Alexander Hjelm
 * Kassör: Stellan Lagerström
 * Sekreterare: Rasmus Kaj
