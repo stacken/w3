@@ -6,8 +6,9 @@
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-    Stacken Autumn Meeting occurs Thursday 25th November,
-    <a href="/en/news/2021/hostmote/">read more</a>.
+    Wednesday 24 of august is <em>Kårens Dag</em> / Campus Fair.
+    Are you a new student at KTH?  Hope to see you there!
+    <a href="/news/2022/karensdag/">mer information</a>.
 </p>
 <p>
     Due the COVID-19 pandemic we are extra active on Matrix, Jabber, IRC and E-mail. To get in contact see
