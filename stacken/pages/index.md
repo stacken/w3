@@ -32,15 +32,6 @@ Föreningens syfte är att främja intresset för och vidga kunskaper
 inom datorområdet.
 {{% /big %}}
 
-{{% info-box %}}
-<p>
-    Är du intresserad av design? Stacken söker efter någon som är intresserad av att utveckla vår webbsida.
-</p>
-<p>
-    <a href="https://github.com/stacken/w3/issues/25">Kom med förslag & läs mer här!</a>
-</p>
-{{% /info-box %}}
-
 {{% rowstart %}}
     {{% 3cell title="Projekt och Aktiviteter" %}}
         Vi erbjuder gemensamma projekt att arbeta på, tjänster för
