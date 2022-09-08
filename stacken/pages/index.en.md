@@ -6,11 +6,6 @@
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-    Wednesday 24 of august is <em>Kårens Dag</em> / Campus Fair.
-    Are you a new student at KTH?  Hope to see you there!
-    <a href="/news/2022/karensdag/">mer information</a>.
-</p>
-<p>
     Due the COVID-19 pandemic we are extra active on Matrix, Jabber, IRC and E-mail. To get in contact see
     <a href="/en/forum/">the page <em>forum</em></a>. We have a weekly video meeting on Thursday evenings
     at <a href="https://meet.stacken.kth.se/Stacken">meet.stacken.kth.se/Stacken</a>.
