@@ -6,7 +6,7 @@
 .. category: 2022
 -->
 
-![Too few pins?  No problem!](/images/gpio.jpg){: style="float: right" }
+![Too few pins?  No problem!](/images/gpio2.jpg){: style="float: right" }
 
 > Three roads to enlightenment
 
