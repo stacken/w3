@@ -1,7 +1,7 @@
 <!-- 
 .. title: Datorföreningen Stackens höstmöte 2022
 .. slug: hostmoteproto
-.. date: 2022-12-01 21:00:00 CET
+.. date: 2022-12-01 20:06:00 CET
 .. description: 
 .. category: 2022
 -->
