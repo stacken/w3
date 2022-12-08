@@ -12,10 +12,9 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-<strong>Torsdag 29 september klockan 19:30:</strong>
-<a href="/news/2022/gpio/">Inbäddade system och GPIO</a>.
-Stellan Lagerström håller stackenföreläsning om <strong>Arduino,
-Raspberry Pi och ESP 8266</strong>.
+Stackens 
+<a href="/news/2022/hostmote/">höstmöte</a> hölls i Q21, 1:a december kl 19:30. Ny styrelse valdes.
+.
 </p>
 <p>
     På grund av COVID-19 pandemin finns vi extra mycket på Matrix, Jabber, IRC och E-post.
