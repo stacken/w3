@@ -13,7 +13,7 @@ Most pages are translated to English, [click here for the English version](/en/)
 {{% jumbotron title="Stacken Forum" %}}
 <p>
 Stackens 
-<a href="/news/2022/hostmote/">höstmöte</a> hölls i Q21, 1:a december kl 19:30. Ny styrelse valdes.
+<a href="/news/2022/hostmoteproto/">höstmöte</a> hölls i Q21, 1:a december kl 19:30. Ny styrelse valdes.
 .
 </p>
 <p>
