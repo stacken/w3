@@ -49,13 +49,10 @@ KTH<br>
 Du är alltid välkommen förbi oss i vår lokal på torsdagar från 19 och frammåt. Men hör gärna av dig så det är någon som kan hjälpa dig på plats.
 
 {{% 2split-middle %}}
-## Styrelsen 2022
+## Styrelsen 2023
 
 Ordförande 
 : Marcus Dicander <ordf@stacken.kth.se>
-
-Vice ordförande 
-: Alexander Hjelm <vordf@stacken.kth.se>
 
 Kassör 
 : Stellan Lagerström <kass@stacken.kth.se>
@@ -65,6 +62,7 @@ Sekreterare
 
 Ledamöter
 : Fabian Ström <fabian@stacken.kth.se>
+: Martin Björnebro <mbjorne@kth.se>
 : Martin Frost <frost@stacken.kth.se>
 
 {{% 2split-end %}}

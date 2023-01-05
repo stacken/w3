@@ -46,13 +46,10 @@ You are always welcome to join us in our clubroom on Thursday from 7pm. Let us k
 
 {{% 2split-middle %}}
 
-## The board 2022
+## The board 2023
 
 Chairman
 : Marcus Dicander <ordf@stacken.kth.se>
-
-Vice Chairman
-: Alexander Hjelm <vordf@stacken.kth.se>
 
 Treasurer
 : Stellan Lagerström <kass@stacken.kth.se>
@@ -62,6 +59,7 @@ Secretary
 
 Board Members
 : Fabian Ström <fabian@stacken.kth.se>
+: Martin Björnebro <mbjorne@kth.se>
 : Martin Frost <frost@stacken.kth.se>
 
 {{% 2split-end %}}
