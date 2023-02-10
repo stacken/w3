@@ -1,7 +1,7 @@
 <!-- 
 .. title: Kallelse till vårmöte 2023
 .. slug: varmote
-.. date: 2023-02-10 14:00:00 CET
+.. date: 2023-02-10 14:25:00 CET
 .. description: Kallelse till och dagordning för Stackens vårmöte 2023.
 .. category: 2023
 -->
@@ -42,4 +42,4 @@ Glöm inte att ange namn och username - samtligas, om du betalar för
 flera personer.
 Eventuella frågor kan ställas till styrelsen@stacken.kth.se.
 
-Datorföreningen Stackens styrelse, genom Alexander Hjelm.
+Datorföreningen Stackens styrelse, genom Rasmus Kaj.

@@ -1,7 +1,7 @@
 <!-- 
 .. title: Summons to the spring meeting 2023
 .. slug: varmote
-.. date: 2023-02-10 14:15:00 CET
+.. date: 2023-02-10 14:25:00 CET
 .. description: Summons to and proposed agenda for the spring meeting och Stacken Computer Club, 2023.
 .. category: 2023
 -->
@@ -44,4 +44,4 @@ pay for more than one person).
 Any questions can be adressed to styrelsen@stacken.kth.se.
 
 
-Board of Stacken Computer Club via Alexander Hjelm.
+Board of Stacken Computer Club via Rasmus Kaj.
