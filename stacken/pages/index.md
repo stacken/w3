@@ -12,8 +12,8 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-Stackens 
-<a href="/news/2022/hostmoteproto/">höstmöte</a> hölls i Q21, 1:a december kl 19:30. Ny styrelse valdes.
+Välkommen till <a href="/news/2023/varmote/">Stackens vårmöte 2023</a>!
+Klockan 19:30, torsdag 23 februari i en sal nära Stackenlokalen.
 </p>
 <p>
     På grund av COVID-19-pandemin finns vi extra mycket på Matrix, Jabber, IRC och E-post.

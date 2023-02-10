@@ -6,10 +6,9 @@
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-<strong>Thursday 29 September 2022, 19:30:</strong>
-<a href="/en/news/2022/gpio/">Embedded computers and GPIO</a>.
-Stacken lecture by Stellan Lagerström about <strong>Arduino,
-Raspberry Pi and ESP 8266</strong>.
+Welcome to <a href="/en/news/2023/varmote/">The Stacken spring meeting
+2023</a>!
+At 19:30, Thursday, January 23 2023, in a room close the the clubroom.
 </p>
 <p>
     Due the COVID-19 pandemic we are extra active on Matrix, Jabber, IRC and E-mail. To get in contact see
