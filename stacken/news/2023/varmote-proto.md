@@ -51,7 +51,8 @@ strömavbrott) har byggts.
 
 ## 9. Balansräkning
 
-Stellan redogör ...
+Stellan redogör för föreningens resultat- och balansräkning
+räkenskapsåret 2022 enligt följande.
 
 ### Resultaträkning 2022		
 Datorföreningen Stacken		
