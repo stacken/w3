@@ -13,8 +13,9 @@ Stacken](https://techworld.idg.se/2.2524/1.454545/the-stacken-story/sida/1/det-b
 
 # 70-tal
 
-Stacken grundades 1978.  Ett av de första projekten var samköp av komponenter
-till Z80-baserade mikrodatorer.
+Stacken grundades 18 maj 1978.
+Ett av de första projekten var samköp av komponenter till Z80-baserade
+mikrodatorer.
 
 # 80-tal
 
