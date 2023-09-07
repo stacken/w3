@@ -12,8 +12,11 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-Välkommen till <a href="/news/2023/varmote/">Stackens vårmöte 2023</a>!
-Klockan 19:30, torsdag 23 februari i en sal nära Stackenlokalen.
+14 September 2023 klockan 19:30 i Q31, Q-huset plan 3, kommer det att
+hållas en föreläsning om <strong>Monader i Haskell</strong>,
+entusiastiskt hållen av Marcus Dicander, som förutom att han är
+adjunkt och kursansvarig för programmeringsparadigmer även är
+ordförande i Datorföreningen Stacken.
 </p>
 <p>
     På grund av COVID-19-pandemin finns vi extra mycket på Matrix, Jabber, IRC och E-post.

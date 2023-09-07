@@ -6,9 +6,11 @@
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-Welcome to <a href="/en/news/2023/varmote/">The Stacken spring meeting
-2023</a>!
-At 19:30, Thursday, January 23 2023, in a room close the the clubroom.
+On September 14:th 2023 at 19:30 in Q31 in the Q building, level 3.
+There will be a lecture on <strong>Monads in Haskell</strong>, delivered
+enthusiastically with many concrete examples by Marcus Dicander, an
+adjunct lecturer and course responsible for programming paradigms (and
+the chair of the Stacken Computer Club).
 </p>
 <p>
     Due the COVID-19 pandemic we are extra active on Matrix, Jabber, IRC and E-mail. To get in contact see
