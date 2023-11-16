@@ -6,11 +6,8 @@
 
 {{% jumbotron title="Stacken Forum" %}}
 <p>
-On September 14:th 2023 at 19:30 in Q31 in the Q building, level 3.
-There will be a lecture on <strong>Monads in Haskell</strong>, delivered
-enthusiastically with many concrete examples by Marcus Dicander, an
-adjunct lecturer and course responsible for programming paradigms (and
-the chair of the Stacken Computer Club).
+On Thursday, November 16:th 2023, stacken had
+<a href="/news/2023/hostmote/">fall meeting, including election of the board for 2024</a>.
 </p>
 <p>
     Due the COVID-19 pandemic we are extra active on Matrix, Jabber, IRC and E-mail. To get in contact see
