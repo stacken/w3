@@ -6,7 +6,7 @@ on: [push, pull_request]
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ${{ github.repository }}-w3
+  IMAGE_NAME: ${{ github.repository }}
 
 jobs:
   build-and-push-image:
