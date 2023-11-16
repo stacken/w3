@@ -56,6 +56,7 @@ Mötet valde följande styrelse för 2024:
 ```
 Ordförande: Marcus Dicander.
 Vice ordförande: Martin Björnebro.
+Sekreterare: John Lorentzson.
 Kassör: Stellan Lagerström.
 Ledamöter: Hugo Ameln, Viktor Kryg.
 ```
