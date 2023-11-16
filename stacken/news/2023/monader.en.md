@@ -1,8 +1,8 @@
 <!-- 
-.. title: Öppen föreläsning om monader
-.. slug: varmote
+.. title: Open lecture about monads
+.. slug: monader
 .. date: 2023-09-07 20:19:00 CET
-.. description: Öppen föreläsning om monader i Haskell
+.. description: Open lecture about Haskell monads
 .. category: 2023
 -->
 

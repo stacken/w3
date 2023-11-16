@@ -1,6 +1,6 @@
 <!-- 
 .. title: Open lecture about monads
-.. slug: varmote
+.. slug: monader
 .. date: 2023-09-07 20:19:00 CET
 .. description: There will be a lecture on Monads in Haskell
 .. category: 2023
