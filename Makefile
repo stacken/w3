@@ -42,12 +42,12 @@ ${ENVDIR}/bin/nikola:
 
 # Run this to update nikola-requirements.txt with a fresh version of Nikola
 update-nikola:
-	virtualenv -p python3 .tmpenv
-	. .tmpenv/bin/activate && pip install --upgrade "Nikola[extras]"
-	. .tmpenv/bin/activate && pip freeze \
-		| grep -v pkg-resources \
-		> nikola-requirements.txt
-	rm -rf .tmpenv
+	${DOCKER} run -it --rm -v ${PWD}:/src python:3.8 \
+		/bin/bash -c "cd /src && make update-nikola-in-docker"
+
+update-nikola-in-docker:
+	pip install -U Nikola[extras]
+	pip freeze | grep -v pkg-resources > nikola-requirements.txt
 
 # Run this to clean up, sometimes this is needed to fix the build
 clean:
