@@ -49,4 +49,4 @@ jobs:
 
     steps:
       - name: Trigger deployment webhook
-        run: curl https://webhook.stacken.kth.se/hooks/${{ secrets.DEPLOY_WEBHOOK_SECRET }}
+        run: curl -X POST https://webhook.stacken.kth.se/hooks/${{ secrets.DEPLOY_WEBHOOK_SECRET }}
