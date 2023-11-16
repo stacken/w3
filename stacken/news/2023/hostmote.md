@@ -6,10 +6,8 @@
 .. category: 2023
 -->
 
-# Datorföreningen Stackens höstmöte 2023
-
 Protokoll fört vid Datorföreningen Stackens ordinarie höstmöte,
-16 november 2023 i sal Q21, KTH Campus.
+16 november 2023 i sal Q22, KTH Campus.
 
 <!-- TEASER_END -->
 
