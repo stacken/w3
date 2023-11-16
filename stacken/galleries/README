@@ -1,7 +1,0 @@
-Documentation can be found here:
-https://getnikola.com/handbook.html#images-and-galleries
-
-But simplified, make a directory and place some images inside :)
-
-The cronjob on cookie will bindmount the old galleries from AFS and symlink
-valid files to this folder. This is a hack :P
