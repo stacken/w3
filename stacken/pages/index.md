@@ -10,15 +10,17 @@
 -->
 Most pages are translated to English, [click here for the English version](/en/).
 
-{{% jumbotron title="Stacken Forum" %}}
-<p>
-Torsdag 16 november höll stacken <a href="/news/2023/hostmote/">höstmöte, bland annat med val av styrelse för 2024.
-</p>
-<p>
-    På grund av COVID-19-pandemin finns vi extra mycket på Matrix, Jabber, IRC och E-post.
-    Läs mer <a href="/forum/">på sidan <em>forum</em></a>. Vi har videomöten på torsdagskvällar på
-    <a href="https://meet.stacken.kth.se/Stacken">meet.stacken.kth.se/Stacken</a>.
-    Är ingen där, kom in i vårt <a href="/forum">chattrum</a>.
+{{% jumbotron title="Aktuellt på Stacken" %}}
+
+Torsdag 16 november höll stacken <a href="/news/2023/hostmote/">höstmöte</a>,
+bland annat med val av styrelse för 2024.</p>
+
+<p>Vi brukar träffas i vår föreningslokal på torsdagkvällar,
+en del av oss brukar äta först (ofta på Sushi Zen på Frejgatan) och
+dyka upp i lokalen frammåt 19:30.
+Vi finns också online, se <a href="/forum/">sidan om <em>forum</em></a>.
+Ibland har vi videomöten på
+<a href="https://meet.stacken.kth.se/Stacken">meet.stacken.kth.se/Stacken</a>.
 </p>
 
 {{% /jumbotron %}}
