@@ -29,8 +29,6 @@ This room is mirrored with the matrix room #stacken:stacken.kth.se.
 We have setup an Jitsi Meet server at [meet.stacken.kth.se](https://meet.stacken.kth.se) for members to meet each other during the pandemic. Join us at Thursday evenings in the room [Stacken](https://meet.stacken.kth.se/Stacken).
 
 # The Club Room
-**Note that the club room is closed due the COVID-19 pandemic.**
-
 Our club room is open all the days for members. Thursday evenings from 7 PM are our traditional day where we meet in the clubroom and build something, debug a problem or discuss something interesting.
 
 Non-members and guests are always welcome, we recommend that you contacts us in advance so we can make sure that someone is there to let you in.
