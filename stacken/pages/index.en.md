@@ -10,9 +10,7 @@ On Thursday, November 16:th 2023, stacken had
 <a href="/news/2023/hostmote/">fall meeting</a>, including election of
 the board for 2024.</p>
 
-<p>We usually meet in our club room on thursday evenings.
-Some of us like to eat first (often at Sushi Zen, at Frejgatan), and
-arrives at the club room around 19:30.
+<p>We usually meet in our club room on thursday evenings around 19:30.
 
 We also meet online, To get in contact see
 <a href="/en/forum/">the page <em>forum</em></a>.

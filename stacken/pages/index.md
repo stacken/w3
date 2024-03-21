@@ -12,12 +12,10 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Aktuellt på Stacken" %}}
 
-Torsdag 16 november höll stacken <a href="/news/2023/hostmote/">höstmöte</a>,
-bland annat med val av styrelse för 2024.</p>
+Torsdag 7 mars höll stacken <a href="/news/2024/varmote-proto/">vårmöte</a>.</p>
 
 <p>Vi brukar träffas i vår föreningslokal på torsdagkvällar,
-en del av oss brukar äta först (ofta på Sushi Zen på Frejgatan) och
-dyka upp i lokalen frammåt 19:30.
+en del av oss brukar äta först och dyka upp i lokalen frammåt 19:30.
 Vi finns också online, se <a href="/forum/">sidan om <em>forum</em></a>.
 Ibland har vi videomöten på
 <a href="https://meet.stacken.kth.se/Stacken">meet.stacken.kth.se/Stacken</a>.
