@@ -38,8 +38,8 @@ Sometimes we have video meetings at
         KTH. The purpose of the club is to promote knowledge
         about computers and surrounding technologies.
     {{% /3cell %}}
-    {{% 3cell title="40 years of Stacken" %}}
-        Stacken have been around in 40 years and we have seen the
+    {{% 3cell title="Over 40 years of Stacken" %}}
+        Stacken have been around for over 40 years and we have seen the
         birth of the modern computer and the internet.
         <a href="/club/history/">Read more</a>
     {{% /3cell %}}

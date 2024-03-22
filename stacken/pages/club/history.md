@@ -4,8 +4,8 @@
 .. description: 
 -->
 
-Stacken har existerat på och runt KTH i 40 år och varit med om födelsen av
-både den moderna datorn och internet som vi känner det i dag.
+Stacken har existerat på och runt KTH i mer än 40 år och varit med om
+födelsen av både den moderna datorn och internet som vi känner det i dag.
 
 Förutom egna minnen och anteckningar är den här sidan delvis baserat på
 [Jörgen Städjes IDG-artikel om
@@ -161,6 +161,14 @@ lokalen under hösten.
 
 
 # 20-tal
+
+2020 & 2021 hände nästan ingenting till stor del på grund av COVID-19 pandemin.
+
+2023 togs en gammal VT220 terminal fram ur datorhallen och demos
+började skrivas till den. Därefter köptes ett nätaggregat till den
+tidigare dekorativa Commodore 64:an och den togs ur sin monter. Två
+servrar, Twix och Raider, installerades och sattes till viss del i
+drift.
 
 Stackens historia under 2020-talet återstår att skriva, och du kan
 vara en del av den!

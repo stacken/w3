@@ -12,7 +12,7 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Aktuellt på Stacken" %}}
 
-Torsdag 7 mars höll stacken <a href="/news/2024/varmote-proto/">vårmöte</a>.</p>
+Torsdag 7 mars höll Stacken <a href="/news/2024/varmote-proto/">vårmöte</a>.</p>
 
 <p>Vi brukar träffas i vår föreningslokal på torsdagkvällar,
 en del av oss brukar äta först och dyka upp i lokalen frammåt 19:30.
@@ -41,8 +41,8 @@ inom datorområdet.
         vid KTH. Föreningens syfte är att främja intresset för
         och vidga kunskaper inom datorområdet.
     {{% /3cell %}}
-    {{% 3cell title="40 år av Stacken" %}}
-        Stacken har varit på och runt KTH i 40 år och varit med
+    {{% 3cell title="Över 40 år av Stacken" %}}
+        Stacken har varit på och runt KTH i mer än 40 år och varit med
         om födelsen av både den moderna datorn och internet som
         vi känner det i dag.
         <a href="/club/history/">Läs mer</a>
