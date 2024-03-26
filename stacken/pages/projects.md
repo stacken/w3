@@ -8,7 +8,7 @@ Stacken och dess medlemmar är involverade i många olika projekt. Genom åren h
 
 {{% 2split-start %}}
 
-## [Kerberos / Heimdal](http://www.h5l.se/)
+## Kerberos / Heimdal
 Kerberos är ett autentiseringssystem som hela världen använder (även om inte alla vet det). Heimdal är en implementation av Kerberos 5 som till stora delar skrivs av Stacken.
 
 ## [StackHack](stackhack)
