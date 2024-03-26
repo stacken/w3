@@ -29,6 +29,8 @@ Vår lokal är öppen dygnet runt för våra medlemmar men på torsdagagskvälla
 
 Utomstående och gäster är så klart alltid välkommna, knacka på dörren om lampan är tänd och säg hej. Om du vill vara säker på att någon är där, hör av dig först.
 
+Vi håller hus på plan 2 i Q-huset. [Du finner en karta här](https://www.kth.se/places/room/id/dff6aecb-9ad4-43dd-9682-0b0cd3bac131), för en mer precis beskrivning kan du läsa detta på [sidan hitta](/hitta).
+
 # Historiska forum
 Ett urval av ej aktiva diskussionforum på Stacken.
 
