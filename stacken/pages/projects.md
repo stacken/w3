@@ -11,9 +11,6 @@ Stacken och dess medlemmar är involverade i många olika projekt. Genom åren h
 ## Kerberos / Heimdal
 Kerberos är ett autentiseringssystem som hela världen använder (även om inte alla vet det). Heimdal är en implementation av Kerberos 5 som till stora delar skrivs av Stacken.
 
-## [StackHack](stackhack)
-Stackens programmeringstävling – bli kompis med din kompilator
-
 {{% 2split-middle %}}
 
 ## Retrodatorer
@@ -21,9 +18,6 @@ Stacken har retrodatorer och dessa hackas på då och då. Just nu har
 vi en Commodore 64, en Amiga A500 och en ZX Spectrum som står
 framme. I datorhallen står en del Sun workstationdatorer oanvända,
 och i displaymontern står några mindre maskiner.
-
-## [StackPointer](stackpointer)
-StackPointer var Datorföreningen Stackens tidning, och kom ut i varierande antal per år, beroende på mängden inkomna bidrag.
 
 {{% 2split-end %}}
 
@@ -140,6 +134,12 @@ Boken som korsrefererar kommandon i nästan alla operativ.
 
 ## [Hackerbladet](http://www.stacken.kth.se/hackerbladet/)
 Hackerbladet var ett fanzine. Det innehöll diverse saker om hackerkulturen, lite satir, mycket humor och till och med ett och annat programmeringstips.
+
+## [StackPointer](stackpointer)
+StackPointer var Datorföreningen Stackens tidning, och kom ut i varierande antal per år, beroende på mängden inkomna bidrag.
+
+## [StackHack](stackhack)
+Stackens programmeringstävling – bli kompis med din kompilator
 
 {{% 2split-end %}}
 
