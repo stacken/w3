@@ -112,8 +112,8 @@ Passepartout är ett källkodsöppet layoutprogram (<abbr title="DescTop Publish
 ## Lekstugan.net
 En lekstuga skulle man kunna definiera som ett litet hus (gärna rött) där man får vara sig själv för en liten stund. I praktiken är det spelservrar och forum.
 
-## PDP11
-PDP11 är en familj minidatorer från Digital (senare Compaq, senare HP) skapad i början på 70-talet. Stacken har ett PDP11/70-system i sin ägo som kan köras vid festliga tillfällen. Vill du prova på att köra PDP11 och operativsystemet RSTS/E finns en emulator på denna sida. Även manualer till RSTS/E finns på denna sida. http://elvira.stacken.kth.se/pdp11/
+## [PDP11](http://elvira.stacken.kth.se/)
+PDP11 är en familj minidatorer från Digital (senare Compaq, senare HP) skapad i början på 70-talet. Stacken har ett PDP11/70-system i sin ägo som kan köras vid festliga tillfällen. Vill du prova på att köra PDP11 och operativsystemet RSTS/E finns en emulator på denna sida. Även manualer till RSTS/E finns på denna sida.
 
 ## Baltikumprojektet
 Tack vare Stacken har flesta av de baltiska högskolorna gått från ryska PDP-11 kopior till moderna VAXar och SUNar med VMS eller UNIX.
