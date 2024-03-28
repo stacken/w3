@@ -17,7 +17,10 @@ Stackens programmeringstävling – bli kompis med din kompilator
 {{% 2split-middle %}}
 
 ## Retro datorer
-Stacken har en del retro datorer och dessa hackas på då och då.
+Stacken har retro datorer och dessa hackas på då och då. Just nu har
+vi en Commodore 64, en Amiga A500 och en ZX Spectrum som står
+framme. I datorhallen står en del Sun workstation datorer oanvända,
+och i displaymontern står några mindre maskiner.
 
 ## [StackPointer](stackpointer)
 StackPointer var Datorföreningen Stackens tidning, och kom ut i varierande antal per år, beroende på mängden inkomna bidrag.
