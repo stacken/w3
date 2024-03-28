@@ -26,6 +26,9 @@ och i displaymontern står några mindre maskiner.
 
 {{% 2split-start %}}
 
+## Servrar
+Vi har medlemmar som både driftar, jobbar och bidrar till Linux, OpenBSD och FreeBSD. Föreningen driftar ett antal servrar i vår datorhall med sju rack i där vi har samling av donerad hårdvara. Vi kör allt från AFS-servrar till Postfix, från Heimdal Kerberos till KVM.
+
 ## [Nextcloud](https://nextcloud.stacken.kth.se)
 
 Nextcloud är en mjukvara för att kunna erbjuda fil, kalender och kontaktsync från din telefon eller dator. Bekvämt sätt att komma åt dina filer på Stacken via webbläsaren samt mycket mycket mer.
@@ -38,10 +41,6 @@ Vi erbjuder mail för våra medlemmar, samt e-postlistor för föreningar och pr
 Stacken has been operating an IPv6 network since 1997. First, we had a 6bone connection with static routing. Some years later, we changed this to a multihomed BGP connection.
 
 Today, the IPv6 tests have been replaced by a connection from KTHLAN. Most of our machines are IPv6 capable. 
-
-## Servrar
-
-Vi har medlemmar som både driftar, jobbar och bidrar till Linux, OpenBSD och FreeBSD. Föreningen driftar ett antal servrar i vår datorhall med sju rack i där vi har samling av donerad hårdvara. Vi kör allt från AFS-servrar till Postfix, från Heimdal Kerberos till KVM.
 
 {{% 2split-middle %}}
 
