@@ -47,7 +47,7 @@ everything from lectures and competitions to help with hard to solve problems.
 We also self host and manage our own services in our datacenter.
 
 ### What do I need to know?
-Nothing, join us and learn.
+Nothing, join us and learn. It helps if you already have a large interest in computers/software though.
 
 ### What about Swedish?
 No worries, we speak English.

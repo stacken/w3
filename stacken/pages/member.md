@@ -44,7 +44,7 @@ Din ansökan kommer att behandlas vid nästa styrelsemöte.
 Föreningens syfte är att främja intresset för och vidga kunskaper inom datorområdet. Vad vi gör beror på vad våra aktiva medlemmar vill, det kan vara allt från föreläsningar och tävlingar till hjälp med svåra problem. Vi hostar även själva ett flertal tjänster i en egen datorhall.
 
 ### Vad behöver jag kunna för att vara med?
-Inget, gå med och lär dig det du tycker är intressant.
+Inget, gå med och lär dig det du tycker är intressant. Det hjälper dock om du redan har ett stort datorintresse.
 
 {{% 2split-end %}}
 
