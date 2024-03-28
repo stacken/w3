@@ -16,8 +16,8 @@ Stackens programmeringstävling – bli kompis med din kompilator
 
 {{% 2split-middle %}}
 
-## [GLFW](http://www.glfw.org/)
-GLFW är ett portablet ramverk för OpenGL-programmering, som hanterar fönster, inputenheter, tid, etc
+## Retro datorer
+Stacken har en del retro datorer och dessa hackas på då och då.
 
 ## [StackPointer](stackpointer)
 StackPointer var Datorföreningen Stackens tidning, och kom ut i varierande antal per år, beroende på mängden inkomna bidrag.
@@ -68,6 +68,9 @@ Stacken satte upp en Jitsi Meet en Stackentorsdag under CONVID-19 pandemin för 
 Historiska avdelningen innehåller projekt och tjänster som inte aktivt utvecklas/körs av Stackens medlemmar lägre.
 
 {{% 2split-start %}}
+
+## [GLFW](http://www.glfw.org/)
+GLFW är ett portablet ramverk för OpenGL-programmering, som hanterar fönster, inputenheter, tid, etc
 
 ## [OpenSSL](http://www.openssl.org/)
 Även OpenSSL hackas det på. OpenSSL är en fri implementation av Secure Sockets Layer, vilket implementerar säkerhet och kryptografi i bl.a. Webbuppkopplingar. Det används av bland andra [OpenSSH](http://www.openssh.com/).
