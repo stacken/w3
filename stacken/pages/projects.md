@@ -8,8 +8,8 @@ Stacken och dess medlemmar är involverade i många olika projekt. Genom åren h
 
 {{% 2split-start %}}
 
-## Kerberos / Heimdal
-Kerberos är ett autentiseringssystem som hela världen använder (även om inte alla vet det). Heimdal är en implementation av Kerberos 5 som till stora delar skrivs av Stacken.
+## Servrar
+Vi har medlemmar som både driftar, jobbar och bidrar till Linux, OpenBSD och FreeBSD. Föreningen driftar ett antal servrar i vår datorhall med sju rack i där vi har samling av donerad hårdvara. Vi kör allt från AFS-servrar till Postfix, från Heimdal Kerberos till KVM.
 
 {{% 2split-middle %}}
 
@@ -25,9 +25,6 @@ och i displaymontern står några mindre maskiner.
 # Tjänster
 
 {{% 2split-start %}}
-
-## Servrar
-Vi har medlemmar som både driftar, jobbar och bidrar till Linux, OpenBSD och FreeBSD. Föreningen driftar ett antal servrar i vår datorhall med sju rack i där vi har samling av donerad hårdvara. Vi kör allt från AFS-servrar till Postfix, från Heimdal Kerberos till KVM.
 
 ## [Nextcloud](https://nextcloud.stacken.kth.se)
 
@@ -70,6 +67,9 @@ GLFW är ett portablet ramverk för OpenGL-programmering, som hanterar fönster,
 
 ## [OpenSSL](http://www.openssl.org/)
 Även OpenSSL hackas det på. OpenSSL är en fri implementation av Secure Sockets Layer, vilket implementerar säkerhet och kryptografi i bl.a. Webbuppkopplingar. Det används av bland andra [OpenSSH](http://www.openssh.com/).
+
+## Kerberos / Heimdal
+Kerberos är ett autentiseringssystem som hela världen använder (även om inte alla vet det). Heimdal är en implementation av Kerberos 5 som till stora delar skrivs av Stacken.
 
 ## [Monotone](http://www.monotone.ca/)
 monotone är ett fritt distribuerat versionshanteringssystem. Det tillhadahåller ett lager av versionstransaktioner i en enda fil, med en komplett samling nätoberoende operationer samt ett effektivt nätverksprotokoll.
