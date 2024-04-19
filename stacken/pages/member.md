@@ -51,7 +51,8 @@ Inget, gå med och lär dig det du tycker är intressant. Det hjälper dock om d
 ## Medlemsansökan
 
 {{% member-form
-name="Namn"
+firstname="Förnamn"
+lastname="Efternamn"
 email="E-post"
 KTH="Användarnamn på KTH"
 phone="Telefon"

@@ -57,7 +57,8 @@ No worries, we speak English.
 ## Membership application
 
 {{% member-form
-name="Name"
+firstname="First name"
+lastname="Last name"
 email="E-mail"
 KTH="Username at KTH"
 phone="Phone"
