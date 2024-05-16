@@ -6,7 +6,7 @@
 .. category: 2024
 -->
 
-
+Protokoll från extramötet som uteslöt en medlem.
 
 <!-- TEASER_END -->
 
