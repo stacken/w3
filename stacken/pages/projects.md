@@ -14,10 +14,11 @@ Vi har medlemmar som både driftar, jobbar och bidrar till Linux, OpenBSD och Fr
 {{% 2split-middle %}}
 
 ## Retrodatorer
-Stacken har retrodatorer och dessa hackas på då och då. Just nu har
-vi en Commodore 64, en Amiga A500 och en ZX Spectrum som står
-framme. I datorhallen står en del Sun workstationdatorer oanvända,
-och i displaymontern står några mindre maskiner.
+Stacken har retrodatorer och dessa hackas på då och då. Just nu har vi
+en Commodore 64 och en Amiga A500 Spectrum som står framme, och arbete
+för att dra igång en Sun workstation har påbörjat. I datorhallen står
+en del gammla maskiner, vissa i drift och vissa oanvända, och i
+displaymontern står några mindre maskiner.
 
 {{% 2split-end %}}
 
