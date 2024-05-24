@@ -52,7 +52,7 @@ Stacken har sedan en tid tillbaka ett system för registrering av inventarier ba
 Matrix är ett protokoll för federerade chattrum. Lite som en blandning av IRC och XMPP (Jabber). Stacken kör en egen så kallad "hemserver" av Matrix där alla medlemmar kan få ett konto. Stackens publika chattrum heter #stacken:stacken.kth.se
 
 ## [Jitsi Meet](https://meet.stacken.kth.se/)
-Stacken satte upp en Jitsi Meet en Stackentorsdag under CONVID-19 pandemin för att fortsätta kunna möts, även om virtuellt. Jitsi Meet är en tjänst för videokonferenser där man kan prata i grupp, dela skärmen eller se på video tillsammans.
+Stacken satte upp en Jitsi Meet en Stackentorsdag under COVID-19 pandemin för att fortsätta kunna möts, även om virtuellt. Jitsi Meet är en tjänst för videokonferenser där man kan prata i grupp, dela skärmen eller se på video tillsammans.
 
 {{% 2split-end %}}
 
