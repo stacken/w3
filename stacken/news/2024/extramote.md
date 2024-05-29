@@ -10,6 +10,11 @@ Protokoll från extramötet som uteslöt en medlem.
 
 <!-- TEASER_END -->
 
+# OBS!
+
+Denna kopia har dålt namnet på den uteslutna medlemmen. För mer info,
+kontakta styrelsen eller hitta pappers kopian i arkivlåda.
+
 # Föreningsmöte 2024-04-18
 
 Mötet öppnades 19:32.
@@ -44,8 +49,8 @@ Ahltorp, Jonas Vendel, Francisco Rocha
 
 ## Bekräftelse av styrelsens beslut om att utesluta en medlem
 
-Aran Nur uteslöts från Stacken av styrelsen och detta möte bekräftade
-det beslutet. Styrelsen anser att Aran har motverkat Stackens syfte
+[NAMN] uteslöts från Stacken av styrelsen och detta möte bekräftade
+det beslutet. Styrelsen anser att [NAMN] har motverkat Stackens syfte
 genom att göra andra medlemmar obekväma och skadat dess anseende genom
 att agera som representant för Stacken utan tillstånd.
 
@@ -53,9 +58,9 @@ Efter debatt bestämdes det att röstning skulle påbörjas.
 
 Votering genomfördes.
 
-Totala röster: 8 ja (uteslut Aran), 2 nej (uteslut ej Aran). Majoritet var för att utesluta Aran.
+Totala röster: 8 ja (uteslut [NAMN]), 2 nej (uteslut ej [NAMN]). Majoritet var för att utesluta [NAMN].
 
-Det beslutades att Aran utesluts från Stacken.
+Det beslutades att [NAMN] utesluts från Stacken.
 
 Francisco reserverade sig mot beslutet.
 
