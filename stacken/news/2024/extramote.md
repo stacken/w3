@@ -45,11 +45,9 @@ Ahltorp, Jonas Vendel, Francisco Rocha
 ## Bekräftelse av styrelsens beslut om att utesluta en medlem
 
 Aran Nur uteslöts från Stacken av styrelsen och detta möte bekräftade
-det beslutet. Enligt Stackens stadgar §8 får vi utesluta en medlem som
-motverkar föreningens syfte. Aran har gjort medlemmar obekväma genom
-att störa det sociala klimatet på nivån att medlemmar inte vill komma
-till lokalen när han är där. Han har också agerat bedrägligt gentemot
-en stor aktör i näringslivet.
+det beslutet. Styrelsen anser att Aran har motverkat Stackens syfte
+genom att göra andra medlemmar obekväma och skadat dess anseende genom
+att agera som representant för Stacken utan tillstånd.
 
 Efter debatt bestämdes det att röstning skulle påbörjas.
 
