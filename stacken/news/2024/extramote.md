@@ -45,7 +45,7 @@ Närvarande medlemmar med rösträtt:
 
 Hugo Ameln, Simon Sandblom, John Lorentzson, Stellan Lagerström,
 Martin Björnebro, Harald Barth, Olof Sjödin, Marcus Dicander, Magnus
-Ahltorp, Jonas Vendel, Francisco Rocha
+Ahltorp, Jonas Vendel, Francisco Manríquez
 
 ## Bekräftelse av styrelsens beslut om att utesluta en medlem
 
