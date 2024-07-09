@@ -126,4 +126,4 @@ webencodings==0.5.1
 websocket-client==1.6.4
 Yapsy==1.12.2
 yarl==1.9.2
-zipp==3.17.0
+zipp==3.19.1
