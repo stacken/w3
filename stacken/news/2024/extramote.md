@@ -12,7 +12,7 @@ Protokoll från extramötet som uteslöt en medlem.
 
 # OBS!
 
-Denna kopia har dålt namnet på den uteslutna medlemmen. För mer info,
+Denna kopia har dolt namnet på den uteslutna medlemmen. För mer info,
 kontakta styrelsen eller hitta pappers kopian i arkivlåda.
 
 # Föreningsmöte 2024-04-18
