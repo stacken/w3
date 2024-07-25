@@ -28,7 +28,6 @@ We are located on level 2 in the Q building. The location of our clubroom can be
 
 {{% 2split-middle %}}
 ![Photo of improvised hardware hack at Stacken](/images/stacken-surgery.jpg){: style="width: 100%" }
-<p> Photo by Janwikifoto </p>
 {{% 2split-end %}}
 
 {{% 2split-start %}}

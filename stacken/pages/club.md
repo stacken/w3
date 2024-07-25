@@ -32,7 +32,6 @@ Vi håller hus på plan 2 i Q-huset. [Du finner en karta här](https://www.kth.s
 
 {{% 2split-middle %}}
 ![Foto av improviserat hårdvaruhack på Stacken](/images/stacken-surgery.jpg){: style="width: 100%" }
-<p>Foto av Janwikifoto</p>
 {{% 2split-end %}}
 
 {{% 2split-start %}}
