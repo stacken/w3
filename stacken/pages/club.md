@@ -28,7 +28,7 @@ om du vill bli involverad i föreningen så rekommenderar jag att du
 läser på [undersidan funktionärer](officers).
 
 ## Hitta till Stacken
-Vi håller hus på plan 2 i Q-huset. [Du finner en karta här](https://www.kth.se/places/room/id/dff6aecb-9ad4-43dd-9682-0b0cd3bac131), för en mer precis beskrivning kan du läsa detta på [sidan hitta](/hitta).
+Vi håller hus på plan 2 i Q-huset. [Du finner en karta här](https://www.kth.se/places/room/id/dff6aecb-9ad4-43dd-9682-0b0cd3bac131), för en mer precis beskrivning kan du läsa detta på [sidan hitta](/find/).
 
 {{% 2split-middle %}}
 ![Foto av improviserat hårdvaruhack på Stacken](/images/stacken-surgery.jpg){: style="width: 100%" }
