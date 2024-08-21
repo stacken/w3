@@ -45,8 +45,8 @@ Föreningens syfte är att främja intresset för och vidga kunskaper inom
 datorområdet. Vad vi gör beror på vad våra aktiva medlemmar vill, det
 kan vara allt från föreläsningar och tävlingar till hjälp med svåra
 problem. Vi hostar även själva ett flertal tjänster i en egen
-datorhall. Vi har nyligen börjat programmera gamla hemdatorer som
-t.ex. en Commodore 64.
+datorhall. Några av oss har nyligen börjat programmera gamla
+hemdatorer som t.ex. en Commodore 64.
 
 ### Vad behöver jag kunna för att vara med?
 Inget, gå med och lär dig det du tycker är intressant. Det hjälper dock om du redan har ett stort datorintresse.
