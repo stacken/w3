@@ -49,6 +49,9 @@ We also self host and manage our own services in our datacenter.
 ### What do I need to know?
 Nothing, join us and learn. It helps if you already have a large interest in computers/software though.
 
+### How do I find the room?
+[See the "find us" page.](/find/)
+
 ### What about Swedish?
 No worries, we speak English.
 

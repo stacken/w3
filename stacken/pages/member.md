@@ -9,9 +9,9 @@
 ## Stacken
 Datorföreningen Stacken är en förening för studenter och anställda
 på KTH som funnit sedan 1978. Vi har i dag en lokal uppe i Q-huset
-här vi har ett rum med soffa, kyl, kök och så klart mycket datorer.
-Vi har även en serverhall där vi driftar ett flertal tjänster som
-fillagring, E-post, webbsidor m.m. Datorföreningen Stacken är också
+där vi har ett rum med soffa, kyl, kök och så klart mycket datorer.
+Vi har även en serverhall där vi driftar ett flertal tjänster så som
+fillagring, mejl, webbsidor m.m. Datorföreningen Stacken är också
 en kårförening inom THS, Tekniska Högskolans Studentkår.
 
 Föreningen har genom sina medlemmar mycket kunskap, vi är allt från
@@ -30,21 +30,29 @@ torsdag, det är bara och knacka på vår dörr på plan 2 i Q-huset.
 
 ## Medlemskap
 
-Medlemsavgiften 2024 är gratis för studenter som är THS-medlemmar,
-för övriga är den 124 kr. Vi föredrar att du betalar via
-PG 433 01 15-9. Var god och notera ditt användarnamn när du betalar.
-Betala inte medlemsavgiften innan du har fått veta att du är antagen
-som medlem.
+Medlemsavgiften är gratis för studenter som är THS-medlemmar, för
+övriga är den 124 kr. Vi föredrar att du betalar via PG 433 01
+15-9. Var god och notera ditt användarnamn när du betalar. Betala
+inte medlemsavgiften innan du har fått veta att du är antagen som
+medlem.
 
 Din ansökan kommer att behandlas vid nästa styrelsemöte.
 
 ## Vanliga frågor
 
 ### Vad gör ni?
-Föreningens syfte är att främja intresset för och vidga kunskaper inom datorområdet. Vad vi gör beror på vad våra aktiva medlemmar vill, det kan vara allt från föreläsningar och tävlingar till hjälp med svåra problem. Vi hostar även själva ett flertal tjänster i en egen datorhall.
+Föreningens syfte är att främja intresset för och vidga kunskaper inom
+datorområdet. Vad vi gör beror på vad våra aktiva medlemmar vill, det
+kan vara allt från föreläsningar och tävlingar till hjälp med svåra
+problem. Vi hostar även själva ett flertal tjänster i en egen
+datorhall. Vi har nyligen börjat programmera gamla hemdatorer som
+t.ex. en Commodore 64.
 
 ### Vad behöver jag kunna för att vara med?
 Inget, gå med och lär dig det du tycker är intressant. Det hjälper dock om du redan har ett stort datorintresse.
+
+### Hur hittar jag dit?
+[Se "hitta hit" sidan.](/find/)
 
 {{% 2split-end %}}
 
