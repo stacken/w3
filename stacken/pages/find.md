@@ -6,7 +6,7 @@
 
 {{% 2split-end %}}
 
-![](/images/map.png){: style="width: 100%" }
+![](/images/map.png){: style="width: 50%" }
 
 ![](/images/find01.jpg){: style="width: 100%" }
 
