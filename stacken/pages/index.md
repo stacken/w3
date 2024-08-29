@@ -12,7 +12,7 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Aktuellt på Stacken" %}}
 
-Torsdag 7 mars höll Stacken <a href="/news/2024/varmote-proto/">vårmöte</a>.</p>
+Torsdag 22 augusti deltog Stacken i kårens dag.</p>
 
 <p>Vi brukar träffas i vår föreningslokal på torsdagkvällar,
 en del av oss brukar äta först och dyka upp i lokalen frammåt 19:30.

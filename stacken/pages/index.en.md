@@ -6,9 +6,8 @@
 
 {{% jumbotron title="Currently at Stacken" %}}
 
-On Thursday, November 16:th 2023, stacken had
-<a href="/news/2023/hostmote/">fall meeting</a>, including election of
-the board for 2024.</p>
+On Thursday, August 22:th 2024, Stacken participated in THS's Union
+Day.</p>
 
 <p>We usually meet in our club room on thursday evenings around 19:30.
 
