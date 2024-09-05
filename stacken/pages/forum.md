@@ -50,6 +50,6 @@ XMPP
 : Stacken hade ett chattrum på KTHs XMPP-server.
 
 Sushi Zen
-: I minst 10 år brukade många medlemmar av Stacken äta middag på Sushi Zen på Torsdagar. Detta slutade 2024 när Zen stängde.
+: I minst 10 år brukade många medlemmar av Stacken äta middag på Sushi Zen på Torsdagar. Detta slutade 2024 när Zen stängde. Enligt en Google Maps recension var Sushi Zen den japanska ambassadens favoritrestaurangen.
 
 {{% 2split-end %}}
