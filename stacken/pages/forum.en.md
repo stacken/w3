@@ -26,7 +26,7 @@ Our club room is open all the days for members. Thursday evenings from 7 PM are 
 
 Non-members and guests are always welcome, we recommend that you contacts us in advance so we can make sure that someone is there to let you in.
 
-We are located on level 2 in the Q building. The location of our clubroom can be found [here](https://www.kth.se/places/room/id/dff6aecb-9ad4-43dd-9682-0b0cd3bac131). If you want a more detailed instruction you can find that on [this page](/en/hitta/).
+We are located on level 2 in the Q building. The location of our clubroom can be found [here](https://www.kth.se/places/room/id/dff6aecb-9ad4-43dd-9682-0b0cd3bac131). If you want a more detailed instruction you can find that on [this page](/find).
 
 
 # Archived forums
