@@ -54,7 +54,7 @@ Ordförande
 : Marcus Dicander <ordf@stacken.kth.se>
 
 Viceordförande
-: Martin Björnebro <mbjorne@kth.se>
+: Ada Björnebro <mbjorne@kth.se>
 
 Kassör 
 : Stellan Lagerström <kass@stacken.kth.se>

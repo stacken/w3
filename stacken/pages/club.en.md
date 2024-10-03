@@ -51,7 +51,7 @@ Chairman
 : Marcus Dicander <ordf@stacken.kth.se>
 
 Vice-chairman
-: Martin Björnebro <mbjorne@kth.se>
+: Ada Björnebro <mbjorne@kth.se>
 
 Treasurer
 : Stellan Lagerström <kass@stacken.kth.se>
