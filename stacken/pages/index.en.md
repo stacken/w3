@@ -6,8 +6,7 @@
 
 {{% jumbotron title="Currently at Stacken" %}}
 
-On Thursday, August 22:th 2024, Stacken participated in THS's Union
-Day.</p>
+On Thursday, November 14:th 2024, Stacken had 2024's autumn meeting.</p>
 
 <p>We usually meet in our club room on thursday evenings around 19:30.
 
