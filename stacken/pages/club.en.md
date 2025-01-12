@@ -45,13 +45,13 @@ You are always welcome to join us in our clubroom on Thursday from 7pm. Let us k
 
 {{% 2split-middle %}}
 
-## The board 2024
+## The board 2025
 
 Chairman
-: Marcus Dicander <ordf@stacken.kth.se>
+: Ada Björnebro <ordf@stacken.kth.se>
 
 Vice-chairman
-: Ada Björnebro <mbjorne@kth.se>
+: Hugo Ameln
 
 Treasurer
 : Stellan Lagerström <kass@stacken.kth.se>
@@ -60,7 +60,6 @@ Secretary
 : John Lorentzson <sekr@stacken.kth.se>
 
 Board Members
-: Hugo Ameln
 : Viktor Kryg
 
 {{% 2split-end %}}

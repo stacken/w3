@@ -48,13 +48,13 @@ KTH<br>
 Du är alltid välkommen förbi oss i vår lokal på torsdagar från 19 och frammåt. Men hör gärna av dig så det är någon som kan hjälpa dig på plats.
 
 {{% 2split-middle %}}
-## Styrelsen 2024
+## Styrelsen 2025
 
 Ordförande 
-: Marcus Dicander <ordf@stacken.kth.se>
+: Ada Björnebro <ordf@stacken.kth.se>
 
 Viceordförande
-: Ada Björnebro <mbjorne@kth.se>
+: Hugo Ameln
 
 Kassör 
 : Stellan Lagerström <kass@stacken.kth.se>
@@ -63,7 +63,6 @@ Sekreterare
 : John Lorentzson <sekr@stacken.kth.se>
 
 Ledamöter
-: Hugo Ameln
 : Viktor Kryg
 
 {{% 2split-end %}}
