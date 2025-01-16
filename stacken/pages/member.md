@@ -30,8 +30,8 @@ torsdag, det är bara och knacka på vår dörr på plan 2 i Q-huset.
 
 ## Medlemskap
 
-Medlemsavgiften är gratis för studenter som är THS-medlemmar, för
-övriga är den 124 kr. Vi föredrar att du betalar via PG 433 01
+Medlemsavgiften 2025 är gratis för studenter som är THS-medlemmar, för
+övriga är den 125 kr. Vi föredrar att du betalar via PG 433 01
 15-9. Var god och notera ditt användarnamn när du betalar. Betala
 inte medlemsavgiften innan du har fått veta att du är antagen som
 medlem.

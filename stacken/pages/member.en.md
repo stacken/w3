@@ -30,7 +30,7 @@ evening, knock at our door at the 2nd level in the Q-building.
 
 ## Membership
 
-In 2024 the the membership fee is 0 kr for THS member students, for the rest it is 124
+In 2025 the the membership fee is 0 kr for THS member students, for the rest it is 125
 SEK. We prefer it to be paid through Swedish PG 433 01 15-9. Please put
 your username (if you have one) in the payment note, and don't pay the fee until
 you have been notified of your status as a member!
