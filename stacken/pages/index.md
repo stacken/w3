@@ -12,7 +12,7 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Aktuellt på Stacken" %}}
 
-Torsdag 14 november hade Stacken höstmöte.</p>
+<a href="/news/2025/varmote/">Torsdag 13 februari har Stacken vårmöte.</a></p>
 
 <p>Vi brukar träffas i vår föreningslokal på torsdagkvällar,
 en del av oss brukar äta först och dyka upp i lokalen frammåt 19:30.

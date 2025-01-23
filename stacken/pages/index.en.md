@@ -6,7 +6,7 @@
 
 {{% jumbotron title="Currently at Stacken" %}}
 
-On Thursday, November 14:th 2024, Stacken had 2024's autumn meeting.</p>
+<a href="/en/news/2025/varmote/">On Thursday, February 13:th 2025, Stacken will have 2025's spring meeting.</a></p>
 
 <p>We usually meet in our club room on thursday evenings around 19:30.
 
