@@ -6,7 +6,7 @@
 .. category: 2024
 -->
 
-Jag (John Lorentzson), Rasmus Kaj och Martin Björnebro satt en kväll
+Jag (John Lorentzson), Rasmus Kaj och Ada Björnebro satt en kväll
 (2024-07-25) och pratade om några olika datorer som står i
 displaymontern i Stackens lokal, bland annat den svenska datorn
 Esselte 100 från cirka 1980. Sladdar saknades, men det var inte ett
