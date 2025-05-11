@@ -12,8 +12,6 @@ Most pages are translated to English, [click here for the English version](/en/)
 
 {{% jumbotron title="Aktuellt på Stacken" %}}
 
-<a href="/news/2025/varmote/">Torsdag 13 februari har Stacken vårmöte.</a></p>
-
 <p>Vi brukar träffas i vår föreningslokal på torsdagkvällar,
 en del av oss brukar äta först och dyka upp i lokalen frammåt 19:30.
 Vi finns också online, se <a href="/forum/">sidan om <em>forum</em></a>.
