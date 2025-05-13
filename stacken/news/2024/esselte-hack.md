@@ -34,7 +34,7 @@ problemet att faktiskt få in strömmen i maskinen.
 
 Som sagt hade vi inget bra 9 volt nätaggregat, så jag började gräva i
 batterilådan. Det fanns inga 9 volt batterier där, men det fanns några
-AA batterier (eller "LR6", som Martin insisterar att jag kallar
+AA batterier (eller "LR6", som Ada insisterar att jag kallar
 dem). Bra nog! Med 6 stycken batterier i hand var jag redo att sätta
 igång.
 
